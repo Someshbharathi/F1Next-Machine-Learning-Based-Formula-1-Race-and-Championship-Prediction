@@ -1,0 +1,479 @@
+season,round,race_name,date,driver_id,driver_code,driver_name,constructor_id,constructor,number,grid,position,points,laps,status,fastest_lap_rank,fastest_lap_speed
+2012,1,Australian Grand Prix,2012-03-18,button,BUT,Jenson Button,mclaren,McLaren,3,2,1,25,58,Finished,1,214.053
+2012,1,Australian Grand Prix,2012-03-18,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,6,2,18,58,Finished,2,213.503
+2012,1,Australian Grand Prix,2012-03-18,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,1,3,15,58,Finished,4,213.214
+2012,1,Australian Grand Prix,2012-03-18,webber,WEB,Mark Webber,red_bull,Red Bull,2,5,4,12,58,Finished,3,213.452
+2012,1,Australian Grand Prix,2012-03-18,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,12,5,10,58,Finished,7,211.469
+2012,1,Australian Grand Prix,2012-03-18,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,13,6,8,58,Finished,10,210.668
+2012,1,Australian Grand Prix,2012-03-18,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,17,7,6,58,Finished,11,210.346
+2012,1,Australian Grand Prix,2012-03-18,perez,PER,Sergio Pérez,sauber,Sauber,15,22,8,4,58,Finished,12,210.151
+2012,1,Australian Grand Prix,2012-03-18,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,10,9,2,58,Finished,8,210.733
+2012,1,Australian Grand Prix,2012-03-18,resta,DIR,Paul di Resta,force_india,Force India,11,15,10,1,58,Finished,9,210.703
+2012,1,Australian Grand Prix,2012-03-18,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,11,11,0,58,Finished,6,211.476
+2012,1,Australian Grand Prix,2012-03-18,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,7,12,0,58,Finished,14,209.948
+2012,1,Australian Grand Prix,2012-03-18,maldonado,MAL,Pastor Maldonado,williams,Williams,18,8,13,0,57,Accident,5,211.523
+2012,1,Australian Grand Prix,2012-03-18,glock,GLO,Timo Glock,marussia,Marussia,24,20,14,0,57,+1 Lap,19,202.548
+2012,1,Australian Grand Prix,2012-03-18,pic,PIC,Charles Pic,marussia,Marussia,25,21,15,0,53,+5 Laps,20,200.932
+2012,1,Australian Grand Prix,2012-03-18,bruno_senna,SEN,Bruno Senna,williams,Williams,19,14,16,0,52,Collision,13,210.123
+2012,1,Australian Grand Prix,2012-03-18,massa,MAS,Felipe Massa,ferrari,Ferrari,6,16,17,0,46,Collision,15,207.644
+2012,1,Australian Grand Prix,2012-03-18,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,18,18,0,38,Suspension,17,203.759
+2012,1,Australian Grand Prix,2012-03-18,petrov,PET,Vitaly Petrov,caterham,Caterham,21,19,19,0,34,Steering,16,204.806
+2012,1,Australian Grand Prix,2012-03-18,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,4,20,0,10,Gearbox,18,203.048
+2012,1,Australian Grand Prix,2012-03-18,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,3,21,0,1,Collision,,
+2012,1,Australian Grand Prix,2012-03-18,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,9,22,0,0,Collision,,
+2012,2,Malaysian Grand Prix,2012-03-25,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,8,1,25,56,Finished,7,196.250
+2012,2,Malaysian Grand Prix,2012-03-25,perez,PER,Sergio Pérez,sauber,Sauber,15,9,2,18,56,Finished,3,197.531
+2012,2,Malaysian Grand Prix,2012-03-25,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,1,3,15,56,Finished,6,196.523
+2012,2,Malaysian Grand Prix,2012-03-25,webber,WEB,Mark Webber,red_bull,Red Bull,2,4,4,12,56,Finished,2,197.539
+2012,2,Malaysian Grand Prix,2012-03-25,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,10,5,10,56,Finished,1,198.117
+2012,2,Malaysian Grand Prix,2012-03-25,bruno_senna,SEN,Bruno Senna,williams,Williams,19,13,6,8,56,Finished,5,196.785
+2012,2,Malaysian Grand Prix,2012-03-25,resta,DIR,Paul di Resta,force_india,Force India,11,14,7,6,56,Finished,10,195.983
+2012,2,Malaysian Grand Prix,2012-03-25,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,18,8,4,56,Finished,12,195.785
+2012,2,Malaysian Grand Prix,2012-03-25,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,16,9,2,56,Finished,15,195.304
+2012,2,Malaysian Grand Prix,2012-03-25,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,3,10,1,56,Finished,9,196.096
+2012,2,Malaysian Grand Prix,2012-03-25,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,5,11,0,56,Finished,4,196.905
+2012,2,Malaysian Grand Prix,2012-03-25,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,15,12,0,56,Finished,8,196.104
+2012,2,Malaysian Grand Prix,2012-03-25,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,7,13,0,56,Finished,11,195.898
+2012,2,Malaysian Grand Prix,2012-03-25,button,BUT,Jenson Button,mclaren,McLaren,3,2,14,0,56,Finished,14,195.443
+2012,2,Malaysian Grand Prix,2012-03-25,massa,MAS,Felipe Massa,ferrari,Ferrari,6,12,15,0,56,Finished,13,195.537
+2012,2,Malaysian Grand Prix,2012-03-25,petrov,PET,Vitaly Petrov,caterham,Caterham,21,19,16,0,55,+1 Lap,17,192.775
+2012,2,Malaysian Grand Prix,2012-03-25,glock,GLO,Timo Glock,marussia,Marussia,24,20,17,0,55,+1 Lap,20,190.486
+2012,2,Malaysian Grand Prix,2012-03-25,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,24,18,0,55,+1 Lap,18,192.237
+2012,2,Malaysian Grand Prix,2012-03-25,maldonado,MAL,Pastor Maldonado,williams,Williams,18,11,19,0,54,Engine,16,195.181
+2012,2,Malaysian Grand Prix,2012-03-25,pic,PIC,Charles Pic,marussia,Marussia,25,21,20,0,54,+2 Laps,21,190.384
+2012,2,Malaysian Grand Prix,2012-03-25,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,21,0,54,+2 Laps,22,188.414
+2012,2,Malaysian Grand Prix,2012-03-25,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,22,22,0,54,+2 Laps,23,187.820
+2012,2,Malaysian Grand Prix,2012-03-25,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,17,23,0,46,Retired,19,191.501
+2012,2,Malaysian Grand Prix,2012-03-25,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,6,24,0,3,Collision,24,155.333
+2012,3,Chinese Grand Prix,2012-04-15,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,1,1,25,56,Finished,8,194.356
+2012,3,Chinese Grand Prix,2012-04-15,button,BUT,Jenson Button,mclaren,McLaren,3,5,2,18,56,Finished,3,195.411
+2012,3,Chinese Grand Prix,2012-04-15,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,7,3,15,56,Finished,6,195.201
+2012,3,Chinese Grand Prix,2012-04-15,webber,WEB,Mark Webber,red_bull,Red Bull,2,6,4,12,56,Finished,5,195.279
+2012,3,Chinese Grand Prix,2012-04-15,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,11,5,10,56,Finished,7,195.063
+2012,3,Chinese Grand Prix,2012-04-15,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,10,6,8,56,Finished,11,194.062
+2012,3,Chinese Grand Prix,2012-04-15,bruno_senna,SEN,Bruno Senna,williams,Williams,19,14,7,6,56,Finished,16,193.731
+2012,3,Chinese Grand Prix,2012-04-15,maldonado,MAL,Pastor Maldonado,williams,Williams,18,13,8,4,56,Finished,4,195.294
+2012,3,Chinese Grand Prix,2012-04-15,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,9,9,2,56,Finished,12,194.001
+2012,3,Chinese Grand Prix,2012-04-15,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,3,10,1,56,Finished,1,196.314
+2012,3,Chinese Grand Prix,2012-04-15,perez,PER,Sergio Pérez,sauber,Sauber,15,8,11,0,56,Finished,10,194.156
+2012,3,Chinese Grand Prix,2012-04-15,resta,DIR,Paul di Resta,force_india,Force India,11,15,12,0,56,Finished,17,193.339
+2012,3,Chinese Grand Prix,2012-04-15,massa,MAS,Felipe Massa,ferrari,Ferrari,6,12,13,0,56,Finished,14,193.832
+2012,3,Chinese Grand Prix,2012-04-15,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,4,14,0,56,Finished,18,192.777
+2012,3,Chinese Grand Prix,2012-04-15,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,16,15,0,56,Finished,9,194.337
+2012,3,Chinese Grand Prix,2012-04-15,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,24,16,0,56,Finished,2,196.198
+2012,3,Chinese Grand Prix,2012-04-15,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,17,17,0,56,Finished,15,193.811
+2012,3,Chinese Grand Prix,2012-04-15,petrov,PET,Vitaly Petrov,caterham,Caterham,21,19,18,0,55,+1 Lap,19,191.664
+2012,3,Chinese Grand Prix,2012-04-15,glock,GLO,Timo Glock,marussia,Marussia,24,20,19,0,55,+1 Lap,21,190.987
+2012,3,Chinese Grand Prix,2012-04-15,pic,PIC,Charles Pic,marussia,Marussia,25,21,20,0,55,+1 Lap,20,191.224
+2012,3,Chinese Grand Prix,2012-04-15,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,22,21,0,55,+1 Lap,22,189.398
+2012,3,Chinese Grand Prix,2012-04-15,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,22,0,54,+2 Laps,23,188.806
+2012,3,Chinese Grand Prix,2012-04-15,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,18,23,0,53,+3 Laps,13,193.928
+2012,3,Chinese Grand Prix,2012-04-15,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,2,24,0,12,Wheel nut,24,188.490
+2012,4,Bahrain Grand Prix,2012-04-22,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,57,Finished,1,202.151
+2012,4,Bahrain Grand Prix,2012-04-22,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,11,2,18,57,Finished,5,200.617
+2012,4,Bahrain Grand Prix,2012-04-22,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,7,3,15,57,Finished,3,201.006
+2012,4,Bahrain Grand Prix,2012-04-22,webber,WEB,Mark Webber,red_bull,Red Bull,2,3,4,12,57,Finished,6,199.956
+2012,4,Bahrain Grand Prix,2012-04-22,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,5,5,10,57,Finished,10,198.646
+2012,4,Bahrain Grand Prix,2012-04-22,resta,DIR,Paul di Resta,force_india,Force India,11,10,6,8,57,Finished,18,198.056
+2012,4,Bahrain Grand Prix,2012-04-22,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,9,7,6,57,Finished,15,198.397
+2012,4,Bahrain Grand Prix,2012-04-22,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,2,8,4,57,Finished,7,199.351
+2012,4,Bahrain Grand Prix,2012-04-22,massa,MAS,Felipe Massa,ferrari,Ferrari,6,14,9,2,57,Finished,12,198.558
+2012,4,Bahrain Grand Prix,2012-04-22,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,22,10,1,57,Finished,13,198.548
+2012,4,Bahrain Grand Prix,2012-04-22,perez,PER,Sergio Pérez,sauber,Sauber,15,8,11,0,57,Finished,14,198.512
+2012,4,Bahrain Grand Prix,2012-04-22,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,13,12,0,57,Finished,17,198.177
+2012,4,Bahrain Grand Prix,2012-04-22,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,12,13,0,57,Finished,2,201.480
+2012,4,Bahrain Grand Prix,2012-04-22,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,17,14,0,57,Finished,4,200.737
+2012,4,Bahrain Grand Prix,2012-04-22,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,6,15,0,56,+1 Lap,8,199.005
+2012,4,Bahrain Grand Prix,2012-04-22,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,16,0,56,+1 Lap,16,198.191
+2012,4,Bahrain Grand Prix,2012-04-22,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,16,17,0,56,+1 Lap,19,197.917
+2012,4,Bahrain Grand Prix,2012-04-22,button,BUT,Jenson Button,mclaren,McLaren,3,4,18,0,55,Exhaust,9,198.714
+2012,4,Bahrain Grand Prix,2012-04-22,glock,GLO,Timo Glock,marussia,Marussia,24,23,19,0,55,+2 Laps,23,194.204
+2012,4,Bahrain Grand Prix,2012-04-22,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,20,20,0,55,+2 Laps,22,194.371
+2012,4,Bahrain Grand Prix,2012-04-22,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,24,21,0,55,+2 Laps,20,195.326
+2012,4,Bahrain Grand Prix,2012-04-22,bruno_senna,SEN,Bruno Senna,williams,Williams,19,15,22,0,54,Vibrations,11,198.631
+2012,4,Bahrain Grand Prix,2012-04-22,maldonado,MAL,Pastor Maldonado,williams,Williams,18,21,23,0,25,Puncture,21,195.073
+2012,4,Bahrain Grand Prix,2012-04-22,pic,PIC,Charles Pic,marussia,Marussia,25,19,24,0,24,Engine,24,191.916
+2012,5,Spanish Grand Prix,2012-05-13,maldonado,MAL,Pastor Maldonado,williams,Williams,18,1,1,25,66,Finished,6,190.635
+2012,5,Spanish Grand Prix,2012-05-13,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,2,2,18,66,Finished,3,191.761
+2012,5,Spanish Grand Prix,2012-05-13,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,4,3,15,66,Finished,2,192.758
+2012,5,Spanish Grand Prix,2012-05-13,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,3,4,12,66,Finished,1,194.295
+2012,5,Spanish Grand Prix,2012-05-13,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,9,5,10,66,Finished,8,189.857
+2012,5,Spanish Grand Prix,2012-05-13,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,7,6,8,66,Finished,4,190.935
+2012,5,Spanish Grand Prix,2012-05-13,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,6,7,6,66,Finished,7,190.107
+2012,5,Spanish Grand Prix,2012-05-13,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,24,8,4,66,Finished,18,188.465
+2012,5,Spanish Grand Prix,2012-05-13,button,BUT,Jenson Button,mclaren,McLaren,3,10,9,2,66,Finished,14,189.090
+2012,5,Spanish Grand Prix,2012-05-13,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,13,10,1,65,+1 Lap,17,188.478
+2012,5,Spanish Grand Prix,2012-05-13,webber,WEB,Mark Webber,red_bull,Red Bull,2,11,11,0,65,+1 Lap,5,190.741
+2012,5,Spanish Grand Prix,2012-05-13,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,14,12,0,65,+1 Lap,9,189.767
+2012,5,Spanish Grand Prix,2012-05-13,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,15,13,0,65,+1 Lap,12,189.169
+2012,5,Spanish Grand Prix,2012-05-13,resta,DIR,Paul di Resta,force_india,Force India,11,12,14,0,65,+1 Lap,10,189.756
+2012,5,Spanish Grand Prix,2012-05-13,massa,MAS,Felipe Massa,ferrari,Ferrari,6,16,15,0,65,+1 Lap,11,189.467
+2012,5,Spanish Grand Prix,2012-05-13,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,19,16,0,65,+1 Lap,15,188.897
+2012,5,Spanish Grand Prix,2012-05-13,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,17,0,65,+1 Lap,16,188.773
+2012,5,Spanish Grand Prix,2012-05-13,glock,GLO,Timo Glock,marussia,Marussia,24,21,18,0,64,+2 Laps,19,187.033
+2012,5,Spanish Grand Prix,2012-05-13,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,22,19,0,63,+3 Laps,20,184.718
+2012,5,Spanish Grand Prix,2012-05-13,perez,PER,Sergio Pérez,sauber,Sauber,15,5,20,0,37,Wheel nut,13,189.131
+2012,5,Spanish Grand Prix,2012-05-13,pic,PIC,Charles Pic,marussia,Marussia,25,20,21,0,35,Mechanical,22,183.879
+2012,5,Spanish Grand Prix,2012-05-13,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,22,0,22,Mechanical,24,180.381
+2012,5,Spanish Grand Prix,2012-05-13,bruno_senna,SEN,Bruno Senna,williams,Williams,19,17,23,0,12,Collision,23,182.505
+2012,5,Spanish Grand Prix,2012-05-13,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,8,24,0,12,Collision,21,183.973
+2012,6,Monaco Grand Prix,2012-05-27,webber,WEB,Mark Webber,red_bull,Red Bull,2,1,1,25,78,Finished,3,152.579
+2012,6,Monaco Grand Prix,2012-05-27,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,2,2,18,78,Finished,7,152.246
+2012,6,Monaco Grand Prix,2012-05-27,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,5,3,15,78,Finished,5,152.478
+2012,6,Monaco Grand Prix,2012-05-27,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,9,4,12,78,Finished,9,152.056
+2012,6,Monaco Grand Prix,2012-05-27,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,3,5,10,78,Finished,4,152.577
+2012,6,Monaco Grand Prix,2012-05-27,massa,MAS,Felipe Massa,ferrari,Ferrari,6,7,6,8,78,Finished,10,152.008
+2012,6,Monaco Grand Prix,2012-05-27,resta,DIR,Paul di Resta,force_india,Force India,11,14,7,6,78,Finished,17,150.757
+2012,6,Monaco Grand Prix,2012-05-27,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,10,8,4,78,Finished,2,153.322
+2012,6,Monaco Grand Prix,2012-05-27,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,8,9,2,78,Finished,12,151.730
+2012,6,Monaco Grand Prix,2012-05-27,bruno_senna,SEN,Bruno Senna,williams,Williams,19,13,10,1,78,Finished,11,151.843
+2012,6,Monaco Grand Prix,2012-05-27,perez,PER,Sergio Pérez,sauber,Sauber,15,23,11,0,77,+1 Lap,1,155.557
+2012,6,Monaco Grand Prix,2012-05-27,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,16,12,0,77,+1 Lap,8,152.177
+2012,6,Monaco Grand Prix,2012-05-27,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,17,13,0,77,+1 Lap,13,151.617
+2012,6,Monaco Grand Prix,2012-05-27,glock,GLO,Timo Glock,marussia,Marussia,24,19,14,0,77,+1 Lap,15,150.985
+2012,6,Monaco Grand Prix,2012-05-27,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,22,15,0,76,+2 Laps,19,149.764
+2012,6,Monaco Grand Prix,2012-05-27,button,BUT,Jenson Button,mclaren,McLaren,3,12,16,0,70,Collision,18,150.444
+2012,6,Monaco Grand Prix,2012-05-27,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,15,17,0,65,Retired,16,150.767
+2012,6,Monaco Grand Prix,2012-05-27,pic,PIC,Charles Pic,marussia,Marussia,25,21,18,0,64,Retired,14,151.047
+2012,6,Monaco Grand Prix,2012-05-27,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,6,19,0,63,Fuel pressure,6,152.387
+2012,6,Monaco Grand Prix,2012-05-27,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,20,0,15,Electrical,20,148.765
+2012,6,Monaco Grand Prix,2012-05-27,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,11,21,0,5,Accident,21,140.664
+2012,6,Monaco Grand Prix,2012-05-27,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,20,22,0,0,Accident,,
+2012,6,Monaco Grand Prix,2012-05-27,maldonado,MAL,Pastor Maldonado,williams,Williams,18,24,23,0,0,Accident,,
+2012,6,Monaco Grand Prix,2012-05-27,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,4,24,0,0,Accident,,
+2012,7,Canadian Grand Prix,2012-06-10,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,2,1,25,70,Finished,6,203.837
+2012,7,Canadian Grand Prix,2012-06-10,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,7,2,18,70,Finished,11,203.194
+2012,7,Canadian Grand Prix,2012-06-10,perez,PER,Sergio Pérez,sauber,Sauber,15,15,3,15,70,Finished,3,205.454
+2012,7,Canadian Grand Prix,2012-06-10,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,4,12,70,Finished,1,207.249
+2012,7,Canadian Grand Prix,2012-06-10,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,3,5,10,70,Finished,15,201.742
+2012,7,Canadian Grand Prix,2012-06-10,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,5,6,8,70,Finished,7,203.732
+2012,7,Canadian Grand Prix,2012-06-10,webber,WEB,Mark Webber,red_bull,Red Bull,2,4,7,6,70,Finished,8,203.544
+2012,7,Canadian Grand Prix,2012-06-10,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,12,8,4,70,Finished,5,204.517
+2012,7,Canadian Grand Prix,2012-06-10,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,11,9,2,70,Finished,12,202.669
+2012,7,Canadian Grand Prix,2012-06-10,massa,MAS,Felipe Massa,ferrari,Ferrari,6,6,10,1,70,Finished,2,206.080
+2012,7,Canadian Grand Prix,2012-06-10,resta,DIR,Paul di Resta,force_india,Force India,11,8,11,0,70,Finished,10,203.312
+2012,7,Canadian Grand Prix,2012-06-10,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,13,12,0,70,Finished,9,203.357
+2012,7,Canadian Grand Prix,2012-06-10,maldonado,MAL,Pastor Maldonado,williams,Williams,18,22,13,0,70,Finished,13,202.604
+2012,7,Canadian Grand Prix,2012-06-10,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,14,14,0,70,Finished,4,204.931
+2012,7,Canadian Grand Prix,2012-06-10,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,19,15,0,69,+1 Lap,17,201.600
+2012,7,Canadian Grand Prix,2012-06-10,button,BUT,Jenson Button,mclaren,McLaren,3,10,16,0,69,+1 Lap,16,201.682
+2012,7,Canadian Grand Prix,2012-06-10,bruno_senna,SEN,Bruno Senna,williams,Williams,19,16,17,0,69,+1 Lap,14,201.750
+2012,7,Canadian Grand Prix,2012-06-10,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,17,18,0,69,+1 Lap,19,200.947
+2012,7,Canadian Grand Prix,2012-06-10,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,19,0,69,+1 Lap,18,201.037
+2012,7,Canadian Grand Prix,2012-06-10,pic,PIC,Charles Pic,marussia,Marussia,25,23,20,0,69,+3 Laps,21,194.706
+2012,7,Canadian Grand Prix,2012-06-10,glock,GLO,Timo Glock,marussia,Marussia,24,21,21,0,56,Suspension,22,193.745
+2012,7,Canadian Grand Prix,2012-06-10,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,9,22,0,43,Rear wing,20,200.165
+2012,7,Canadian Grand Prix,2012-06-10,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,20,23,0,24,Brakes,23,192.550
+2012,7,Canadian Grand Prix,2012-06-10,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,24,24,0,22,Suspension,24,191.355
+2012,8,European Grand Prix,2012-06-24,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,11,1,25,57,Finished,5,188.185
+2012,8,European Grand Prix,2012-06-24,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,5,2,18,57,Finished,7,188.148
+2012,8,European Grand Prix,2012-06-24,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,12,3,15,57,Finished,3,189.220
+2012,8,European Grand Prix,2012-06-24,webber,WEB,Mark Webber,red_bull,Red Bull,2,19,4,12,57,Finished,2,189.923
+2012,8,European Grand Prix,2012-06-24,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,8,5,10,57,Finished,13,187.174
+2012,8,European Grand Prix,2012-06-24,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,6,6,8,57,Finished,1,190.953
+2012,8,European Grand Prix,2012-06-24,resta,DIR,Paul di Resta,force_india,Force India,11,10,7,6,57,Finished,11,187.398
+2012,8,European Grand Prix,2012-06-24,button,BUT,Jenson Button,mclaren,McLaren,3,9,8,4,57,Finished,17,186.138
+2012,8,European Grand Prix,2012-06-24,perez,PER,Sergio Pérez,sauber,Sauber,15,15,9,2,57,Finished,4,188.439
+2012,8,European Grand Prix,2012-06-24,bruno_senna,SEN,Bruno Senna,williams,Williams,19,14,10,1,57,Finished,12,187.380
+2012,8,European Grand Prix,2012-06-24,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,17,11,0,57,Finished,6,188.170
+2012,8,European Grand Prix,2012-06-24,maldonado,MAL,Pastor Maldonado,williams,Williams,18,3,12,0,57,Finished,10,187.465
+2012,8,European Grand Prix,2012-06-24,petrov,PET,Vitaly Petrov,caterham,Caterham,21,20,13,0,57,Finished,14,187.125
+2012,8,European Grand Prix,2012-06-24,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,16,14,0,57,Finished,19,185.275
+2012,8,European Grand Prix,2012-06-24,pic,PIC,Charles Pic,marussia,Marussia,25,23,15,0,57,Finished,22,182.832
+2012,8,European Grand Prix,2012-06-24,massa,MAS,Felipe Massa,ferrari,Ferrari,6,13,16,0,56,+1 Lap,15,186.806
+2012,8,European Grand Prix,2012-06-24,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,21,17,0,56,+1 Lap,23,182.664
+2012,8,European Grand Prix,2012-06-24,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,22,18,0,56,+1 Lap,21,183.370
+2012,8,European Grand Prix,2012-06-24,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,2,19,0,55,Collision,9,187.568
+2012,8,European Grand Prix,2012-06-24,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,4,20,0,40,Electronics,8,188.007
+2012,8,European Grand Prix,2012-06-24,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,21,0,33,Gearbox,16,186.585
+2012,8,European Grand Prix,2012-06-24,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,7,22,0,33,Collision,18,185.649
+2012,8,European Grand Prix,2012-06-24,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,18,23,0,26,Collision,20,184.929
+2012,8,European Grand Prix,2012-06-24,glock,GLO,Timo Glock,marussia,Marussia,24,0,24,0,0,Withdrew,,
+2012,9,British Grand Prix,2012-07-08,webber,WEB,Mark Webber,red_bull,Red Bull,2,2,1,25,52,Finished,4,223.393
+2012,9,British Grand Prix,2012-07-08,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,1,2,18,52,Finished,7,222.336
+2012,9,British Grand Prix,2012-07-08,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,4,3,15,52,Finished,3,223.480
+2012,9,British Grand Prix,2012-07-08,massa,MAS,Felipe Massa,ferrari,Ferrari,6,5,4,12,52,Finished,5,223.141
+2012,9,British Grand Prix,2012-07-08,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,6,5,10,52,Finished,1,224.037
+2012,9,British Grand Prix,2012-07-08,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,9,6,8,52,Finished,2,223.510
+2012,9,British Grand Prix,2012-07-08,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,3,7,6,52,Finished,6,222.789
+2012,9,British Grand Prix,2012-07-08,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,8,8,4,52,Finished,15,220.515
+2012,9,British Grand Prix,2012-07-08,bruno_senna,SEN,Bruno Senna,williams,Williams,19,13,9,2,52,Finished,12,221.228
+2012,9,British Grand Prix,2012-07-08,button,BUT,Jenson Button,mclaren,McLaren,3,16,10,1,52,Finished,14,220.714
+2012,9,British Grand Prix,2012-07-08,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,17,11,0,52,Finished,9,222.120
+2012,9,British Grand Prix,2012-07-08,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,14,12,0,52,Finished,13,220.956
+2012,9,British Grand Prix,2012-07-08,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,12,13,0,52,Finished,8,222.190
+2012,9,British Grand Prix,2012-07-08,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,23,14,0,52,Finished,10,222.036
+2012,9,British Grand Prix,2012-07-08,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,11,15,0,52,Finished,11,221.489
+2012,9,British Grand Prix,2012-07-08,maldonado,MAL,Pastor Maldonado,williams,Williams,18,7,16,0,51,+1 Lap,17,217.480
+2012,9,British Grand Prix,2012-07-08,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,19,17,0,51,+1 Lap,19,216.293
+2012,9,British Grand Prix,2012-07-08,glock,GLO,Timo Glock,marussia,Marussia,24,20,18,0,51,+1 Lap,16,217.687
+2012,9,British Grand Prix,2012-07-08,pic,PIC,Charles Pic,marussia,Marussia,25,24,19,0,51,+1 Lap,18,216.386
+2012,9,British Grand Prix,2012-07-08,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,21,20,0,50,+2 Laps,21,212.889
+2012,9,British Grand Prix,2012-07-08,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,22,21,0,50,+2 Laps,20,215.658
+2012,9,British Grand Prix,2012-07-08,perez,PER,Sergio Pérez,sauber,Sauber,15,15,22,0,11,Collision,22,212.541
+2012,9,British Grand Prix,2012-07-08,resta,DIR,Paul di Resta,force_india,Force India,11,10,23,0,2,Collision,,
+2012,9,British Grand Prix,2012-07-08,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,24,0,0,Engine,,
+2012,10,German Grand Prix,2012-07-22,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,1,1,25,67,Finished,2,208.319
+2012,10,German Grand Prix,2012-07-22,button,BUT,Jenson Button,mclaren,McLaren,3,6,2,18,67,Finished,8,207.205
+2012,10,German Grand Prix,2012-07-22,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,10,3,15,67,Finished,13,206.555
+2012,10,German Grand Prix,2012-07-22,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,12,4,12,67,Finished,9,207.163
+2012,10,German Grand Prix,2012-07-22,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,5,10,67,Finished,4,208.011
+2012,10,German Grand Prix,2012-07-22,perez,PER,Sergio Pérez,sauber,Sauber,15,17,6,8,67,Finished,6,207.725
+2012,10,German Grand Prix,2012-07-22,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,3,7,6,67,Finished,1,209.163
+2012,10,German Grand Prix,2012-07-22,webber,WEB,Mark Webber,red_bull,Red Bull,2,8,8,4,67,Finished,14,206.361
+2012,10,German Grand Prix,2012-07-22,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,4,9,2,67,Finished,7,207.458
+2012,10,German Grand Prix,2012-07-22,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,21,10,1,67,Finished,3,208.158
+2012,10,German Grand Prix,2012-07-22,resta,DIR,Paul di Resta,force_india,Force India,11,9,11,0,67,Finished,12,206.560
+2012,10,German Grand Prix,2012-07-22,massa,MAS,Felipe Massa,ferrari,Ferrari,6,13,12,0,67,Finished,5,207.843
+2012,10,German Grand Prix,2012-07-22,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,11,13,0,67,Finished,18,205.660
+2012,10,German Grand Prix,2012-07-22,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,15,14,0,67,Finished,11,206.747
+2012,10,German Grand Prix,2012-07-22,maldonado,MAL,Pastor Maldonado,williams,Williams,18,5,15,0,66,+1 Lap,10,206.846
+2012,10,German Grand Prix,2012-07-22,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,16,0,66,+1 Lap,16,205.837
+2012,10,German Grand Prix,2012-07-22,bruno_senna,SEN,Bruno Senna,williams,Williams,19,14,17,0,66,+1 Lap,15,206.103
+2012,10,German Grand Prix,2012-07-22,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,19,18,0,66,+1 Lap,17,205.796
+2012,10,German Grand Prix,2012-07-22,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,16,19,0,65,+2 Laps,20,204.307
+2012,10,German Grand Prix,2012-07-22,pic,PIC,Charles Pic,marussia,Marussia,25,20,20,0,65,+2 Laps,21,201.416
+2012,10,German Grand Prix,2012-07-22,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,23,21,0,64,+3 Laps,23,199.817
+2012,10,German Grand Prix,2012-07-22,glock,GLO,Timo Glock,marussia,Marussia,24,22,22,0,64,+3 Laps,24,198.922
+2012,10,German Grand Prix,2012-07-22,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,24,23,0,64,+3 Laps,22,201.330
+2012,10,German Grand Prix,2012-07-22,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,7,24,0,56,Puncture,19,205.596
+2012,11,Hungarian Grand Prix,2012-07-29,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,1,1,25,69,Finished,4,184.082
+2012,11,Hungarian Grand Prix,2012-07-29,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,5,2,18,69,Finished,6,183.972
+2012,11,Hungarian Grand Prix,2012-07-29,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,2,3,15,69,Finished,13,183.284
+2012,11,Hungarian Grand Prix,2012-07-29,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,4,12,69,Finished,1,187.453
+2012,11,Hungarian Grand Prix,2012-07-29,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,6,5,10,69,Finished,7,183.951
+2012,11,Hungarian Grand Prix,2012-07-29,button,BUT,Jenson Button,mclaren,McLaren,3,4,6,8,69,Finished,10,183.751
+2012,11,Hungarian Grand Prix,2012-07-29,bruno_senna,SEN,Bruno Senna,williams,Williams,19,9,7,6,69,Finished,16,182.863
+2012,11,Hungarian Grand Prix,2012-07-29,webber,WEB,Mark Webber,red_bull,Red Bull,2,11,8,4,69,Finished,3,184.674
+2012,11,Hungarian Grand Prix,2012-07-29,massa,MAS,Felipe Massa,ferrari,Ferrari,6,7,9,2,69,Finished,11,183.561
+2012,11,Hungarian Grand Prix,2012-07-29,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,13,10,1,69,Finished,9,183.753
+2012,11,Hungarian Grand Prix,2012-07-29,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,10,11,0,69,Finished,15,183.235
+2012,11,Hungarian Grand Prix,2012-07-29,resta,DIR,Paul di Resta,force_india,Force India,11,12,12,0,69,Finished,12,183.441
+2012,11,Hungarian Grand Prix,2012-07-29,maldonado,MAL,Pastor Maldonado,williams,Williams,18,8,13,0,69,Finished,5,183.983
+2012,11,Hungarian Grand Prix,2012-07-29,perez,PER,Sergio Pérez,sauber,Sauber,15,14,14,0,69,Finished,2,185.073
+2012,11,Hungarian Grand Prix,2012-07-29,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,18,15,0,68,+1 Lap,17,182.313
+2012,11,Hungarian Grand Prix,2012-07-29,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,16,16,0,68,+1 Lap,14,183.260
+2012,11,Hungarian Grand Prix,2012-07-29,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,19,17,0,68,+1 Lap,18,182.130
+2012,11,Hungarian Grand Prix,2012-07-29,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,15,18,0,67,+2 Laps,8,183.936
+2012,11,Hungarian Grand Prix,2012-07-29,petrov,PET,Vitaly Petrov,caterham,Caterham,21,20,19,0,67,+2 Laps,20,179.981
+2012,11,Hungarian Grand Prix,2012-07-29,pic,PIC,Charles Pic,marussia,Marussia,25,21,20,0,67,+2 Laps,22,177.754
+2012,11,Hungarian Grand Prix,2012-07-29,glock,GLO,Timo Glock,marussia,Marussia,24,22,21,0,66,+3 Laps,21,178.316
+2012,11,Hungarian Grand Prix,2012-07-29,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,23,22,0,66,+3 Laps,23,177.678
+2012,11,Hungarian Grand Prix,2012-07-29,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,24,23,0,60,Suspension,24,176.207
+2012,11,Hungarian Grand Prix,2012-07-29,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,17,24,0,58,+11 Laps,19,181.746
+2012,12,Belgian Grand Prix,2012-09-02,button,BUT,Jenson Button,mclaren,McLaren,3,1,1,25,44,Finished,10,220.611
+2012,12,Belgian Grand Prix,2012-09-02,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,10,2,18,44,Finished,9,220.795
+2012,12,Belgian Grand Prix,2012-09-02,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,3,3,15,44,Finished,5,221.879
+2012,12,Belgian Grand Prix,2012-09-02,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,11,4,12,44,Finished,6,221.645
+2012,12,Belgian Grand Prix,2012-09-02,massa,MAS,Felipe Massa,ferrari,Ferrari,6,14,5,10,44,Finished,3,222.223
+2012,12,Belgian Grand Prix,2012-09-02,webber,WEB,Mark Webber,red_bull,Red Bull,2,12,6,8,44,Finished,7,221.629
+2012,12,Belgian Grand Prix,2012-09-02,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,13,7,6,44,Finished,4,222.139
+2012,12,Belgian Grand Prix,2012-09-02,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,15,8,4,44,Finished,8,221.188
+2012,12,Belgian Grand Prix,2012-09-02,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,16,9,2,44,Finished,12,220.011
+2012,12,Belgian Grand Prix,2012-09-02,resta,DIR,Paul di Resta,force_india,Force India,11,9,10,1,44,Finished,11,220.093
+2012,12,Belgian Grand Prix,2012-09-02,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,23,11,0,44,Finished,2,222.992
+2012,12,Belgian Grand Prix,2012-09-02,bruno_senna,SEN,Bruno Senna,williams,Williams,19,17,12,0,44,Finished,1,223.488
+2012,12,Belgian Grand Prix,2012-09-02,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,2,13,0,44,Finished,13,218.121
+2012,12,Belgian Grand Prix,2012-09-02,petrov,PET,Vitaly Petrov,caterham,Caterham,21,19,14,0,43,+1 Lap,15,215.985
+2012,12,Belgian Grand Prix,2012-09-02,glock,GLO,Timo Glock,marussia,Marussia,24,20,15,0,43,+1 Lap,16,215.588
+2012,12,Belgian Grand Prix,2012-09-02,pic,PIC,Charles Pic,marussia,Marussia,25,22,16,0,43,+1 Lap,18,213.791
+2012,12,Belgian Grand Prix,2012-09-02,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,18,17,0,43,+1 Lap,14,216.479
+2012,12,Belgian Grand Prix,2012-09-02,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,21,18,0,43,+1 Lap,17,214.929
+2012,12,Belgian Grand Prix,2012-09-02,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,24,19,0,29,Spun off,19,211.684
+2012,12,Belgian Grand Prix,2012-09-02,maldonado,MAL,Pastor Maldonado,williams,Williams,18,6,20,0,4,Collision,20,143.116
+2012,12,Belgian Grand Prix,2012-09-02,perez,PER,Sergio Pérez,sauber,Sauber,15,4,21,0,0,Collision,,
+2012,12,Belgian Grand Prix,2012-09-02,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,5,22,0,0,Collision,,
+2012,12,Belgian Grand Prix,2012-09-02,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,7,23,0,0,Collision,,
+2012,12,Belgian Grand Prix,2012-09-02,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,8,24,0,0,Collision,,
+2012,13,Italian Grand Prix,2012-09-09,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,1,1,25,53,Finished,5,235.841
+2012,13,Italian Grand Prix,2012-09-09,perez,PER,Sergio Pérez,sauber,Sauber,15,12,2,18,53,Finished,2,238.171
+2012,13,Italian Grand Prix,2012-09-09,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,10,3,15,53,Finished,11,234.758
+2012,13,Italian Grand Prix,2012-09-09,massa,MAS,Felipe Massa,ferrari,Ferrari,6,3,4,12,53,Finished,12,234.550
+2012,13,Italian Grand Prix,2012-09-09,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,7,5,10,53,Finished,17,234.036
+2012,13,Italian Grand Prix,2012-09-09,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,4,6,8,53,Finished,3,237.748
+2012,13,Italian Grand Prix,2012-09-09,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,6,7,6,53,Finished,1,239.053
+2012,13,Italian Grand Prix,2012-09-09,resta,DIR,Paul di Resta,force_india,Force India,11,9,8,4,53,Finished,16,234.144
+2012,13,Italian Grand Prix,2012-09-09,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,8,9,2,53,Finished,14,234.239
+2012,13,Italian Grand Prix,2012-09-09,bruno_senna,SEN,Bruno Senna,williams,Williams,19,13,10,1,53,Finished,10,235.004
+2012,13,Italian Grand Prix,2012-09-09,maldonado,MAL,Pastor Maldonado,williams,Williams,18,22,11,0,53,Finished,4,236.843
+2012,13,Italian Grand Prix,2012-09-09,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,14,12,0,53,Finished,7,235.325
+2012,13,Italian Grand Prix,2012-09-09,ambrosio,DAM,Jérôme d'Ambrosio,lotus_f1,Lotus F1,10,15,13,0,53,Finished,8,235.177
+2012,13,Italian Grand Prix,2012-09-09,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,17,14,0,52,+1 Lap,19,233.277
+2012,13,Italian Grand Prix,2012-09-09,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,15,0,52,+1 Lap,15,234.149
+2012,13,Italian Grand Prix,2012-09-09,pic,PIC,Charles Pic,marussia,Marussia,25,20,16,0,52,+1 Lap,20,232.357
+2012,13,Italian Grand Prix,2012-09-09,glock,GLO,Timo Glock,marussia,Marussia,24,19,17,0,52,+1 Lap,21,232.008
+2012,13,Italian Grand Prix,2012-09-09,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,23,18,0,52,+1 Lap,22,230.699
+2012,13,Italian Grand Prix,2012-09-09,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,21,19,0,52,+1 Lap,23,228.957
+2012,13,Italian Grand Prix,2012-09-09,webber,WEB,Mark Webber,red_bull,Red Bull,2,11,20,0,51,Vibrations,18,233.792
+2012,13,Italian Grand Prix,2012-09-09,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,24,21,0,50,Brakes,6,235.439
+2012,13,Italian Grand Prix,2012-09-09,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,5,22,0,47,Alternator,9,235.081
+2012,13,Italian Grand Prix,2012-09-09,button,BUT,Jenson Button,mclaren,McLaren,3,2,23,0,32,Fuel pressure,13,234.518
+2012,13,Italian Grand Prix,2012-09-09,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,16,24,0,8,Suspension,24,226.776
+2012,14,Singapore Grand Prix,2012-09-23,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,1,25,59,Finished,3,162.865
+2012,14,Singapore Grand Prix,2012-09-23,button,BUT,Jenson Button,mclaren,McLaren,3,4,2,18,59,Finished,4,162.155
+2012,14,Singapore Grand Prix,2012-09-23,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,5,3,15,59,Finished,5,162.034
+2012,14,Singapore Grand Prix,2012-09-23,resta,DIR,Paul di Resta,force_india,Force India,11,6,4,12,59,Finished,7,161.716
+2012,14,Singapore Grand Prix,2012-09-23,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,10,5,10,59,Finished,12,160.344
+2012,14,Singapore Grand Prix,2012-09-23,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,12,6,8,59,Finished,11,160.502
+2012,14,Singapore Grand Prix,2012-09-23,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,8,7,6,59,Finished,14,160.027
+2012,14,Singapore Grand Prix,2012-09-23,massa,MAS,Felipe Massa,ferrari,Ferrari,6,13,8,4,59,Finished,13,160.204
+2012,14,Singapore Grand Prix,2012-09-23,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,15,9,2,59,Finished,15,159.825
+2012,14,Singapore Grand Prix,2012-09-23,perez,PER,Sergio Pérez,sauber,Sauber,15,14,10,1,59,Finished,6,161.935
+2012,14,Singapore Grand Prix,2012-09-23,webber,WEB,Mark Webber,red_bull,Red Bull,2,7,11,0,59,Finished,10,160.585
+2012,14,Singapore Grand Prix,2012-09-23,glock,GLO,Timo Glock,marussia,Marussia,24,20,12,0,59,Finished,21,157.360
+2012,14,Singapore Grand Prix,2012-09-23,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,17,13,0,59,Finished,2,163.513
+2012,14,Singapore Grand Prix,2012-09-23,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,11,14,0,59,Finished,1,164.480
+2012,14,Singapore Grand Prix,2012-09-23,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,19,15,0,59,Finished,18,158.485
+2012,14,Singapore Grand Prix,2012-09-23,pic,PIC,Charles Pic,marussia,Marussia,25,21,16,0,59,Finished,22,156.781
+2012,14,Singapore Grand Prix,2012-09-23,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,24,17,0,58,+1 Lap,23,155.202
+2012,14,Singapore Grand Prix,2012-09-23,bruno_senna,SEN,Bruno Senna,williams,Williams,19,22,18,0,57,Retired,9,160.749
+2012,14,Singapore Grand Prix,2012-09-23,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,19,0,57,+2 Laps,17,158.613
+2012,14,Singapore Grand Prix,2012-09-23,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,16,20,0,38,Collision,8,160.891
+2012,14,Singapore Grand Prix,2012-09-23,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,9,21,0,38,Collision,20,157.374
+2012,14,Singapore Grand Prix,2012-09-23,maldonado,MAL,Pastor Maldonado,williams,Williams,18,2,22,0,36,Hydraulics,16,158.641
+2012,14,Singapore Grand Prix,2012-09-23,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,23,0,30,Accident,24,154.107
+2012,14,Singapore Grand Prix,2012-09-23,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,1,24,0,22,Gearbox,19,158.063
+2012,15,Japanese Grand Prix,2012-10-07,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,53,Finished,1,218.276
+2012,15,Japanese Grand Prix,2012-10-07,massa,MAS,Felipe Massa,ferrari,Ferrari,6,10,2,18,53,Finished,5,215.753
+2012,15,Japanese Grand Prix,2012-10-07,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,3,3,15,53,Finished,3,216.233
+2012,15,Japanese Grand Prix,2012-10-07,button,BUT,Jenson Button,mclaren,McLaren,3,8,4,12,53,Finished,2,216.396
+2012,15,Japanese Grand Prix,2012-10-07,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,9,5,10,53,Finished,11,213.842
+2012,15,Japanese Grand Prix,2012-10-07,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,7,6,8,53,Finished,13,213.566
+2012,15,Japanese Grand Prix,2012-10-07,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,15,7,6,53,Finished,14,213.453
+2012,15,Japanese Grand Prix,2012-10-07,maldonado,MAL,Pastor Maldonado,williams,Williams,18,12,8,4,53,Finished,12,213.818
+2012,15,Japanese Grand Prix,2012-10-07,webber,WEB,Mark Webber,red_bull,Red Bull,2,2,9,2,53,Finished,7,215.233
+2012,15,Japanese Grand Prix,2012-10-07,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,14,10,1,53,Finished,8,214.511
+2012,15,Japanese Grand Prix,2012-10-07,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,23,11,0,53,Finished,6,215.646
+2012,15,Japanese Grand Prix,2012-10-07,resta,DIR,Paul di Resta,force_india,Force India,11,11,12,0,53,Finished,10,214.335
+2012,15,Japanese Grand Prix,2012-10-07,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,19,13,0,53,Finished,9,214.339
+2012,15,Japanese Grand Prix,2012-10-07,bruno_senna,SEN,Bruno Senna,williams,Williams,19,16,14,0,53,Finished,4,215.920
+2012,15,Japanese Grand Prix,2012-10-07,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,17,15,0,52,+1 Lap,15,213.224
+2012,15,Japanese Grand Prix,2012-10-07,glock,GLO,Timo Glock,marussia,Marussia,24,18,16,0,52,+1 Lap,18,211.685
+2012,15,Japanese Grand Prix,2012-10-07,petrov,PET,Vitaly Petrov,caterham,Caterham,21,22,17,0,52,+1 Lap,17,212.572
+2012,15,Japanese Grand Prix,2012-10-07,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,20,18,0,52,+1 Lap,20,210.417
+2012,15,Japanese Grand Prix,2012-10-07,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,4,19,0,51,+2 Laps,16,212.717
+2012,15,Japanese Grand Prix,2012-10-07,pic,PIC,Charles Pic,marussia,Marussia,25,21,20,0,37,Engine,21,208.026
+2012,15,Japanese Grand Prix,2012-10-07,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,24,21,0,32,Vibrations,22,206.190
+2012,15,Japanese Grand Prix,2012-10-07,perez,PER,Sergio Pérez,sauber,Sauber,15,5,22,0,18,Spun off,19,211.199
+2012,15,Japanese Grand Prix,2012-10-07,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,6,23,0,0,Collision,,
+2012,15,Japanese Grand Prix,2012-10-07,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,13,24,0,0,Collision,,
+2012,16,Korean Grand Prix,2012-10-14,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,1,25,55,Finished,5,197.211
+2012,16,Korean Grand Prix,2012-10-14,webber,WEB,Mark Webber,red_bull,Red Bull,2,1,2,18,55,Finished,1,198.104
+2012,16,Korean Grand Prix,2012-10-14,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,4,3,15,55,Finished,3,197.321
+2012,16,Korean Grand Prix,2012-10-14,massa,MAS,Felipe Massa,ferrari,Ferrari,6,6,4,12,55,Finished,2,197.707
+2012,16,Korean Grand Prix,2012-10-14,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,5,5,10,55,Finished,11,196.592
+2012,16,Korean Grand Prix,2012-10-14,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,8,6,8,55,Finished,6,196.931
+2012,16,Korean Grand Prix,2012-10-14,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,7,7,6,55,Finished,10,196.666
+2012,16,Korean Grand Prix,2012-10-14,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,16,8,4,55,Finished,8,196.785
+2012,16,Korean Grand Prix,2012-10-14,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,21,9,2,55,Finished,12,195.970
+2012,16,Korean Grand Prix,2012-10-14,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,3,10,1,55,Finished,9,196.785
+2012,16,Korean Grand Prix,2012-10-14,perez,PER,Sergio Pérez,sauber,Sauber,15,12,11,0,55,Finished,4,197.219
+2012,16,Korean Grand Prix,2012-10-14,resta,DIR,Paul di Resta,force_india,Force India,11,14,12,0,55,Finished,15,195.272
+2012,16,Korean Grand Prix,2012-10-14,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,10,13,0,55,Finished,13,195.902
+2012,16,Korean Grand Prix,2012-10-14,maldonado,MAL,Pastor Maldonado,williams,Williams,18,15,14,0,55,Finished,7,196.865
+2012,16,Korean Grand Prix,2012-10-14,bruno_senna,SEN,Bruno Senna,williams,Williams,19,17,15,0,55,Finished,14,195.472
+2012,16,Korean Grand Prix,2012-10-14,petrov,PET,Vitaly Petrov,caterham,Caterham,21,18,16,0,54,+1 Lap,18,192.490
+2012,16,Korean Grand Prix,2012-10-14,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,19,17,0,54,+1 Lap,17,192.596
+2012,16,Korean Grand Prix,2012-10-14,glock,GLO,Timo Glock,marussia,Marussia,24,20,18,0,54,+1 Lap,19,192.082
+2012,16,Korean Grand Prix,2012-10-14,pic,PIC,Charles Pic,marussia,Marussia,25,24,19,0,53,+2 Laps,16,193.505
+2012,16,Korean Grand Prix,2012-10-14,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,20,0,53,+2 Laps,21,188.795
+2012,16,Korean Grand Prix,2012-10-14,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,22,21,0,16,Throttle,22,183.996
+2012,16,Korean Grand Prix,2012-10-14,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,13,22,0,16,Collision damage,20,188.799
+2012,16,Korean Grand Prix,2012-10-14,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,9,23,0,1,Collision,,
+2012,16,Korean Grand Prix,2012-10-14,button,BUT,Jenson Button,mclaren,McLaren,3,11,24,0,0,Collision,,
+2012,17,Indian Grand Prix,2012-10-28,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,60,Finished,4,207.950
+2012,17,Indian Grand Prix,2012-10-28,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,5,2,18,60,Finished,3,208.168
+2012,17,Indian Grand Prix,2012-10-28,webber,WEB,Mark Webber,red_bull,Red Bull,2,2,3,15,60,Finished,6,207.235
+2012,17,Indian Grand Prix,2012-10-28,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,3,4,12,60,Finished,5,207.433
+2012,17,Indian Grand Prix,2012-10-28,button,BUT,Jenson Button,mclaren,McLaren,3,4,5,10,60,Finished,1,209.176
+2012,17,Indian Grand Prix,2012-10-28,massa,MAS,Felipe Massa,ferrari,Ferrari,6,6,6,8,60,Finished,11,206.646
+2012,17,Indian Grand Prix,2012-10-28,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,7,7,6,60,Finished,12,206.482
+2012,17,Indian Grand Prix,2012-10-28,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,12,8,4,60,Finished,10,206.769
+2012,17,Indian Grand Prix,2012-10-28,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,11,9,2,60,Finished,15,206.094
+2012,17,Indian Grand Prix,2012-10-28,bruno_senna,SEN,Bruno Senna,williams,Williams,19,13,10,1,60,Finished,2,208.637
+2012,17,Indian Grand Prix,2012-10-28,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,10,11,0,60,Finished,14,206.163
+2012,17,Indian Grand Prix,2012-10-28,resta,DIR,Paul di Resta,force_india,Force India,11,16,12,0,60,Finished,7,207.103
+2012,17,Indian Grand Prix,2012-10-28,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,15,13,0,60,Finished,13,206.283
+2012,17,Indian Grand Prix,2012-10-28,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,17,14,0,60,Finished,8,206.829
+2012,17,Indian Grand Prix,2012-10-28,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,18,15,0,59,+1 Lap,17,204.792
+2012,17,Indian Grand Prix,2012-10-28,maldonado,MAL,Pastor Maldonado,williams,Williams,18,9,16,0,59,+1 Lap,16,204.847
+2012,17,Indian Grand Prix,2012-10-28,petrov,PET,Vitaly Petrov,caterham,Caterham,21,19,17,0,59,+1 Lap,19,202.384
+2012,17,Indian Grand Prix,2012-10-28,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,20,18,0,59,+1 Lap,18,203.225
+2012,17,Indian Grand Prix,2012-10-28,pic,PIC,Charles Pic,marussia,Marussia,25,24,19,0,59,+1 Lap,20,201.935
+2012,17,Indian Grand Prix,2012-10-28,glock,GLO,Timo Glock,marussia,Marussia,24,21,20,0,58,+2 Laps,21,201.153
+2012,17,Indian Grand Prix,2012-10-28,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,21,0,58,+2 Laps,22,200.193
+2012,17,Indian Grand Prix,2012-10-28,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,14,22,0,55,Retired,9,206.769
+2012,17,Indian Grand Prix,2012-10-28,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,22,23,0,43,Accident,24,198.677
+2012,17,Indian Grand Prix,2012-10-28,perez,PER,Sergio Pérez,sauber,Sauber,15,8,24,0,21,Accident,23,200.091
+2012,18,Abu Dhabi Grand Prix,2012-11-04,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,4,1,25,55,Finished,3,191.410
+2012,18,Abu Dhabi Grand Prix,2012-11-04,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,6,2,18,55,Finished,2,192.087
+2012,18,Abu Dhabi Grand Prix,2012-11-04,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,24,3,15,55,Finished,1,192.320
+2012,18,Abu Dhabi Grand Prix,2012-11-04,button,BUT,Jenson Button,mclaren,McLaren,3,5,4,12,55,Finished,4,191.273
+2012,18,Abu Dhabi Grand Prix,2012-11-04,maldonado,MAL,Pastor Maldonado,williams,Williams,18,3,5,10,55,Finished,5,190.726
+2012,18,Abu Dhabi Grand Prix,2012-11-04,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,15,6,8,55,Finished,8,189.658
+2012,18,Abu Dhabi Grand Prix,2012-11-04,massa,MAS,Felipe Massa,ferrari,Ferrari,6,8,7,6,55,Finished,11,189.161
+2012,18,Abu Dhabi Grand Prix,2012-11-04,bruno_senna,SEN,Bruno Senna,williams,Williams,19,14,8,4,55,Finished,10,189.174
+2012,18,Abu Dhabi Grand Prix,2012-11-04,resta,DIR,Paul di Resta,force_india,Force India,11,12,9,2,55,Finished,9,189.310
+2012,18,Abu Dhabi Grand Prix,2012-11-04,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,16,10,1,55,Finished,12,188.799
+2012,18,Abu Dhabi Grand Prix,2012-11-04,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,13,11,0,55,Finished,6,190.015
+2012,18,Abu Dhabi Grand Prix,2012-11-04,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,17,12,0,55,Finished,13,188.425
+2012,18,Abu Dhabi Grand Prix,2012-11-04,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,18,13,0,55,Finished,15,186.662
+2012,18,Abu Dhabi Grand Prix,2012-11-04,glock,GLO,Timo Glock,marussia,Marussia,24,21,14,0,55,Finished,18,185.716
+2012,18,Abu Dhabi Grand Prix,2012-11-04,perez,PER,Sergio Pérez,sauber,Sauber,15,11,15,0,55,Finished,7,189.682
+2012,18,Abu Dhabi Grand Prix,2012-11-04,petrov,PET,Vitaly Petrov,caterham,Caterham,21,20,16,0,55,Finished,19,184.606
+2012,18,Abu Dhabi Grand Prix,2012-11-04,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,22,17,0,55,Finished,20,184.078
+2012,18,Abu Dhabi Grand Prix,2012-11-04,pic,PIC,Charles Pic,marussia,Marussia,25,19,18,0,41,Retired,21,183.302
+2012,18,Abu Dhabi Grand Prix,2012-11-04,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,9,19,0,37,Collision,17,185.958
+2012,18,Abu Dhabi Grand Prix,2012-11-04,webber,WEB,Mark Webber,red_bull,Red Bull,2,2,20,0,37,Collision,14,186.935
+2012,18,Abu Dhabi Grand Prix,2012-11-04,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,1,21,0,19,Electrical,16,186.400
+2012,18,Abu Dhabi Grand Prix,2012-11-04,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,22,0,7,Collision,23,178.142
+2012,18,Abu Dhabi Grand Prix,2012-11-04,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,7,23,0,7,Collision,22,182.864
+2012,18,Abu Dhabi Grand Prix,2012-11-04,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,10,24,0,0,Collision,,
+2012,19,United States Grand Prix,2012-11-18,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,2,1,25,56,Finished,5,199.047
+2012,19,United States Grand Prix,2012-11-18,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,2,18,56,Finished,1,199.772
+2012,19,United States Grand Prix,2012-11-18,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,7,3,15,56,Finished,4,199.121
+2012,19,United States Grand Prix,2012-11-18,massa,MAS,Felipe Massa,ferrari,Ferrari,6,11,4,12,56,Finished,2,199.661
+2012,19,United States Grand Prix,2012-11-18,button,BUT,Jenson Button,mclaren,McLaren,3,12,5,10,56,Finished,6,198.170
+2012,19,United States Grand Prix,2012-11-18,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,4,6,8,56,Finished,3,199.517
+2012,19,United States Grand Prix,2012-11-18,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,8,7,6,56,Finished,10,197.235
+2012,19,United States Grand Prix,2012-11-18,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,6,8,4,56,Finished,16,196.409
+2012,19,United States Grand Prix,2012-11-18,maldonado,MAL,Pastor Maldonado,williams,Williams,18,9,9,2,56,Finished,12,197.051
+2012,19,United States Grand Prix,2012-11-18,bruno_senna,SEN,Bruno Senna,williams,Williams,19,10,10,1,56,Finished,13,197.000
+2012,19,United States Grand Prix,2012-11-18,perez,PER,Sergio Pérez,sauber,Sauber,15,15,11,0,56,Finished,11,197.086
+2012,19,United States Grand Prix,2012-11-18,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,18,12,0,56,Finished,14,196.947
+2012,19,United States Grand Prix,2012-11-18,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,17,13,0,56,Finished,8,197.622
+2012,19,United States Grand Prix,2012-11-18,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,16,14,0,55,+1 Lap,7,197.844
+2012,19,United States Grand Prix,2012-11-18,resta,DIR,Paul di Resta,force_india,Force India,11,13,15,0,55,+1 Lap,9,197.296
+2012,19,United States Grand Prix,2012-11-18,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,5,16,0,55,+1 Lap,15,196.652
+2012,19,United States Grand Prix,2012-11-18,petrov,PET,Vitaly Petrov,caterham,Caterham,21,21,17,0,55,+1 Lap,18,193.017
+2012,19,United States Grand Prix,2012-11-18,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,22,18,0,55,+1 Lap,19,192.552
+2012,19,United States Grand Prix,2012-11-18,glock,GLO,Timo Glock,marussia,Marussia,24,19,19,0,55,+1 Lap,20,192.083
+2012,19,United States Grand Prix,2012-11-18,pic,PIC,Charles Pic,marussia,Marussia,25,20,20,0,54,+2 Laps,17,193.663
+2012,19,United States Grand Prix,2012-11-18,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,23,21,0,54,+2 Laps,23,189.623
+2012,19,United States Grand Prix,2012-11-18,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,24,22,0,54,+2 Laps,22,189.906
+2012,19,United States Grand Prix,2012-11-18,webber,WEB,Mark Webber,red_bull,Red Bull,2,3,23,0,16,Alternator,21,191.573
+2012,19,United States Grand Prix,2012-11-18,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,14,24,0,14,Suspension,24,189.423
+2012,20,Brazilian Grand Prix,2012-11-25,button,BUT,Jenson Button,mclaren,McLaren,3,2,1,25,71,Finished,2,198.601
+2012,20,Brazilian Grand Prix,2012-11-25,alonso,ALO,Fernando Alonso,ferrari,Ferrari,5,7,2,18,71,Finished,4,197.301
+2012,20,Brazilian Grand Prix,2012-11-25,massa,MAS,Felipe Massa,ferrari,Ferrari,6,5,3,15,71,Finished,5,196.660
+2012,20,Brazilian Grand Prix,2012-11-25,webber,WEB,Mark Webber,red_bull,Red Bull,2,3,4,12,71,Finished,6,196.600
+2012,20,Brazilian Grand Prix,2012-11-25,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,12,6,5,10,71,Finished,3,198.342
+2012,20,Brazilian Grand Prix,2012-11-25,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,4,6,8,71,Finished,9,196.136
+2012,20,Brazilian Grand Prix,2012-11-25,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,7,13,7,6,71,Finished,15,193.522
+2012,20,Brazilian Grand Prix,2012-11-25,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,17,17,8,4,71,Finished,8,196.401
+2012,20,Brazilian Grand Prix,2012-11-25,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,14,14,9,2,71,Finished,7,196.426
+2012,20,Brazilian Grand Prix,2012-11-25,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,9,8,10,1,70,+1 Lap,13,195.262
+2012,20,Brazilian Grand Prix,2012-11-25,petrov,PET,Vitaly Petrov,caterham,Caterham,21,19,11,0,70,+1 Lap,18,192.633
+2012,20,Brazilian Grand Prix,2012-11-25,pic,PIC,Charles Pic,marussia,Marussia,25,22,12,0,70,+1 Lap,17,193.156
+2012,20,Brazilian Grand Prix,2012-11-25,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,16,15,13,0,70,+1 Lap,11,195.596
+2012,20,Brazilian Grand Prix,2012-11-25,kovalainen,KOV,Heikki Kovalainen,caterham,Caterham,20,20,14,0,70,+1 Lap,10,195.725
+2012,20,Brazilian Grand Prix,2012-11-25,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,8,9,15,0,70,+1 Lap,16,193.262
+2012,20,Brazilian Grand Prix,2012-11-25,glock,GLO,Timo Glock,marussia,Marussia,24,21,16,0,70,+1 Lap,14,194.669
+2012,20,Brazilian Grand Prix,2012-11-25,rosa,DLR,Pedro de la Rosa,hrt,HRT,22,24,17,0,69,+2 Laps,19,191.310
+2012,20,Brazilian Grand Prix,2012-11-25,karthikeyan,KAR,Narain Karthikeyan,hrt,HRT,23,23,18,0,69,+2 Laps,20,190.233
+2012,20,Brazilian Grand Prix,2012-11-25,resta,DIR,Paul di Resta,force_india,Force India,11,10,19,0,68,Accident,12,195.582
+2012,20,Brazilian Grand Prix,2012-11-25,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,4,1,20,0,54,Collision,1,198.701
+2012,20,Brazilian Grand Prix,2012-11-25,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,10,18,21,0,5,Accident,21,188.752
+2012,20,Brazilian Grand Prix,2012-11-25,maldonado,MAL,Pastor Maldonado,williams,Williams,18,16,22,0,1,Collision,,
+2012,20,Brazilian Grand Prix,2012-11-25,bruno_senna,SEN,Bruno Senna,williams,Williams,19,11,23,0,0,Collision,,
+2012,20,Brazilian Grand Prix,2012-11-25,perez,PER,Sergio Pérez,sauber,Sauber,15,12,24,0,0,Collision,,

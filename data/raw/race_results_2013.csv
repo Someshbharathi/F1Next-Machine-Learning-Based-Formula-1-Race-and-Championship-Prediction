@@ -1,0 +1,419 @@
+season,round,race_name,date,driver_id,driver_code,driver_name,constructor_id,constructor,number,grid,position,points,laps,status,fastest_lap_rank,fastest_lap_speed
+2013,1,Australian Grand Prix,2013-03-17,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,7,1,25,58,Finished,1,213.845
+2013,1,Australian Grand Prix,2013-03-17,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,5,2,18,58,Finished,3,213.162
+2013,1,Australian Grand Prix,2013-03-17,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,3,15,58,Finished,10,211.160
+2013,1,Australian Grand Prix,2013-03-17,massa,MAS,Felipe Massa,ferrari,Ferrari,4,4,4,12,58,Finished,8,211.558
+2013,1,Australian Grand Prix,2013-03-17,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,3,5,10,58,Finished,5,212.689
+2013,1,Australian Grand Prix,2013-03-17,webber,WEB,Mark Webber,red_bull,Red Bull,2,2,6,8,58,Finished,4,212.753
+2013,1,Australian Grand Prix,2013-03-17,sutil,SUT,Adrian Sutil,force_india,Force India,15,12,7,6,58,Finished,13,210.459
+2013,1,Australian Grand Prix,2013-03-17,resta,DIR,Paul di Resta,force_india,Force India,14,9,8,4,58,Finished,15,210.033
+2013,1,Australian Grand Prix,2013-03-17,button,BUT,Jenson Button,mclaren,McLaren,5,10,9,2,58,Finished,7,211.654
+2013,1,Australian Grand Prix,2013-03-17,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,8,10,1,58,Finished,9,211.193
+2013,1,Australian Grand Prix,2013-03-17,perez,PER,Sergio Pérez,mclaren,McLaren,6,15,11,0,58,Finished,6,212.294
+2013,1,Australian Grand Prix,2013-03-17,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,13,12,0,58,Finished,2,213.309
+2013,1,Australian Grand Prix,2013-03-17,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,18,13,0,57,+1 Lap,16,208.836
+2013,1,Australian Grand Prix,2013-03-17,bottas,BOT,Valtteri Bottas,williams,Williams,17,16,14,0,57,+1 Lap,12,210.594
+2013,1,Australian Grand Prix,2013-03-17,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,15,0,57,+1 Lap,11,211.055
+2013,1,Australian Grand Prix,2013-03-17,pic,PIC,Charles Pic,caterham,Caterham,20,22,16,0,56,+2 Laps,19,206.921
+2013,1,Australian Grand Prix,2013-03-17,chilton,CHI,Max Chilton,marussia,Marussia,23,20,17,0,56,+2 Laps,17,207.036
+2013,1,Australian Grand Prix,2013-03-17,garde,VDG,Giedo van der Garde,caterham,Caterham,21,21,18,0,56,+2 Laps,20,206.084
+2013,1,Australian Grand Prix,2013-03-17,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,14,19,0,39,Hydraulics,14,210.063
+2013,1,Australian Grand Prix,2013-03-17,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,6,20,0,26,Electrical,18,206.926
+2013,1,Australian Grand Prix,2013-03-17,maldonado,MAL,Pastor Maldonado,williams,Williams,16,17,21,0,24,Spun off,21,205.465
+2013,1,Australian Grand Prix,2013-03-17,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,11,22,0,0,Fuel system,,
+2013,2,Malaysian Grand Prix,2013-03-24,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,56,Finished,3,198.661
+2013,2,Malaysian Grand Prix,2013-03-24,webber,WEB,Mark Webber,red_bull,Red Bull,2,5,2,18,56,Finished,6,198.190
+2013,2,Malaysian Grand Prix,2013-03-24,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,4,3,15,56,Finished,10,197.570
+2013,2,Malaysian Grand Prix,2013-03-24,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,6,4,12,56,Finished,8,198.052
+2013,2,Malaysian Grand Prix,2013-03-24,massa,MAS,Felipe Massa,ferrari,Ferrari,4,2,5,10,56,Finished,2,199.937
+2013,2,Malaysian Grand Prix,2013-03-24,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,11,6,8,56,Finished,11,197.131
+2013,2,Malaysian Grand Prix,2013-03-24,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,10,7,6,56,Finished,13,196.079
+2013,2,Malaysian Grand Prix,2013-03-24,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,12,8,4,56,Finished,7,198.107
+2013,2,Malaysian Grand Prix,2013-03-24,perez,PER,Sergio Pérez,mclaren,McLaren,6,9,9,2,56,Finished,1,201.159
+2013,2,Malaysian Grand Prix,2013-03-24,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,17,10,1,56,Finished,4,198.571
+2013,2,Malaysian Grand Prix,2013-03-24,bottas,BOT,Valtteri Bottas,williams,Williams,17,18,11,0,56,Finished,12,196.845
+2013,2,Malaysian Grand Prix,2013-03-24,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,14,12,0,55,+1 Lap,9,197.711
+2013,2,Malaysian Grand Prix,2013-03-24,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,13,0,55,+1 Lap,14,194.827
+2013,2,Malaysian Grand Prix,2013-03-24,pic,PIC,Charles Pic,caterham,Caterham,20,20,14,0,55,+1 Lap,17,193.845
+2013,2,Malaysian Grand Prix,2013-03-24,garde,VDG,Giedo van der Garde,caterham,Caterham,21,22,15,0,55,+1 Lap,20,193.441
+2013,2,Malaysian Grand Prix,2013-03-24,chilton,CHI,Max Chilton,marussia,Marussia,23,21,16,0,54,+2 Laps,19,193.454
+2013,2,Malaysian Grand Prix,2013-03-24,button,BUT,Jenson Button,mclaren,McLaren,5,7,17,0,53,Withdrew,5,198.444
+2013,2,Malaysian Grand Prix,2013-03-24,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,13,18,0,51,Retired,15,194.527
+2013,2,Malaysian Grand Prix,2013-03-24,maldonado,MAL,Pastor Maldonado,williams,Williams,16,16,19,0,45,Retired,21,192.865
+2013,2,Malaysian Grand Prix,2013-03-24,sutil,SUT,Adrian Sutil,force_india,Force India,15,8,20,0,27,Wheel nut,16,194.129
+2013,2,Malaysian Grand Prix,2013-03-24,resta,DIR,Paul di Resta,force_india,Force India,14,15,21,0,22,Wheel nut,18,193.559
+2013,2,Malaysian Grand Prix,2013-03-24,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,3,22,0,1,Collision,,
+2013,3,Chinese Grand Prix,2013-04-14,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,3,1,25,56,Finished,4,197.210
+2013,3,Chinese Grand Prix,2013-04-14,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,2,2,18,56,Finished,5,196.324
+2013,3,Chinese Grand Prix,2013-04-14,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,1,3,15,56,Finished,6,196.273
+2013,3,Chinese Grand Prix,2013-04-14,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,9,4,12,56,Finished,1,202.706
+2013,3,Chinese Grand Prix,2013-04-14,button,BUT,Jenson Button,mclaren,McLaren,5,8,5,10,56,Finished,2,200.122
+2013,3,Chinese Grand Prix,2013-04-14,massa,MAS,Felipe Massa,ferrari,Ferrari,4,5,6,8,56,Finished,10,195.680
+2013,3,Chinese Grand Prix,2013-04-14,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,7,7,6,56,Finished,9,195.766
+2013,3,Chinese Grand Prix,2013-04-14,resta,DIR,Paul di Resta,force_india,Force India,14,11,8,4,56,Finished,7,196.038
+2013,3,Chinese Grand Prix,2013-04-14,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,6,9,2,56,Finished,11,195.137
+2013,3,Chinese Grand Prix,2013-04-14,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,10,10,1,56,Finished,12,195.007
+2013,3,Chinese Grand Prix,2013-04-14,perez,PER,Sergio Pérez,mclaren,McLaren,6,12,11,0,56,Finished,14,193.754
+2013,3,Chinese Grand Prix,2013-04-14,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,15,12,0,56,Finished,8,195.965
+2013,3,Chinese Grand Prix,2013-04-14,bottas,BOT,Valtteri Bottas,williams,Williams,17,16,13,0,56,Finished,3,199.832
+2013,3,Chinese Grand Prix,2013-04-14,maldonado,MAL,Pastor Maldonado,williams,Williams,16,14,14,0,56,Finished,13,194.354
+2013,3,Chinese Grand Prix,2013-04-14,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,18,15,0,55,+1 Lap,15,193.265
+2013,3,Chinese Grand Prix,2013-04-14,pic,PIC,Charles Pic,caterham,Caterham,20,20,16,0,55,+1 Lap,17,192.393
+2013,3,Chinese Grand Prix,2013-04-14,chilton,CHI,Max Chilton,marussia,Marussia,23,19,17,0,55,+1 Lap,16,192.429
+2013,3,Chinese Grand Prix,2013-04-14,garde,VDG,Giedo van der Garde,caterham,Caterham,21,21,18,0,55,+1 Lap,18,191.717
+2013,3,Chinese Grand Prix,2013-04-14,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,4,19,0,21,Suspension,19,189.823
+2013,3,Chinese Grand Prix,2013-04-14,webber,WEB,Mark Webber,red_bull,Red Bull,2,22,20,0,15,Wheel,20,189.754
+2013,3,Chinese Grand Prix,2013-04-14,sutil,SUT,Adrian Sutil,force_india,Force India,15,13,21,0,5,Collision,21,188.223
+2013,3,Chinese Grand Prix,2013-04-14,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,17,22,0,4,Collision,22,187.292
+2013,4,Bahrain Grand Prix,2013-04-21,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,1,25,57,Finished,1,200.938
+2013,4,Bahrain Grand Prix,2013-04-21,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,8,2,18,57,Finished,8,198.476
+2013,4,Bahrain Grand Prix,2013-04-21,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,11,3,15,57,Finished,5,199.567
+2013,4,Bahrain Grand Prix,2013-04-21,resta,DIR,Paul di Resta,force_india,Force India,14,5,4,12,57,Finished,12,198.128
+2013,4,Bahrain Grand Prix,2013-04-21,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,9,5,10,57,Finished,11,198.395
+2013,4,Bahrain Grand Prix,2013-04-21,perez,PER,Sergio Pérez,mclaren,McLaren,6,12,6,8,57,Finished,7,198.984
+2013,4,Bahrain Grand Prix,2013-04-21,webber,WEB,Mark Webber,red_bull,Red Bull,2,7,7,6,57,Finished,13,197.684
+2013,4,Bahrain Grand Prix,2013-04-21,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,3,8,4,57,Finished,3,200.436
+2013,4,Bahrain Grand Prix,2013-04-21,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,1,9,2,57,Finished,4,199.647
+2013,4,Bahrain Grand Prix,2013-04-21,button,BUT,Jenson Button,mclaren,McLaren,5,10,10,1,57,Finished,6,199.330
+2013,4,Bahrain Grand Prix,2013-04-21,maldonado,MAL,Pastor Maldonado,williams,Williams,16,17,11,0,57,Finished,17,196.875
+2013,4,Bahrain Grand Prix,2013-04-21,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,14,12,0,57,Finished,15,197.258
+2013,4,Bahrain Grand Prix,2013-04-21,sutil,SUT,Adrian Sutil,force_india,Force India,15,6,13,0,57,Finished,2,200.712
+2013,4,Bahrain Grand Prix,2013-04-21,bottas,BOT,Valtteri Bottas,williams,Williams,17,15,14,0,57,Finished,9,198.419
+2013,4,Bahrain Grand Prix,2013-04-21,massa,MAS,Felipe Massa,ferrari,Ferrari,4,4,15,0,57,Finished,16,197.120
+2013,4,Bahrain Grand Prix,2013-04-21,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,13,16,0,56,+1 Lap,21,195.655
+2013,4,Bahrain Grand Prix,2013-04-21,pic,PIC,Charles Pic,caterham,Caterham,20,18,17,0,56,+1 Lap,20,195.720
+2013,4,Bahrain Grand Prix,2013-04-21,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,22,18,0,56,+1 Lap,10,198.399
+2013,4,Bahrain Grand Prix,2013-04-21,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,19,0,56,+1 Lap,14,197.286
+2013,4,Bahrain Grand Prix,2013-04-21,chilton,CHI,Max Chilton,marussia,Marussia,23,21,20,0,56,+1 Lap,18,196.246
+2013,4,Bahrain Grand Prix,2013-04-21,garde,VDG,Giedo van der Garde,caterham,Caterham,21,20,21,0,55,+2 Laps,19,196.138
+2013,4,Bahrain Grand Prix,2013-04-21,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,16,22,0,16,Puncture,22,188.960
+2013,5,Spanish Grand Prix,2013-05-12,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,5,1,25,66,Finished,5,193.329
+2013,5,Spanish Grand Prix,2013-05-12,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,4,2,18,66,Finished,6,193.160
+2013,5,Spanish Grand Prix,2013-05-12,massa,MAS,Felipe Massa,ferrari,Ferrari,4,9,3,15,66,Finished,2,193.971
+2013,5,Spanish Grand Prix,2013-05-12,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,4,12,66,Finished,9,192.541
+2013,5,Spanish Grand Prix,2013-05-12,webber,WEB,Mark Webber,red_bull,Red Bull,2,7,5,10,66,Finished,8,192.583
+2013,5,Spanish Grand Prix,2013-05-12,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,1,6,8,66,Finished,11,191.321
+2013,5,Spanish Grand Prix,2013-05-12,resta,DIR,Paul di Resta,force_india,Force India,14,10,7,6,66,Finished,7,193.117
+2013,5,Spanish Grand Prix,2013-05-12,button,BUT,Jenson Button,mclaren,McLaren,5,14,8,4,66,Finished,14,190.524
+2013,5,Spanish Grand Prix,2013-05-12,perez,PER,Sergio Pérez,mclaren,McLaren,6,8,9,2,66,Finished,10,192.066
+2013,5,Spanish Grand Prix,2013-05-12,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,11,10,1,65,+1 Lap,16,190.252
+2013,5,Spanish Grand Prix,2013-05-12,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,19,11,0,65,+1 Lap,1,194.370
+2013,5,Spanish Grand Prix,2013-05-12,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,2,12,0,65,+1 Lap,13,190.659
+2013,5,Spanish Grand Prix,2013-05-12,sutil,SUT,Adrian Sutil,force_india,Force India,15,13,13,0,65,+1 Lap,3,193.590
+2013,5,Spanish Grand Prix,2013-05-12,maldonado,MAL,Pastor Maldonado,williams,Williams,16,17,14,0,65,+1 Lap,12,190.759
+2013,5,Spanish Grand Prix,2013-05-12,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,15,15,0,65,+1 Lap,4,193.541
+2013,5,Spanish Grand Prix,2013-05-12,bottas,BOT,Valtteri Bottas,williams,Williams,17,16,16,0,65,+1 Lap,20,186.724
+2013,5,Spanish Grand Prix,2013-05-12,pic,PIC,Charles Pic,caterham,Caterham,20,22,17,0,65,+1 Lap,19,187.529
+2013,5,Spanish Grand Prix,2013-05-12,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,20,18,0,64,+2 Laps,18,188.537
+2013,5,Spanish Grand Prix,2013-05-12,chilton,CHI,Max Chilton,marussia,Marussia,23,21,19,0,64,+2 Laps,15,190.408
+2013,5,Spanish Grand Prix,2013-05-12,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,12,20,0,52,Accident,17,189.933
+2013,5,Spanish Grand Prix,2013-05-12,garde,VDG,Giedo van der Garde,caterham,Caterham,21,18,21,0,21,Wheel,21,184.973
+2013,5,Spanish Grand Prix,2013-05-12,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,6,22,0,8,Suspension,22,183.879
+2013,6,Monaco Grand Prix,2013-05-26,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,1,1,25,78,Finished,6,153.510
+2013,6,Monaco Grand Prix,2013-05-26,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,2,18,78,Finished,1,157.018
+2013,6,Monaco Grand Prix,2013-05-26,webber,WEB,Mark Webber,red_bull,Red Bull,2,4,3,15,78,Finished,4,153.637
+2013,6,Monaco Grand Prix,2013-05-26,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,2,4,12,78,Finished,3,153.891
+2013,6,Monaco Grand Prix,2013-05-26,sutil,SUT,Adrian Sutil,force_india,Force India,15,8,5,10,78,Finished,5,153.578
+2013,6,Monaco Grand Prix,2013-05-26,button,BUT,Jenson Button,mclaren,McLaren,5,9,6,8,78,Finished,8,152.743
+2013,6,Monaco Grand Prix,2013-05-26,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,6,7,6,78,Finished,12,151.550
+2013,6,Monaco Grand Prix,2013-05-26,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,10,8,4,78,Finished,10,151.912
+2013,6,Monaco Grand Prix,2013-05-26,resta,DIR,Paul di Resta,force_india,Force India,14,17,9,2,78,Finished,11,151.789
+2013,6,Monaco Grand Prix,2013-05-26,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,5,10,1,78,Finished,2,155.364
+2013,6,Monaco Grand Prix,2013-05-26,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,11,11,0,78,Finished,15,150.576
+2013,6,Monaco Grand Prix,2013-05-26,bottas,BOT,Valtteri Bottas,williams,Williams,17,14,12,0,78,Finished,20,148.589
+2013,6,Monaco Grand Prix,2013-05-26,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,19,13,0,78,Finished,7,152.811
+2013,6,Monaco Grand Prix,2013-05-26,chilton,CHI,Max Chilton,marussia,Marussia,23,22,14,0,78,Finished,9,152.171
+2013,6,Monaco Grand Prix,2013-05-26,garde,VDG,Giedo van der Garde,caterham,Caterham,21,15,15,0,78,Finished,17,149.377
+2013,6,Monaco Grand Prix,2013-05-26,perez,PER,Sergio Pérez,mclaren,McLaren,6,7,16,0,72,Suspension,14,151.188
+2013,6,Monaco Grand Prix,2013-05-26,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,13,17,0,63,Collision,21,148.501
+2013,6,Monaco Grand Prix,2013-05-26,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,12,18,0,61,Collision,13,151.386
+2013,6,Monaco Grand Prix,2013-05-26,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,20,19,0,58,Brakes,18,149.149
+2013,6,Monaco Grand Prix,2013-05-26,maldonado,MAL,Pastor Maldonado,williams,Williams,16,16,20,0,44,Collision,19,148.662
+2013,6,Monaco Grand Prix,2013-05-26,massa,MAS,Felipe Massa,ferrari,Ferrari,4,21,21,0,28,Accident,16,150.179
+2013,6,Monaco Grand Prix,2013-05-26,pic,PIC,Charles Pic,caterham,Caterham,20,18,22,0,7,Gearbox,22,145.266
+2013,7,Canadian Grand Prix,2013-06-09,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,70,Finished,5,205.060
+2013,7,Canadian Grand Prix,2013-06-09,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,6,2,18,70,Finished,2,206.023
+2013,7,Canadian Grand Prix,2013-06-09,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,2,3,15,70,Finished,3,205.615
+2013,7,Canadian Grand Prix,2013-06-09,webber,WEB,Mark Webber,red_bull,Red Bull,2,5,4,12,70,Finished,1,206.080
+2013,7,Canadian Grand Prix,2013-06-09,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,4,5,10,70,Finished,4,205.132
+2013,7,Canadian Grand Prix,2013-06-09,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,7,6,8,69,+1 Lap,13,201.512
+2013,7,Canadian Grand Prix,2013-06-09,resta,DIR,Paul di Resta,force_india,Force India,14,17,7,6,69,+1 Lap,12,201.688
+2013,7,Canadian Grand Prix,2013-06-09,massa,MAS,Felipe Massa,ferrari,Ferrari,4,16,8,4,69,+1 Lap,6,204.052
+2013,7,Canadian Grand Prix,2013-06-09,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,10,9,2,69,+1 Lap,11,201.882
+2013,7,Canadian Grand Prix,2013-06-09,sutil,SUT,Adrian Sutil,force_india,Force India,15,8,10,1,69,+1 Lap,10,202.069
+2013,7,Canadian Grand Prix,2013-06-09,perez,PER,Sergio Pérez,mclaren,McLaren,6,12,11,0,69,+1 Lap,7,202.918
+2013,7,Canadian Grand Prix,2013-06-09,button,BUT,Jenson Button,mclaren,McLaren,5,14,12,0,69,+1 Lap,8,202.685
+2013,7,Canadian Grand Prix,2013-06-09,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,22,13,0,69,+1 Lap,9,202.296
+2013,7,Canadian Grand Prix,2013-06-09,bottas,BOT,Valtteri Bottas,williams,Williams,17,3,14,0,69,+1 Lap,14,201.266
+2013,7,Canadian Grand Prix,2013-06-09,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,11,15,0,68,+2 Laps,16,200.615
+2013,7,Canadian Grand Prix,2013-06-09,maldonado,MAL,Pastor Maldonado,williams,Williams,16,13,16,0,68,+2 Laps,15,201.006
+2013,7,Canadian Grand Prix,2013-06-09,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,17,0,68,+2 Laps,17,199.049
+2013,7,Canadian Grand Prix,2013-06-09,pic,PIC,Charles Pic,caterham,Caterham,20,18,18,0,67,+3 Laps,19,197.777
+2013,7,Canadian Grand Prix,2013-06-09,chilton,CHI,Max Chilton,marussia,Marussia,23,20,19,0,67,+3 Laps,21,197.315
+2013,7,Canadian Grand Prix,2013-06-09,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,15,20,0,63,Accident,20,197.533
+2013,7,Canadian Grand Prix,2013-06-09,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,9,21,0,45,Collision,18,198.588
+2013,7,Canadian Grand Prix,2013-06-09,garde,VDG,Giedo van der Garde,caterham,Caterham,21,21,22,0,43,Collision,22,191.900
+2013,8,British Grand Prix,2013-06-30,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,2,1,25,52,Finished,2,226.744
+2013,8,British Grand Prix,2013-06-30,webber,WEB,Mark Webber,red_bull,Red Bull,2,4,2,18,52,Finished,1,227.059
+2013,8,British Grand Prix,2013-06-30,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,9,3,15,52,Finished,3,225.396
+2013,8,British Grand Prix,2013-06-30,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,1,4,12,52,Finished,4,225.231
+2013,8,British Grand Prix,2013-06-30,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,8,5,10,52,Finished,8,222.339
+2013,8,British Grand Prix,2013-06-30,massa,MAS,Felipe Massa,ferrari,Ferrari,4,11,6,8,52,Finished,6,222.598
+2013,8,British Grand Prix,2013-06-30,sutil,SUT,Adrian Sutil,force_india,Force India,15,6,7,6,52,Finished,12,221.002
+2013,8,British Grand Prix,2013-06-30,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,5,8,4,52,Finished,11,221.080
+2013,8,British Grand Prix,2013-06-30,resta,DIR,Paul di Resta,force_india,Force India,14,21,9,2,52,Finished,7,222.465
+2013,8,British Grand Prix,2013-06-30,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,14,10,1,52,Finished,13,220.882
+2013,8,British Grand Prix,2013-06-30,maldonado,MAL,Pastor Maldonado,williams,Williams,16,15,11,0,52,Finished,10,221.126
+2013,8,British Grand Prix,2013-06-30,bottas,BOT,Valtteri Bottas,williams,Williams,17,16,12,0,52,Finished,15,220.196
+2013,8,British Grand Prix,2013-06-30,button,BUT,Jenson Button,mclaren,McLaren,5,10,13,0,52,Finished,16,220.096
+2013,8,British Grand Prix,2013-06-30,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,17,14,0,52,Finished,17,219.906
+2013,8,British Grand Prix,2013-06-30,pic,PIC,Charles Pic,caterham,Caterham,20,18,15,0,52,Finished,18,218.430
+2013,8,British Grand Prix,2013-06-30,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,16,0,52,Finished,19,216.452
+2013,8,British Grand Prix,2013-06-30,chilton,CHI,Max Chilton,marussia,Marussia,23,20,17,0,52,Finished,22,213.881
+2013,8,British Grand Prix,2013-06-30,garde,VDG,Giedo van der Garde,caterham,Caterham,21,22,18,0,52,Finished,21,214.821
+2013,8,British Grand Prix,2013-06-30,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,7,19,0,51,Retired,9,221.804
+2013,8,British Grand Prix,2013-06-30,perez,PER,Sergio Pérez,mclaren,McLaren,6,13,20,0,46,Wheel,14,220.611
+2013,8,British Grand Prix,2013-06-30,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,21,0,41,Gearbox,5,223.195
+2013,8,British Grand Prix,2013-06-30,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,12,22,0,35,Tyre,20,215.590
+2013,9,German Grand Prix,2013-07-07,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,1,25,60,Finished,5,196.814
+2013,9,German Grand Prix,2013-07-07,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,4,2,18,60,Finished,2,197.647
+2013,9,German Grand Prix,2013-07-07,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,5,3,15,60,Finished,10,195.956
+2013,9,German Grand Prix,2013-07-07,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,8,4,12,60,Finished,1,198.279
+2013,9,German Grand Prix,2013-07-07,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,1,5,10,60,Finished,4,196.830
+2013,9,German Grand Prix,2013-07-07,button,BUT,Jenson Button,mclaren,McLaren,5,9,6,8,60,Finished,7,196.736
+2013,9,German Grand Prix,2013-07-07,webber,WEB,Mark Webber,red_bull,Red Bull,2,3,7,6,60,Finished,11,195.530
+2013,9,German Grand Prix,2013-07-07,perez,PER,Sergio Pérez,mclaren,McLaren,6,13,8,4,60,Finished,15,192.780
+2013,9,German Grand Prix,2013-07-07,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,11,9,2,60,Finished,6,196.778
+2013,9,German Grand Prix,2013-07-07,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,10,10,1,60,Finished,8,196.647
+2013,9,German Grand Prix,2013-07-07,resta,DIR,Paul di Resta,force_india,Force India,14,12,11,0,60,Finished,16,191.918
+2013,9,German Grand Prix,2013-07-07,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,6,12,0,60,Finished,14,193.086
+2013,9,German Grand Prix,2013-07-07,sutil,SUT,Adrian Sutil,force_india,Force India,15,15,13,0,60,Finished,13,193.420
+2013,9,German Grand Prix,2013-07-07,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,14,14,0,60,Finished,12,193.469
+2013,9,German Grand Prix,2013-07-07,maldonado,MAL,Pastor Maldonado,williams,Williams,16,18,15,0,60,Finished,9,196.544
+2013,9,German Grand Prix,2013-07-07,bottas,BOT,Valtteri Bottas,williams,Williams,17,17,16,0,59,+1 Lap,3,197.216
+2013,9,German Grand Prix,2013-07-07,pic,PIC,Charles Pic,caterham,Caterham,20,22,17,0,59,+1 Lap,17,189.916
+2013,9,German Grand Prix,2013-07-07,garde,VDG,Giedo van der Garde,caterham,Caterham,21,20,18,0,59,+1 Lap,19,188.133
+2013,9,German Grand Prix,2013-07-07,chilton,CHI,Max Chilton,marussia,Marussia,23,21,19,0,59,+1 Lap,18,188.374
+2013,9,German Grand Prix,2013-07-07,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,16,20,0,22,Hydraulics,21,186.670
+2013,9,German Grand Prix,2013-07-07,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,21,0,21,Engine,22,185.617
+2013,9,German Grand Prix,2013-07-07,massa,MAS,Felipe Massa,ferrari,Ferrari,4,7,22,0,3,Spun off,20,187.408
+2013,10,Hungarian Grand Prix,2013-07-28,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,1,1,25,70,Finished,3,186.322
+2013,10,Hungarian Grand Prix,2013-07-28,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,6,2,18,70,Finished,6,184.982
+2013,10,Hungarian Grand Prix,2013-07-28,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,3,15,70,Finished,2,186.529
+2013,10,Hungarian Grand Prix,2013-07-28,webber,WEB,Mark Webber,red_bull,Red Bull,2,10,4,12,70,Finished,1,187.603
+2013,10,Hungarian Grand Prix,2013-07-28,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,5,5,10,70,Finished,8,184.692
+2013,10,Hungarian Grand Prix,2013-07-28,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,3,6,8,70,Finished,7,184.834
+2013,10,Hungarian Grand Prix,2013-07-28,button,BUT,Jenson Button,mclaren,McLaren,5,13,7,6,70,Finished,11,182.975
+2013,10,Hungarian Grand Prix,2013-07-28,massa,MAS,Felipe Massa,ferrari,Ferrari,4,7,8,4,70,Finished,5,185.164
+2013,10,Hungarian Grand Prix,2013-07-28,perez,PER,Sergio Pérez,mclaren,McLaren,6,9,9,2,69,+1 Lap,10,183.086
+2013,10,Hungarian Grand Prix,2013-07-28,maldonado,MAL,Pastor Maldonado,williams,Williams,16,15,10,1,69,+1 Lap,9,184.254
+2013,10,Hungarian Grand Prix,2013-07-28,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,12,11,0,69,+1 Lap,14,181.826
+2013,10,Hungarian Grand Prix,2013-07-28,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,14,12,0,69,+1 Lap,12,182.349
+2013,10,Hungarian Grand Prix,2013-07-28,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,8,13,0,69,+1 Lap,15,181.568
+2013,10,Hungarian Grand Prix,2013-07-28,garde,VDG,Giedo van der Garde,caterham,Caterham,21,20,14,0,68,+2 Laps,17,180.302
+2013,10,Hungarian Grand Prix,2013-07-28,pic,PIC,Charles Pic,caterham,Caterham,20,19,15,0,68,+2 Laps,18,179.784
+2013,10,Hungarian Grand Prix,2013-07-28,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,21,16,0,67,+3 Laps,20,178.715
+2013,10,Hungarian Grand Prix,2013-07-28,chilton,CHI,Max Chilton,marussia,Marussia,23,22,17,0,67,+3 Laps,19,178.897
+2013,10,Hungarian Grand Prix,2013-07-28,resta,DIR,Paul di Resta,force_india,Force India,14,18,18,0,66,Hydraulics,13,182.103
+2013,10,Hungarian Grand Prix,2013-07-28,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,4,19,0,64,Engine,4,185.354
+2013,10,Hungarian Grand Prix,2013-07-28,bottas,BOT,Valtteri Bottas,williams,Williams,17,16,20,0,42,Hydraulics,16,181.018
+2013,10,Hungarian Grand Prix,2013-07-28,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,17,21,0,28,Transmission,22,176.940
+2013,10,Hungarian Grand Prix,2013-07-28,sutil,SUT,Adrian Sutil,force_india,Force India,15,11,22,0,19,Hydraulics,21,178.113
+2013,11,Belgian Grand Prix,2013-08-25,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,1,25,44,Finished,1,227.657
+2013,11,Belgian Grand Prix,2013-08-25,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,9,2,18,44,Finished,4,226.375
+2013,11,Belgian Grand Prix,2013-08-25,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,1,3,15,44,Finished,7,225.943
+2013,11,Belgian Grand Prix,2013-08-25,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,4,4,12,44,Finished,6,225.971
+2013,11,Belgian Grand Prix,2013-08-25,webber,WEB,Mark Webber,red_bull,Red Bull,2,3,5,10,44,Finished,5,226.347
+2013,11,Belgian Grand Prix,2013-08-25,button,BUT,Jenson Button,mclaren,McLaren,5,6,6,8,44,Finished,2,227.519
+2013,11,Belgian Grand Prix,2013-08-25,massa,MAS,Felipe Massa,ferrari,Ferrari,4,10,7,6,44,Finished,9,224.763
+2013,11,Belgian Grand Prix,2013-08-25,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,7,8,4,44,Finished,11,224.133
+2013,11,Belgian Grand Prix,2013-08-25,sutil,SUT,Adrian Sutil,force_india,Force India,15,12,9,2,44,Finished,10,224.675
+2013,11,Belgian Grand Prix,2013-08-25,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,19,10,1,44,Finished,3,227.224
+2013,11,Belgian Grand Prix,2013-08-25,perez,PER,Sergio Pérez,mclaren,McLaren,6,13,11,0,44,Finished,16,222.208
+2013,11,Belgian Grand Prix,2013-08-25,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,18,12,0,44,Finished,14,223.008
+2013,11,Belgian Grand Prix,2013-08-25,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,11,13,0,44,Finished,15,222.919
+2013,11,Belgian Grand Prix,2013-08-25,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,21,14,0,44,Finished,8,225.432
+2013,11,Belgian Grand Prix,2013-08-25,bottas,BOT,Valtteri Bottas,williams,Williams,17,20,15,0,44,Finished,13,223.754
+2013,11,Belgian Grand Prix,2013-08-25,garde,VDG,Giedo van der Garde,caterham,Caterham,21,14,16,0,43,+1 Lap,18,221.188
+2013,11,Belgian Grand Prix,2013-08-25,maldonado,MAL,Pastor Maldonado,williams,Williams,16,17,17,0,43,+1 Lap,12,223.970
+2013,11,Belgian Grand Prix,2013-08-25,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,15,18,0,43,+1 Lap,20,219.457
+2013,11,Belgian Grand Prix,2013-08-25,chilton,CHI,Max Chilton,marussia,Marussia,23,16,19,0,42,+2 Laps,21,219.400
+2013,11,Belgian Grand Prix,2013-08-25,resta,DIR,Paul di Resta,force_india,Force India,14,5,20,0,26,Collision,19,219.719
+2013,11,Belgian Grand Prix,2013-08-25,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,8,21,0,25,Brakes,17,221.785
+2013,11,Belgian Grand Prix,2013-08-25,pic,PIC,Charles Pic,caterham,Caterham,20,22,22,0,8,Oil leak,22,214.901
+2013,12,Italian Grand Prix,2013-09-08,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,53,Finished,12,239.187
+2013,12,Italian Grand Prix,2013-09-08,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,5,2,18,53,Finished,5,240.270
+2013,12,Italian Grand Prix,2013-09-08,webber,WEB,Mark Webber,red_bull,Red Bull,2,2,3,15,53,Finished,3,240.567
+2013,12,Italian Grand Prix,2013-09-08,massa,MAS,Felipe Massa,ferrari,Ferrari,4,4,4,12,53,Finished,10,239.448
+2013,12,Italian Grand Prix,2013-09-08,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,3,5,10,53,Finished,4,240.495
+2013,12,Italian Grand Prix,2013-09-08,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,6,6,8,53,Finished,2,241.095
+2013,12,Italian Grand Prix,2013-09-08,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,7,7,6,53,Finished,13,238.903
+2013,12,Italian Grand Prix,2013-09-08,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,13,8,4,53,Finished,8,239.591
+2013,12,Italian Grand Prix,2013-09-08,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,12,9,2,53,Finished,1,242.924
+2013,12,Italian Grand Prix,2013-09-08,button,BUT,Jenson Button,mclaren,McLaren,5,9,10,1,53,Finished,16,237.445
+2013,12,Italian Grand Prix,2013-09-08,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,11,11,0,53,Finished,6,239.853
+2013,12,Italian Grand Prix,2013-09-08,perez,PER,Sergio Pérez,mclaren,McLaren,6,8,12,0,53,Finished,15,238.049
+2013,12,Italian Grand Prix,2013-09-08,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,16,13,0,53,Finished,9,239.457
+2013,12,Italian Grand Prix,2013-09-08,maldonado,MAL,Pastor Maldonado,williams,Williams,16,14,14,0,53,Finished,7,239.762
+2013,12,Italian Grand Prix,2013-09-08,bottas,BOT,Valtteri Bottas,williams,Williams,17,18,15,0,53,Finished,11,239.253
+2013,12,Italian Grand Prix,2013-09-08,sutil,SUT,Adrian Sutil,force_india,Force India,15,17,16,0,52,+1 Lap,14,238.564
+2013,12,Italian Grand Prix,2013-09-08,pic,PIC,Charles Pic,caterham,Caterham,20,20,17,0,52,+1 Lap,17,235.328
+2013,12,Italian Grand Prix,2013-09-08,garde,VDG,Giedo van der Garde,caterham,Caterham,21,19,18,0,52,+1 Lap,18,235.214
+2013,12,Italian Grand Prix,2013-09-08,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,21,19,0,52,+1 Lap,20,232.767
+2013,12,Italian Grand Prix,2013-09-08,chilton,CHI,Max Chilton,marussia,Marussia,23,22,20,0,52,+1 Lap,19,233.037
+2013,12,Italian Grand Prix,2013-09-08,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,10,21,0,14,Transmission,21,232.469
+2013,12,Italian Grand Prix,2013-09-08,resta,DIR,Paul di Resta,force_india,Force India,14,15,22,0,0,Accident,,
+2013,13,Singapore Grand Prix,2013-09-22,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,61,Finished,1,167.940
+2013,13,Singapore Grand Prix,2013-09-22,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,7,2,18,61,Finished,11,164.149
+2013,13,Singapore Grand Prix,2013-09-22,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,13,3,15,61,Finished,13,164.063
+2013,13,Singapore Grand Prix,2013-09-22,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,2,4,12,61,Finished,6,165.233
+2013,13,Singapore Grand Prix,2013-09-22,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,5,5,10,61,Finished,4,165.890
+2013,13,Singapore Grand Prix,2013-09-22,massa,MAS,Felipe Massa,ferrari,Ferrari,4,6,6,8,61,Finished,7,165.000
+2013,13,Singapore Grand Prix,2013-09-22,button,BUT,Jenson Button,mclaren,McLaren,5,8,7,6,61,Finished,15,163.182
+2013,13,Singapore Grand Prix,2013-09-22,perez,PER,Sergio Pérez,mclaren,McLaren,6,14,8,4,61,Finished,16,162.911
+2013,13,Singapore Grand Prix,2013-09-22,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,11,9,2,61,Finished,18,162.533
+2013,13,Singapore Grand Prix,2013-09-22,sutil,SUT,Adrian Sutil,force_india,Force India,15,15,10,1,61,Finished,2,166.283
+2013,13,Singapore Grand Prix,2013-09-22,maldonado,MAL,Pastor Maldonado,williams,Williams,16,18,11,0,61,Finished,8,164.703
+2013,13,Singapore Grand Prix,2013-09-22,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,10,12,0,61,Finished,17,162.793
+2013,13,Singapore Grand Prix,2013-09-22,bottas,BOT,Valtteri Bottas,williams,Williams,17,16,13,0,61,Finished,14,163.232
+2013,13,Singapore Grand Prix,2013-09-22,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,12,14,0,61,Finished,5,165.270
+2013,13,Singapore Grand Prix,2013-09-22,webber,WEB,Mark Webber,red_bull,Red Bull,2,4,15,0,60,Water pressure,3,166.091
+2013,13,Singapore Grand Prix,2013-09-22,garde,VDG,Giedo van der Garde,caterham,Caterham,21,20,16,0,60,+1 Lap,19,162.120
+2013,13,Singapore Grand Prix,2013-09-22,chilton,CHI,Max Chilton,marussia,Marussia,23,22,17,0,60,+1 Lap,21,161.304
+2013,13,Singapore Grand Prix,2013-09-22,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,21,18,0,60,+1 Lap,20,161.508
+2013,13,Singapore Grand Prix,2013-09-22,pic,PIC,Charles Pic,caterham,Caterham,20,19,19,0,60,+1 Lap,10,164.285
+2013,13,Singapore Grand Prix,2013-09-22,resta,DIR,Paul di Resta,force_india,Force India,14,17,20,0,54,Accident,9,164.657
+2013,13,Singapore Grand Prix,2013-09-22,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,3,21,0,37,Pneumatics,12,164.126
+2013,13,Singapore Grand Prix,2013-09-22,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,9,22,0,23,Accident,22,161.288
+2013,14,Korean Grand Prix,2013-10-06,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,55,Finished,1,199.388
+2013,14,Korean Grand Prix,2013-10-06,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,9,2,18,55,Finished,3,198.225
+2013,14,Korean Grand Prix,2013-10-06,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,3,3,15,55,Finished,2,198.300
+2013,14,Korean Grand Prix,2013-10-06,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,7,4,12,55,Finished,6,197.002
+2013,14,Korean Grand Prix,2013-10-06,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,2,5,10,55,Finished,5,197.134
+2013,14,Korean Grand Prix,2013-10-06,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,5,6,8,55,Finished,7,196.808
+2013,14,Korean Grand Prix,2013-10-06,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,4,7,6,55,Finished,4,197.265
+2013,14,Korean Grand Prix,2013-10-06,button,BUT,Jenson Button,mclaren,McLaren,5,11,8,4,55,Finished,12,196.113
+2013,14,Korean Grand Prix,2013-10-06,massa,MAS,Felipe Massa,ferrari,Ferrari,4,6,9,2,55,Finished,10,196.340
+2013,14,Korean Grand Prix,2013-10-06,perez,PER,Sergio Pérez,mclaren,McLaren,6,10,10,1,55,Finished,11,196.303
+2013,14,Korean Grand Prix,2013-10-06,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,8,11,0,55,Finished,8,196.741
+2013,14,Korean Grand Prix,2013-10-06,bottas,BOT,Valtteri Bottas,williams,Williams,17,17,12,0,55,Finished,14,194.610
+2013,14,Korean Grand Prix,2013-10-06,maldonado,MAL,Pastor Maldonado,williams,Williams,16,18,13,0,55,Finished,17,194.111
+2013,14,Korean Grand Prix,2013-10-06,pic,PIC,Charles Pic,caterham,Caterham,20,19,14,0,55,Finished,19,193.477
+2013,14,Korean Grand Prix,2013-10-06,garde,VDG,Giedo van der Garde,caterham,Caterham,21,20,15,0,55,Finished,18,193.667
+2013,14,Korean Grand Prix,2013-10-06,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,22,16,0,55,Finished,20,192.530
+2013,14,Korean Grand Prix,2013-10-06,chilton,CHI,Max Chilton,marussia,Marussia,23,21,17,0,55,Finished,21,191.769
+2013,14,Korean Grand Prix,2013-10-06,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,16,18,0,53,+2 Laps,15,194.197
+2013,14,Korean Grand Prix,2013-10-06,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,12,19,0,52,+3 Laps,9,196.353
+2013,14,Korean Grand Prix,2013-10-06,sutil,SUT,Adrian Sutil,force_india,Force India,15,14,20,0,50,Collision,16,194.188
+2013,14,Korean Grand Prix,2013-10-06,webber,WEB,Mark Webber,red_bull,Red Bull,2,13,21,0,36,Collision,13,194.621
+2013,14,Korean Grand Prix,2013-10-06,resta,DIR,Paul di Resta,force_india,Force India,14,15,22,0,24,Spun off,22,189.961
+2013,15,Japanese Grand Prix,2013-10-13,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,1,25,53,Finished,4,219.322
+2013,15,Japanese Grand Prix,2013-10-13,webber,WEB,Mark Webber,red_bull,Red Bull,2,1,2,18,53,Finished,1,221.015
+2013,15,Japanese Grand Prix,2013-10-13,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,4,3,15,53,Finished,10,217.782
+2013,15,Japanese Grand Prix,2013-10-13,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,8,4,12,53,Finished,8,218.041
+2013,15,Japanese Grand Prix,2013-10-13,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,9,5,10,53,Finished,5,218.865
+2013,15,Japanese Grand Prix,2013-10-13,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,7,6,8,53,Finished,11,216.674
+2013,15,Japanese Grand Prix,2013-10-13,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,14,7,6,53,Finished,12,216.636
+2013,15,Japanese Grand Prix,2013-10-13,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,6,8,4,53,Finished,2,220.868
+2013,15,Japanese Grand Prix,2013-10-13,button,BUT,Jenson Button,mclaren,McLaren,5,10,9,2,53,Finished,6,218.790
+2013,15,Japanese Grand Prix,2013-10-13,massa,MAS,Felipe Massa,ferrari,Ferrari,4,5,10,1,53,Finished,13,215.515
+2013,15,Japanese Grand Prix,2013-10-13,resta,DIR,Paul di Resta,force_india,Force India,14,12,11,0,53,Finished,15,214.617
+2013,15,Japanese Grand Prix,2013-10-13,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,17,12,0,52,+1 Lap,9,218.000
+2013,15,Japanese Grand Prix,2013-10-13,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,16,13,0,52,+1 Lap,3,220.008
+2013,15,Japanese Grand Prix,2013-10-13,sutil,SUT,Adrian Sutil,force_india,Force India,15,22,14,0,52,+1 Lap,14,214.705
+2013,15,Japanese Grand Prix,2013-10-13,perez,PER,Sergio Pérez,mclaren,McLaren,6,11,15,0,52,+1 Lap,7,218.114
+2013,15,Japanese Grand Prix,2013-10-13,maldonado,MAL,Pastor Maldonado,williams,Williams,16,15,16,0,52,+1 Lap,16,214.581
+2013,15,Japanese Grand Prix,2013-10-13,bottas,BOT,Valtteri Bottas,williams,Williams,17,13,17,0,52,+1 Lap,18,213.632
+2013,15,Japanese Grand Prix,2013-10-13,pic,PIC,Charles Pic,caterham,Caterham,20,20,18,0,52,+1 Lap,17,214.436
+2013,15,Japanese Grand Prix,2013-10-13,chilton,CHI,Max Chilton,marussia,Marussia,23,18,19,0,52,+1 Lap,19,211.777
+2013,15,Japanese Grand Prix,2013-10-13,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,3,20,0,7,Puncture,20,206.569
+2013,15,Japanese Grand Prix,2013-10-13,garde,VDG,Giedo van der Garde,caterham,Caterham,21,19,21,0,0,Accident,,
+2013,15,Japanese Grand Prix,2013-10-13,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,21,22,0,0,Accident,,
+2013,16,Indian Grand Prix,2013-10-27,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,60,Finished,2,209.383
+2013,16,Indian Grand Prix,2013-10-27,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,2,2,18,60,Finished,9,207.732
+2013,16,Indian Grand Prix,2013-10-27,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,17,3,15,60,Finished,7,207.779
+2013,16,Indian Grand Prix,2013-10-27,massa,MAS,Felipe Massa,ferrari,Ferrari,4,5,4,12,60,Finished,11,207.569
+2013,16,Indian Grand Prix,2013-10-27,perez,PER,Sergio Pérez,mclaren,McLaren,6,9,5,10,60,Finished,4,208.467
+2013,16,Indian Grand Prix,2013-10-27,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,3,6,8,60,Finished,15,207.182
+2013,16,Indian Grand Prix,2013-10-27,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,6,7,6,60,Finished,1,210.426
+2013,16,Indian Grand Prix,2013-10-27,resta,DIR,Paul di Resta,force_india,Force India,14,12,8,4,60,Finished,17,206.606
+2013,16,Indian Grand Prix,2013-10-27,sutil,SUT,Adrian Sutil,force_india,Force India,15,13,9,2,60,Finished,3,208.665
+2013,16,Indian Grand Prix,2013-10-27,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,11,10,1,60,Finished,10,207.697
+2013,16,Indian Grand Prix,2013-10-27,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,8,11,0,60,Finished,6,207.983
+2013,16,Indian Grand Prix,2013-10-27,maldonado,MAL,Pastor Maldonado,williams,Williams,16,18,12,0,60,Finished,14,207.275
+2013,16,Indian Grand Prix,2013-10-27,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,14,13,0,59,+1 Lap,16,206.653
+2013,16,Indian Grand Prix,2013-10-27,button,BUT,Jenson Button,mclaren,McLaren,5,10,14,0,59,+1 Lap,8,207.737
+2013,16,Indian Grand Prix,2013-10-27,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,16,15,0,59,+1 Lap,5,208.046
+2013,16,Indian Grand Prix,2013-10-27,bottas,BOT,Valtteri Bottas,williams,Williams,17,15,16,0,59,+1 Lap,12,207.471
+2013,16,Indian Grand Prix,2013-10-27,chilton,CHI,Max Chilton,marussia,Marussia,23,22,17,0,58,+2 Laps,20,204.239
+2013,16,Indian Grand Prix,2013-10-27,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,18,0,58,+2 Laps,19,204.611
+2013,16,Indian Grand Prix,2013-10-27,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,7,19,0,54,Mechanical,13,207.426
+2013,16,Indian Grand Prix,2013-10-27,webber,WEB,Mark Webber,red_bull,Red Bull,2,4,20,0,39,Alternator,18,206.145
+2013,16,Indian Grand Prix,2013-10-27,pic,PIC,Charles Pic,caterham,Caterham,20,21,21,0,35,Hydraulics,21,198.585
+2013,16,Indian Grand Prix,2013-10-27,garde,VDG,Giedo van der Garde,caterham,Caterham,21,20,22,0,1,Collision,,
+2013,17,Abu Dhabi Grand Prix,2013-11-03,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,1,25,55,Finished,2,192.451
+2013,17,Abu Dhabi Grand Prix,2013-11-03,webber,WEB,Mark Webber,red_bull,Red Bull,2,1,2,18,55,Finished,5,191.583
+2013,17,Abu Dhabi Grand Prix,2013-11-03,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,3,3,15,55,Finished,6,191.410
+2013,17,Abu Dhabi Grand Prix,2013-11-03,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,6,4,12,55,Finished,3,191.699
+2013,17,Abu Dhabi Grand Prix,2013-11-03,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,10,5,10,55,Finished,1,193.305
+2013,17,Abu Dhabi Grand Prix,2013-11-03,resta,DIR,Paul di Resta,force_india,Force India,14,11,6,8,55,Finished,14,189.007
+2013,17,Abu Dhabi Grand Prix,2013-11-03,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,4,7,6,55,Finished,10,189.586
+2013,17,Abu Dhabi Grand Prix,2013-11-03,massa,MAS,Felipe Massa,ferrari,Ferrari,4,7,8,4,55,Finished,9,189.615
+2013,17,Abu Dhabi Grand Prix,2013-11-03,perez,PER,Sergio Pérez,mclaren,McLaren,6,8,9,2,55,Finished,8,189.637
+2013,17,Abu Dhabi Grand Prix,2013-11-03,sutil,SUT,Adrian Sutil,force_india,Force India,15,17,10,1,55,Finished,13,189.324
+2013,17,Abu Dhabi Grand Prix,2013-11-03,maldonado,MAL,Pastor Maldonado,williams,Williams,16,14,11,0,55,Finished,11,189.466
+2013,17,Abu Dhabi Grand Prix,2013-11-03,button,BUT,Jenson Button,mclaren,McLaren,5,12,12,0,55,Finished,17,188.030
+2013,17,Abu Dhabi Grand Prix,2013-11-03,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,16,13,0,55,Finished,15,188.672
+2013,17,Abu Dhabi Grand Prix,2013-11-03,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,5,14,0,54,+1 Lap,12,189.394
+2013,17,Abu Dhabi Grand Prix,2013-11-03,bottas,BOT,Valtteri Bottas,williams,Williams,17,15,15,0,54,+1 Lap,4,191.607
+2013,17,Abu Dhabi Grand Prix,2013-11-03,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,9,16,0,54,+1 Lap,16,188.551
+2013,17,Abu Dhabi Grand Prix,2013-11-03,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,13,17,0,54,+1 Lap,7,191.302
+2013,17,Abu Dhabi Grand Prix,2013-11-03,garde,VDG,Giedo van der Garde,caterham,Caterham,21,18,18,0,54,+1 Lap,19,187.578
+2013,17,Abu Dhabi Grand Prix,2013-11-03,pic,PIC,Charles Pic,caterham,Caterham,20,19,19,0,54,+1 Lap,18,187.860
+2013,17,Abu Dhabi Grand Prix,2013-11-03,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,21,20,0,53,+2 Laps,20,185.788
+2013,17,Abu Dhabi Grand Prix,2013-11-03,chilton,CHI,Max Chilton,marussia,Marussia,23,20,21,0,53,+2 Laps,21,185.636
+2013,17,Abu Dhabi Grand Prix,2013-11-03,raikkonen,RAI,Kimi Räikkönen,lotus_f1,Lotus F1,7,22,22,0,0,Accident,,
+2013,18,United States Grand Prix,2013-11-17,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,56,Finished,1,198.754
+2013,18,United States Grand Prix,2013-11-17,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,3,2,18,56,Finished,2,197.588
+2013,18,United States Grand Prix,2013-11-17,webber,WEB,Mark Webber,red_bull,Red Bull,2,2,3,15,56,Finished,4,197.301
+2013,18,United States Grand Prix,2013-11-17,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,5,4,12,56,Finished,5,196.857
+2013,18,United States Grand Prix,2013-11-17,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,6,5,10,56,Finished,10,196.141
+2013,18,United States Grand Prix,2013-11-17,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,4,6,8,56,Finished,6,196.596
+2013,18,United States Grand Prix,2013-11-17,perez,PER,Sergio Pérez,mclaren,McLaren,6,7,7,6,56,Finished,15,194.901
+2013,18,United States Grand Prix,2013-11-17,bottas,BOT,Valtteri Bottas,williams,Williams,17,9,8,4,56,Finished,3,197.496
+2013,18,United States Grand Prix,2013-11-17,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,12,9,2,56,Finished,8,196.244
+2013,18,United States Grand Prix,2013-11-17,button,BUT,Jenson Button,mclaren,McLaren,5,15,10,1,56,Finished,12,195.950
+2013,18,United States Grand Prix,2013-11-17,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,10,11,0,56,Finished,16,194.349
+2013,18,United States Grand Prix,2013-11-17,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,14,12,0,56,Finished,13,195.882
+2013,18,United States Grand Prix,2013-11-17,massa,MAS,Felipe Massa,ferrari,Ferrari,4,13,13,0,56,Finished,11,196.097
+2013,18,United States Grand Prix,2013-11-17,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,20,14,0,56,Finished,14,195.725
+2013,18,United States Grand Prix,2013-11-17,kovalainen,KOV,Heikki Kovalainen,lotus_f1,Lotus F1,7,8,15,0,56,Finished,7,196.448
+2013,18,United States Grand Prix,2013-11-17,resta,DIR,Paul di Resta,force_india,Force India,14,11,16,0,56,Finished,9,196.215
+2013,18,United States Grand Prix,2013-11-17,maldonado,MAL,Pastor Maldonado,williams,Williams,16,17,17,0,55,+1 Lap,17,192.578
+2013,18,United States Grand Prix,2013-11-17,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,19,18,0,55,+1 Lap,18,191.906
+2013,18,United States Grand Prix,2013-11-17,garde,VDG,Giedo van der Garde,caterham,Caterham,21,18,19,0,55,+1 Lap,20,190.957
+2013,18,United States Grand Prix,2013-11-17,pic,PIC,Charles Pic,caterham,Caterham,20,22,20,0,55,+1 Lap,21,190.893
+2013,18,United States Grand Prix,2013-11-17,chilton,CHI,Max Chilton,marussia,Marussia,23,21,21,0,54,+2 Laps,19,191.248
+2013,18,United States Grand Prix,2013-11-17,sutil,SUT,Adrian Sutil,force_india,Force India,15,16,22,0,0,Accident,,
+2013,19,Brazilian Grand Prix,2013-11-24,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,1,1,25,71,Finished,3,205.125
+2013,19,Brazilian Grand Prix,2013-11-24,webber,WEB,Mark Webber,red_bull,Red Bull,2,4,2,18,71,Finished,1,205.636
+2013,19,Brazilian Grand Prix,2013-11-24,alonso,ALO,Fernando Alonso,ferrari,Ferrari,3,3,3,15,71,Finished,2,205.473
+2013,19,Brazilian Grand Prix,2013-11-24,button,BUT,Jenson Button,mclaren,McLaren,5,14,4,12,71,Finished,7,202.909
+2013,19,Brazilian Grand Prix,2013-11-24,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,9,2,5,10,71,Finished,6,202.930
+2013,19,Brazilian Grand Prix,2013-11-24,perez,PER,Sergio Pérez,mclaren,McLaren,6,19,6,8,71,Finished,5,203.451
+2013,19,Brazilian Grand Prix,2013-11-24,massa,MAS,Felipe Massa,ferrari,Ferrari,4,9,7,6,71,Finished,8,202.856
+2013,19,Brazilian Grand Prix,2013-11-24,hulkenberg,HUL,Nico Hülkenberg,sauber,Sauber,11,10,8,4,71,Finished,12,201.979
+2013,19,Brazilian Grand Prix,2013-11-24,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,10,5,9,2,71,Finished,10,202.268
+2013,19,Brazilian Grand Prix,2013-11-24,ricciardo,RIC,Daniel Ricciardo,toro_rosso,Toro Rosso,19,7,10,1,70,+1 Lap,15,201.527
+2013,19,Brazilian Grand Prix,2013-11-24,resta,DIR,Paul di Resta,force_india,Force India,14,12,11,0,70,+1 Lap,14,201.839
+2013,19,Brazilian Grand Prix,2013-11-24,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,12,17,12,0,70,+1 Lap,9,202.702
+2013,19,Brazilian Grand Prix,2013-11-24,sutil,SUT,Adrian Sutil,force_india,Force India,15,15,13,0,70,+1 Lap,4,203.979
+2013,19,Brazilian Grand Prix,2013-11-24,kovalainen,KOV,Heikki Kovalainen,lotus_f1,Lotus F1,7,11,14,0,70,+1 Lap,16,200.810
+2013,19,Brazilian Grand Prix,2013-11-24,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,18,8,15,0,70,+1 Lap,11,202.010
+2013,19,Brazilian Grand Prix,2013-11-24,maldonado,MAL,Pastor Maldonado,williams,Williams,16,16,16,0,70,+1 Lap,18,200.020
+2013,19,Brazilian Grand Prix,2013-11-24,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,22,21,17,0,69,+2 Laps,20,199.601
+2013,19,Brazilian Grand Prix,2013-11-24,garde,VDG,Giedo van der Garde,caterham,Caterham,21,20,18,0,69,+2 Laps,19,199.927
+2013,19,Brazilian Grand Prix,2013-11-24,chilton,CHI,Max Chilton,marussia,Marussia,23,22,19,0,69,+2 Laps,17,200.727
+2013,19,Brazilian Grand Prix,2013-11-24,pic,PIC,Charles Pic,caterham,Caterham,20,18,20,0,58,Mechanical,21,197.776
+2013,19,Brazilian Grand Prix,2013-11-24,bottas,BOT,Valtteri Bottas,williams,Williams,17,13,21,0,45,Accident,13,201.879
+2013,19,Brazilian Grand Prix,2013-11-24,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,6,22,0,2,Engine,22,191.752

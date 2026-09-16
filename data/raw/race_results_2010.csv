@@ -1,0 +1,457 @@
+season,round,race_name,date,driver_id,driver_code,driver_name,constructor_id,constructor,number,grid,position,points,laps,status,fastest_lap_rank,fastest_lap_speed
+2010,1,Bahrain Grand Prix,2010-03-14,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,1,25,49,Finished,1,191.706
+2010,1,Bahrain Grand Prix,2010-03-14,massa,MAS,Felipe Massa,ferrari,Ferrari,7,2,2,18,49,Finished,5,189.392
+2010,1,Bahrain Grand Prix,2010-03-14,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,4,3,15,49,Finished,4,189.665
+2010,1,Bahrain Grand Prix,2010-03-14,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,4,12,49,Finished,12,188.627
+2010,1,Bahrain Grand Prix,2010-03-14,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,5,5,10,49,Finished,13,188.599
+2010,1,Bahrain Grand Prix,2010-03-14,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,7,6,8,49,Finished,11,188.649
+2010,1,Bahrain Grand Prix,2010-03-14,button,BUT,Jenson Button,mclaren,McLaren,1,8,7,6,49,Finished,9,189.017
+2010,1,Bahrain Grand Prix,2010-03-14,webber,WEB,Mark Webber,red_bull,Red Bull,6,6,8,4,49,Finished,3,189.781
+2010,1,Bahrain Grand Prix,2010-03-14,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,12,9,2,49,Finished,7,189.118
+2010,1,Bahrain Grand Prix,2010-03-14,barrichello,BAR,Rubens Barrichello,williams,Williams,9,11,10,1,49,Finished,6,189.233
+2010,1,Bahrain Grand Prix,2010-03-14,kubica,KUB,Robert Kubica,renault,Renault,11,9,11,0,49,Finished,14,188.226
+2010,1,Bahrain Grand Prix,2010-03-14,sutil,SUT,Adrian Sutil,force_india,Force India,14,10,12,0,49,Finished,2,189.930
+2010,1,Bahrain Grand Prix,2010-03-14,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,18,13,0,49,Finished,8,189.026
+2010,1,Bahrain Grand Prix,2010-03-14,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,13,14,0,48,+1 Lap,15,186.789
+2010,1,Bahrain Grand Prix,2010-03-14,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,21,15,0,47,+2 Laps,17,184.810
+2010,1,Bahrain Grand Prix,2010-03-14,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,15,16,0,46,Electrical,10,188.844
+2010,1,Bahrain Grand Prix,2010-03-14,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,20,17,0,46,Hydraulics,18,184.465
+2010,1,Bahrain Grand Prix,2010-03-14,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,14,18,0,28,Hydraulics,16,186.406
+2010,1,Bahrain Grand Prix,2010-03-14,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,23,19,0,17,Overheating,22,175.613
+2010,1,Bahrain Grand Prix,2010-03-14,glock,GLO,Timo Glock,virgin,Virgin,24,19,20,0,16,Gearbox,21,178.467
+2010,1,Bahrain Grand Prix,2010-03-14,petrov,PET,Vitaly Petrov,renault,Renault,12,17,21,0,13,Suspension,19,182.422
+2010,1,Bahrain Grand Prix,2010-03-14,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,16,22,0,11,Hydraulics,20,181.347
+2010,1,Bahrain Grand Prix,2010-03-14,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,22,23,0,2,Hydraulics,23,175.295
+2010,1,Bahrain Grand Prix,2010-03-14,chandhok,CHA,Karun Chandhok,hrt,HRT,20,24,24,0,1,Accident,,
+2010,2,Australian Grand Prix,2010-03-28,button,BUT,Jenson Button,mclaren,McLaren,1,4,1,25,58,Finished,6,213.804
+2010,2,Australian Grand Prix,2010-03-28,kubica,KUB,Robert Kubica,renault,Renault,11,9,2,18,58,Finished,8,213.138
+2010,2,Australian Grand Prix,2010-03-28,massa,MAS,Felipe Massa,ferrari,Ferrari,7,5,3,15,58,Finished,7,213.216
+2010,2,Australian Grand Prix,2010-03-28,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,4,12,58,Finished,10,212.812
+2010,2,Australian Grand Prix,2010-03-28,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,6,5,10,58,Finished,2,215.742
+2010,2,Australian Grand Prix,2010-03-28,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,11,6,8,58,Finished,3,215.700
+2010,2,Australian Grand Prix,2010-03-28,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,13,7,6,58,Finished,9,212.865
+2010,2,Australian Grand Prix,2010-03-28,barrichello,BAR,Rubens Barrichello,williams,Williams,9,8,8,4,58,Finished,5,213.998
+2010,2,Australian Grand Prix,2010-03-28,webber,WEB,Mark Webber,red_bull,Red Bull,6,2,9,2,58,Finished,1,216.061
+2010,2,Australian Grand Prix,2010-03-28,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,7,10,1,58,Finished,4,214.058
+2010,2,Australian Grand Prix,2010-03-28,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,17,11,0,58,Finished,11,212.798
+2010,2,Australian Grand Prix,2010-03-28,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,14,12,0,58,Finished,12,210.745
+2010,2,Australian Grand Prix,2010-03-28,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,19,13,0,56,+2 Laps,14,203.878
+2010,2,Australian Grand Prix,2010-03-28,chandhok,CHA,Karun Chandhok,hrt,HRT,20,22,14,0,53,+5 Laps,16,200.860
+2010,2,Australian Grand Prix,2010-03-28,glock,GLO,Timo Glock,virgin,Virgin,24,23,15,0,41,Suspension,15,202.597
+2010,2,Australian Grand Prix,2010-03-28,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,24,16,0,26,Hydraulics,17,197.613
+2010,2,Australian Grand Prix,2010-03-28,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,17,0,25,Wheel,13,208.515
+2010,2,Australian Grand Prix,2010-03-28,sutil,SUT,Adrian Sutil,force_india,Force India,14,10,18,0,9,Engine,19,184.947
+2010,2,Australian Grand Prix,2010-03-28,petrov,PET,Vitaly Petrov,renault,Renault,12,18,19,0,9,Spun off,18,185.110
+2010,2,Australian Grand Prix,2010-03-28,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,21,20,0,4,Hydraulics,20,129.626
+2010,2,Australian Grand Prix,2010-03-28,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,12,21,0,0,Collision,,
+2010,2,Australian Grand Prix,2010-03-28,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,15,22,0,0,Collision,,
+2010,2,Australian Grand Prix,2010-03-28,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,16,23,0,0,Collision,,
+2010,2,Australian Grand Prix,2010-03-28,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,20,24,0,0,Hydraulics,,
+2010,3,Malaysian Grand Prix,2010-04-04,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,3,1,25,56,Finished,6,204.009
+2010,3,Malaysian Grand Prix,2010-04-04,webber,WEB,Mark Webber,red_bull,Red Bull,6,1,2,18,56,Finished,1,205.605
+2010,3,Malaysian Grand Prix,2010-04-04,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,2,3,15,56,Finished,8,203.352
+2010,3,Malaysian Grand Prix,2010-04-04,kubica,KUB,Robert Kubica,renault,Renault,11,6,4,12,56,Finished,7,203.466
+2010,3,Malaysian Grand Prix,2010-04-04,sutil,SUT,Adrian Sutil,force_india,Force India,14,4,5,10,56,Finished,9,203.288
+2010,3,Malaysian Grand Prix,2010-04-04,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,20,6,8,56,Finished,4,204.151
+2010,3,Malaysian Grand Prix,2010-04-04,massa,MAS,Felipe Massa,ferrari,Ferrari,7,21,7,6,56,Finished,5,204.070
+2010,3,Malaysian Grand Prix,2010-04-04,button,BUT,Jenson Button,mclaren,McLaren,1,17,8,4,56,Finished,10,202.584
+2010,3,Malaysian Grand Prix,2010-04-04,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,14,9,2,56,Finished,13,200.572
+2010,3,Malaysian Grand Prix,2010-04-04,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,5,10,1,56,Finished,11,201.311
+2010,3,Malaysian Grand Prix,2010-04-04,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,13,11,0,56,Finished,3,204.433
+2010,3,Malaysian Grand Prix,2010-04-04,barrichello,BAR,Rubens Barrichello,williams,Williams,9,7,12,0,55,+1 Lap,12,200.695
+2010,3,Malaysian Grand Prix,2010-04-04,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,19,13,0,54,Engine,2,205.230
+2010,3,Malaysian Grand Prix,2010-04-04,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,24,14,0,53,+3 Laps,18,193.315
+2010,3,Malaysian Grand Prix,2010-04-04,chandhok,CHA,Karun Chandhok,hrt,HRT,20,22,15,0,53,+3 Laps,21,190.426
+2010,3,Malaysian Grand Prix,2010-04-04,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,23,16,0,52,+4 Laps,22,189.443
+2010,3,Malaysian Grand Prix,2010-04-04,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,18,17,0,51,+5 Laps,20,192.329
+2010,3,Malaysian Grand Prix,2010-04-04,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,15,18,0,46,+10 Laps,17,194.299
+2010,3,Malaysian Grand Prix,2010-04-04,petrov,PET,Vitaly Petrov,renault,Renault,12,11,19,0,32,Gearbox,14,198.174
+2010,3,Malaysian Grand Prix,2010-04-04,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,10,20,0,12,Throttle,16,194.502
+2010,3,Malaysian Grand Prix,2010-04-04,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,8,21,0,9,Wheel,15,195.474
+2010,3,Malaysian Grand Prix,2010-04-04,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,9,22,0,8,Engine,19,193.098
+2010,3,Malaysian Grand Prix,2010-04-04,glock,GLO,Timo Glock,virgin,Virgin,24,16,23,0,2,Spun off,23,187.566
+2010,3,Malaysian Grand Prix,2010-04-04,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,12,24,0,0,Engine,,
+2010,4,Chinese Grand Prix,2010-04-18,button,BUT,Jenson Button,mclaren,McLaren,1,5,1,25,56,Finished,4,190.731
+2010,4,Chinese Grand Prix,2010-04-18,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,6,2,18,56,Finished,1,192.273
+2010,4,Chinese Grand Prix,2010-04-18,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,4,3,15,56,Finished,5,190.068
+2010,4,Chinese Grand Prix,2010-04-18,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,4,12,56,Finished,9,188.445
+2010,4,Chinese Grand Prix,2010-04-18,kubica,KUB,Robert Kubica,renault,Renault,11,8,5,10,56,Finished,6,189.362
+2010,4,Chinese Grand Prix,2010-04-18,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,6,8,56,Finished,2,191.715
+2010,4,Chinese Grand Prix,2010-04-18,petrov,PET,Vitaly Petrov,renault,Renault,12,14,7,6,56,Finished,8,189.050
+2010,4,Chinese Grand Prix,2010-04-18,webber,WEB,Mark Webber,red_bull,Red Bull,6,2,8,4,56,Finished,3,191.246
+2010,4,Chinese Grand Prix,2010-04-18,massa,MAS,Felipe Massa,ferrari,Ferrari,7,7,9,2,56,Finished,13,187.616
+2010,4,Chinese Grand Prix,2010-04-18,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,9,10,1,56,Finished,10,188.149
+2010,4,Chinese Grand Prix,2010-04-18,sutil,SUT,Adrian Sutil,force_india,Force India,14,10,11,0,56,Finished,11,188.030
+2010,4,Chinese Grand Prix,2010-04-18,barrichello,BAR,Rubens Barrichello,williams,Williams,9,11,12,0,56,Finished,14,185.901
+2010,4,Chinese Grand Prix,2010-04-18,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,12,13,0,56,Finished,7,189.134
+2010,4,Chinese Grand Prix,2010-04-18,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,21,14,0,55,+1 Lap,15,183.156
+2010,4,Chinese Grand Prix,2010-04-18,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,16,15,0,55,+1 Lap,12,187.697
+2010,4,Chinese Grand Prix,2010-04-18,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,23,16,0,54,+2 Laps,17,181.337
+2010,4,Chinese Grand Prix,2010-04-18,chandhok,CHA,Karun Chandhok,hrt,HRT,20,24,17,0,52,+4 Laps,18,180.383
+2010,4,Chinese Grand Prix,2010-04-18,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,20,18,0,26,Hydraulics,19,178.925
+2010,4,Chinese Grand Prix,2010-04-18,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,22,19,0,8,Clutch,20,173.376
+2010,4,Chinese Grand Prix,2010-04-18,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,17,20,0,7,Technical,16,182.140
+2010,4,Chinese Grand Prix,2010-04-18,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,13,21,0,0,Accident,,
+2010,4,Chinese Grand Prix,2010-04-18,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,15,22,0,0,Accident,,
+2010,4,Chinese Grand Prix,2010-04-18,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,18,23,0,0,Accident,,
+2010,4,Chinese Grand Prix,2010-04-18,glock,GLO,Timo Glock,virgin,Virgin,24,19,24,0,0,Engine,,
+2010,5,Spanish Grand Prix,2010-05-09,webber,WEB,Mark Webber,red_bull,Red Bull,6,1,1,25,66,Finished,2,197.552
+2010,5,Spanish Grand Prix,2010-05-09,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,4,2,18,66,Finished,3,197.510
+2010,5,Spanish Grand Prix,2010-05-09,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,2,3,15,66,Finished,5,196.745
+2010,5,Spanish Grand Prix,2010-05-09,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,6,4,12,66,Finished,10,195.933
+2010,5,Spanish Grand Prix,2010-05-09,button,BUT,Jenson Button,mclaren,McLaren,1,5,5,10,66,Finished,4,196.768
+2010,5,Spanish Grand Prix,2010-05-09,massa,MAS,Felipe Massa,ferrari,Ferrari,7,9,6,8,66,Finished,9,196.006
+2010,5,Spanish Grand Prix,2010-05-09,sutil,SUT,Adrian Sutil,force_india,Force India,14,11,7,6,66,Finished,13,195.212
+2010,5,Spanish Grand Prix,2010-05-09,kubica,KUB,Robert Kubica,renault,Renault,11,7,8,4,66,Finished,7,196.077
+2010,5,Spanish Grand Prix,2010-05-09,barrichello,BAR,Rubens Barrichello,williams,Williams,9,17,9,2,65,+1 Lap,12,195.478
+2010,5,Spanish Grand Prix,2010-05-09,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,15,10,1,65,+1 Lap,11,195.645
+2010,5,Spanish Grand Prix,2010-05-09,petrov,PET,Vitaly Petrov,renault,Renault,12,19,11,0,65,+1 Lap,8,196.068
+2010,5,Spanish Grand Prix,2010-05-09,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,10,12,0,65,+1 Lap,15,194.672
+2010,5,Spanish Grand Prix,2010-05-09,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,8,13,0,65,+1 Lap,6,196.103
+2010,5,Spanish Grand Prix,2010-05-09,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,3,14,0,64,Puncture,1,198.655
+2010,5,Spanish Grand Prix,2010-05-09,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,16,15,0,64,Engine,14,195.032
+2010,5,Spanish Grand Prix,2010-05-09,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,13,16,0,64,+2 Laps,17,192.924
+2010,5,Spanish Grand Prix,2010-05-09,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,18,17,0,63,+3 Laps,18,187.106
+2010,5,Spanish Grand Prix,2010-05-09,glock,GLO,Timo Glock,virgin,Virgin,24,22,18,0,63,+3 Laps,19,186.664
+2010,5,Spanish Grand Prix,2010-05-09,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,23,19,0,62,+4 Laps,20,186.398
+2010,5,Spanish Grand Prix,2010-05-09,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,14,20,0,42,Hydraulics,16,193.233
+2010,5,Spanish Grand Prix,2010-05-09,chandhok,CHA,Karun Chandhok,hrt,HRT,20,24,21,0,27,Suspension,22,182.071
+2010,5,Spanish Grand Prix,2010-05-09,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,12,22,0,18,Collision,21,185.353
+2010,5,Spanish Grand Prix,2010-05-09,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,21,23,0,0,Accident,,
+2010,5,Spanish Grand Prix,2010-05-09,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,20,24,0,0,Gearbox,,
+2010,6,Monaco Grand Prix,2010-05-16,webber,WEB,Mark Webber,red_bull,Red Bull,6,1,1,25,78,Finished,2,159.643
+2010,6,Monaco Grand Prix,2010-05-16,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,3,2,18,78,Finished,1,159.910
+2010,6,Monaco Grand Prix,2010-05-16,kubica,KUB,Robert Kubica,renault,Renault,11,2,3,15,78,Finished,3,159.568
+2010,6,Monaco Grand Prix,2010-05-16,massa,MAS,Felipe Massa,ferrari,Ferrari,7,4,4,12,78,Finished,4,159.251
+2010,6,Monaco Grand Prix,2010-05-16,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,5,5,10,78,Finished,10,157.755
+2010,6,Monaco Grand Prix,2010-05-16,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,24,6,8,78,Finished,6,158.408
+2010,6,Monaco Grand Prix,2010-05-16,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,6,7,6,78,Finished,7,158.295
+2010,6,Monaco Grand Prix,2010-05-16,sutil,SUT,Adrian Sutil,force_india,Force India,14,12,8,4,78,Finished,8,158.287
+2010,6,Monaco Grand Prix,2010-05-16,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,10,9,2,78,Finished,9,157.915
+2010,6,Monaco Grand Prix,2010-05-16,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,13,10,1,78,Finished,13,157.190
+2010,6,Monaco Grand Prix,2010-05-16,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,17,11,0,78,Finished,11,157.421
+2010,6,Monaco Grand Prix,2010-05-16,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,7,12,0,78,Finished,5,159.089
+2010,6,Monaco Grand Prix,2010-05-16,petrov,PET,Vitaly Petrov,renault,Renault,12,14,13,0,73,Brakes,12,157.371
+2010,6,Monaco Grand Prix,2010-05-16,chandhok,CHA,Karun Chandhok,hrt,HRT,20,23,14,0,70,Collision,19,151.144
+2010,6,Monaco Grand Prix,2010-05-16,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,19,15,0,70,Collision,18,151.550
+2010,6,Monaco Grand Prix,2010-05-16,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,18,16,0,58,Steering,14,153.365
+2010,6,Monaco Grand Prix,2010-05-16,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,22,17,0,58,Hydraulics,20,150.056
+2010,6,Monaco Grand Prix,2010-05-16,barrichello,BAR,Rubens Barrichello,williams,Williams,9,9,18,0,30,Suspension,16,152.060
+2010,6,Monaco Grand Prix,2010-05-16,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,16,19,0,26,Gearbox,15,152.637
+2010,6,Monaco Grand Prix,2010-05-16,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,21,20,0,25,Wheel,22,146.179
+2010,6,Monaco Grand Prix,2010-05-16,glock,GLO,Timo Glock,virgin,Virgin,24,20,21,0,22,Track rod,21,148.857
+2010,6,Monaco Grand Prix,2010-05-16,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,15,22,0,21,Hydraulics,17,151.684
+2010,6,Monaco Grand Prix,2010-05-16,button,BUT,Jenson Button,mclaren,McLaren,1,8,23,0,2,Engine,23,89.5400
+2010,6,Monaco Grand Prix,2010-05-16,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,11,24,0,0,Front wing,,
+2010,7,Turkish Grand Prix,2010-05-30,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,2,1,25,58,Finished,12,213.342
+2010,7,Turkish Grand Prix,2010-05-30,button,BUT,Jenson Button,mclaren,McLaren,1,4,2,18,58,Finished,7,213.769
+2010,7,Turkish Grand Prix,2010-05-30,webber,WEB,Mark Webber,red_bull,Red Bull,6,1,3,15,58,Finished,2,215.447
+2010,7,Turkish Grand Prix,2010-05-30,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,5,4,12,58,Finished,6,213.971
+2010,7,Turkish Grand Prix,2010-05-30,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,6,5,10,58,Finished,9,213.574
+2010,7,Turkish Grand Prix,2010-05-30,kubica,KUB,Robert Kubica,renault,Renault,11,7,6,8,58,Finished,4,214.521
+2010,7,Turkish Grand Prix,2010-05-30,massa,MAS,Felipe Massa,ferrari,Ferrari,7,8,7,6,58,Finished,10,213.529
+2010,7,Turkish Grand Prix,2010-05-30,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,12,8,4,58,Finished,11,213.493
+2010,7,Turkish Grand Prix,2010-05-30,sutil,SUT,Adrian Sutil,force_india,Force India,14,11,9,2,58,Finished,8,213.617
+2010,7,Turkish Grand Prix,2010-05-30,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,10,10,1,58,Finished,16,211.426
+2010,7,Turkish Grand Prix,2010-05-30,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,13,11,0,58,Finished,14,212.525
+2010,7,Turkish Grand Prix,2010-05-30,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,16,12,0,58,Finished,3,214.628
+2010,7,Turkish Grand Prix,2010-05-30,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,18,13,0,57,+1 Lap,18,210.201
+2010,7,Turkish Grand Prix,2010-05-30,barrichello,BAR,Rubens Barrichello,williams,Williams,9,15,14,0,57,+1 Lap,17,211.329
+2010,7,Turkish Grand Prix,2010-05-30,petrov,PET,Vitaly Petrov,renault,Renault,12,9,15,0,57,+1 Lap,1,215.519
+2010,7,Turkish Grand Prix,2010-05-30,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,14,16,0,57,+1 Lap,5,214.501
+2010,7,Turkish Grand Prix,2010-05-30,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,17,17,0,57,+1 Lap,15,212.059
+2010,7,Turkish Grand Prix,2010-05-30,glock,GLO,Timo Glock,virgin,Virgin,24,21,18,0,55,+3 Laps,19,208.278
+2010,7,Turkish Grand Prix,2010-05-30,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,23,19,0,55,+3 Laps,20,206.062
+2010,7,Turkish Grand Prix,2010-05-30,chandhok,CHA,Karun Chandhok,hrt,HRT,20,24,20,0,52,Fuel pump,24,203.169
+2010,7,Turkish Grand Prix,2010-05-30,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,22,21,0,46,Fuel pressure,21,203.898
+2010,7,Turkish Grand Prix,2010-05-30,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,3,22,0,39,Collision,13,213.091
+2010,7,Turkish Grand Prix,2010-05-30,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,20,23,0,33,Hydraulics,22,203.647
+2010,7,Turkish Grand Prix,2010-05-30,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,19,24,0,32,Hydraulics,23,203.432
+2010,8,Canadian Grand Prix,2010-06-13,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,1,1,25,70,Finished,2,201.778
+2010,8,Canadian Grand Prix,2010-06-13,button,BUT,Jenson Button,mclaren,McLaren,1,4,2,18,70,Finished,4,200.906
+2010,8,Canadian Grand Prix,2010-06-13,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,3,15,70,Finished,6,200.744
+2010,8,Canadian Grand Prix,2010-06-13,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,2,4,12,70,Finished,8,200.206
+2010,8,Canadian Grand Prix,2010-06-13,webber,WEB,Mark Webber,red_bull,Red Bull,6,7,5,10,70,Finished,5,200.895
+2010,8,Canadian Grand Prix,2010-06-13,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,10,6,8,70,Finished,3,201.711
+2010,8,Canadian Grand Prix,2010-06-13,kubica,KUB,Robert Kubica,renault,Renault,11,8,7,6,70,Finished,1,203.965
+2010,8,Canadian Grand Prix,2010-06-13,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,15,8,4,69,+1 Lap,15,196.776
+2010,8,Canadian Grand Prix,2010-06-13,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,5,9,2,69,+1 Lap,11,197.855
+2010,8,Canadian Grand Prix,2010-06-13,sutil,SUT,Adrian Sutil,force_india,Force India,14,9,10,1,69,+1 Lap,13,197.404
+2010,8,Canadian Grand Prix,2010-06-13,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,13,11,0,69,+1 Lap,14,197.288
+2010,8,Canadian Grand Prix,2010-06-13,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,16,12,0,69,+1 Lap,16,196.633
+2010,8,Canadian Grand Prix,2010-06-13,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,12,13,0,69,+1 Lap,9,198.950
+2010,8,Canadian Grand Prix,2010-06-13,barrichello,BAR,Rubens Barrichello,williams,Williams,9,11,14,0,69,+1 Lap,10,198.289
+2010,8,Canadian Grand Prix,2010-06-13,massa,MAS,Felipe Massa,ferrari,Ferrari,7,6,15,0,69,+1 Lap,7,200.441
+2010,8,Canadian Grand Prix,2010-06-13,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,19,16,0,68,+2 Laps,18,194.653
+2010,8,Canadian Grand Prix,2010-06-13,petrov,PET,Vitaly Petrov,renault,Renault,12,14,17,0,68,+2 Laps,12,197.596
+2010,8,Canadian Grand Prix,2010-06-13,chandhok,CHA,Karun Chandhok,hrt,HRT,20,24,18,0,66,+4 Laps,21,191.729
+2010,8,Canadian Grand Prix,2010-06-13,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,23,19,0,65,+5 Laps,22,191.605
+2010,8,Canadian Grand Prix,2010-06-13,glock,GLO,Timo Glock,virgin,Virgin,24,21,20,0,55,Mechanical,20,192.234
+2010,8,Canadian Grand Prix,2010-06-13,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,20,21,0,47,Brakes,19,194.323
+2010,8,Canadian Grand Prix,2010-06-13,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,17,22,0,31,Engine,17,194.846
+2010,8,Canadian Grand Prix,2010-06-13,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,22,23,0,14,Hydraulics,23,185.741
+2010,8,Canadian Grand Prix,2010-06-13,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,18,24,0,1,Accident,,
+2010,9,European Grand Prix,2010-06-27,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,1,25,57,Finished,3,196.774
+2010,9,European Grand Prix,2010-06-27,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,3,2,18,57,Finished,4,196.744
+2010,9,European Grand Prix,2010-06-27,button,BUT,Jenson Button,mclaren,McLaren,1,7,3,15,57,Finished,1,197.521
+2010,9,European Grand Prix,2010-06-27,barrichello,BAR,Rubens Barrichello,williams,Williams,9,9,4,12,57,Finished,5,196.085
+2010,9,European Grand Prix,2010-06-27,kubica,KUB,Robert Kubica,renault,Renault,11,6,5,10,57,Finished,7,195.981
+2010,9,European Grand Prix,2010-06-27,sutil,SUT,Adrian Sutil,force_india,Force India,14,13,6,8,57,Finished,8,195.469
+2010,9,European Grand Prix,2010-06-27,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,18,7,6,57,Finished,6,196.030
+2010,9,European Grand Prix,2010-06-27,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,4,8,4,57,Finished,10,195.300
+2010,9,European Grand Prix,2010-06-27,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,11,9,2,57,Finished,11,194.920
+2010,9,European Grand Prix,2010-06-27,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,12,10,1,57,Finished,9,195.322
+2010,9,European Grand Prix,2010-06-27,massa,MAS,Felipe Massa,ferrari,Ferrari,7,5,11,0,57,Finished,13,194.679
+2010,9,European Grand Prix,2010-06-27,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,16,12,0,57,Finished,16,194.248
+2010,9,European Grand Prix,2010-06-27,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,17,13,0,57,Finished,15,194.448
+2010,9,European Grand Prix,2010-06-27,petrov,PET,Vitaly Petrov,renault,Renault,12,10,14,0,57,Finished,12,194.889
+2010,9,European Grand Prix,2010-06-27,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,15,15,0,57,Finished,2,197.118
+2010,9,European Grand Prix,2010-06-27,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,14,16,0,57,Finished,14,194.490
+2010,9,European Grand Prix,2010-06-27,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,21,17,0,56,+1 Lap,20,190.485
+2010,9,European Grand Prix,2010-06-27,chandhok,CHA,Karun Chandhok,hrt,HRT,20,23,18,0,55,+2 Laps,22,187.905
+2010,9,European Grand Prix,2010-06-27,glock,GLO,Timo Glock,virgin,Virgin,24,22,19,0,55,+2 Laps,19,190.662
+2010,9,European Grand Prix,2010-06-27,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,24,20,0,55,+2 Laps,21,189.536
+2010,9,European Grand Prix,2010-06-27,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,19,21,0,53,+4 Laps,18,191.691
+2010,9,European Grand Prix,2010-06-27,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,8,22,0,49,Exhaust,17,193.554
+2010,9,European Grand Prix,2010-06-27,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,20,23,0,8,Collision,24,183.816
+2010,9,European Grand Prix,2010-06-27,webber,WEB,Mark Webber,red_bull,Red Bull,6,2,24,0,8,Collision,23,187.465
+2010,10,British Grand Prix,2010-07-11,webber,WEB,Mark Webber,red_bull,Red Bull,6,2,1,25,52,Finished,4,229.608
+2010,10,British Grand Prix,2010-07-11,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,4,2,18,52,Finished,6,228.633
+2010,10,British Grand Prix,2010-07-11,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,5,3,15,52,Finished,7,228.156
+2010,10,British Grand Prix,2010-07-11,button,BUT,Jenson Button,mclaren,McLaren,1,14,4,12,52,Finished,9,228.031
+2010,10,British Grand Prix,2010-07-11,barrichello,BAR,Rubens Barrichello,williams,Williams,9,8,5,10,52,Finished,11,226.540
+2010,10,British Grand Prix,2010-07-11,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,12,6,8,52,Finished,10,226.678
+2010,10,British Grand Prix,2010-07-11,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,7,6,52,Finished,3,230.600
+2010,10,British Grand Prix,2010-07-11,sutil,SUT,Adrian Sutil,force_india,Force India,14,11,8,4,52,Finished,16,224.806
+2010,10,British Grand Prix,2010-07-11,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,10,9,2,52,Finished,15,225.203
+2010,10,British Grand Prix,2010-07-11,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,13,10,1,52,Finished,13,225.639
+2010,10,British Grand Prix,2010-07-11,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,20,11,0,52,Finished,14,225.569
+2010,10,British Grand Prix,2010-07-11,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,16,12,0,52,Finished,8,228.087
+2010,10,British Grand Prix,2010-07-11,petrov,PET,Vitaly Petrov,renault,Renault,12,15,13,0,52,Finished,5,229.311
+2010,10,British Grand Prix,2010-07-11,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,14,0,52,Finished,1,233.373
+2010,10,British Grand Prix,2010-07-11,massa,MAS,Felipe Massa,ferrari,Ferrari,7,7,15,0,52,Finished,2,231.407
+2010,10,British Grand Prix,2010-07-11,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,21,16,0,51,+1 Lap,20,219.724
+2010,10,British Grand Prix,2010-07-11,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,18,17,0,51,+1 Lap,18,220.336
+2010,10,British Grand Prix,2010-07-11,glock,GLO,Timo Glock,virgin,Virgin,24,19,18,0,50,+2 Laps,19,219.961
+2010,10,British Grand Prix,2010-07-11,chandhok,CHA,Karun Chandhok,hrt,HRT,20,23,19,0,50,+2 Laps,23,214.656
+2010,10,British Grand Prix,2010-07-11,yamamoto,YAM,Sakon Yamamoto,hrt,HRT,21,24,20,0,50,+2 Laps,22,215.723
+2010,10,British Grand Prix,2010-07-11,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,17,21,0,44,Brakes,12,226.219
+2010,10,British Grand Prix,2010-07-11,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,9,22,0,29,Collision,17,221.182
+2010,10,British Grand Prix,2010-07-11,kubica,KUB,Robert Kubica,renault,Renault,11,6,23,0,19,Driveshaft,21,218.982
+2010,10,British Grand Prix,2010-07-11,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,22,24,0,9,Hydraulics,24,210.725
+2010,11,German Grand Prix,2010-07-25,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,2,1,25,67,Finished,2,217.005
+2010,11,German Grand Prix,2010-07-25,massa,MAS,Felipe Massa,ferrari,Ferrari,7,3,2,18,67,Finished,3,216.386
+2010,11,German Grand Prix,2010-07-25,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,3,15,67,Finished,1,217.166
+2010,11,German Grand Prix,2010-07-25,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,6,4,12,67,Finished,5,215.238
+2010,11,German Grand Prix,2010-07-25,button,BUT,Jenson Button,mclaren,McLaren,1,5,5,10,67,Finished,4,215.385
+2010,11,German Grand Prix,2010-07-25,webber,WEB,Mark Webber,red_bull,Red Bull,6,4,6,8,67,Finished,9,214.747
+2010,11,German Grand Prix,2010-07-25,kubica,KUB,Robert Kubica,renault,Renault,11,7,7,6,66,+1 Lap,16,213.389
+2010,11,German Grand Prix,2010-07-25,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,9,8,4,66,+1 Lap,8,214.940
+2010,11,German Grand Prix,2010-07-25,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,11,9,2,66,+1 Lap,14,213.605
+2010,11,German Grand Prix,2010-07-25,petrov,PET,Vitaly Petrov,renault,Renault,12,13,10,1,66,+1 Lap,17,213.300
+2010,11,German Grand Prix,2010-07-25,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,12,11,0,66,+1 Lap,15,213.571
+2010,11,German Grand Prix,2010-07-25,barrichello,BAR,Rubens Barrichello,williams,Williams,9,8,12,0,66,+1 Lap,13,213.768
+2010,11,German Grand Prix,2010-07-25,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,10,13,0,66,+1 Lap,11,214.305
+2010,11,German Grand Prix,2010-07-25,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,14,14,0,66,+1 Lap,6,215.171
+2010,11,German Grand Prix,2010-07-25,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,15,15,0,66,+1 Lap,12,213.929
+2010,11,German Grand Prix,2010-07-25,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,21,16,0,65,+2 Laps,7,214.977
+2010,11,German Grand Prix,2010-07-25,sutil,SUT,Adrian Sutil,force_india,Force India,14,19,17,0,65,+2 Laps,10,214.722
+2010,11,German Grand Prix,2010-07-25,glock,GLO,Timo Glock,virgin,Virgin,24,23,18,0,64,+3 Laps,18,210.538
+2010,11,German Grand Prix,2010-07-25,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,20,19,0,63,+4 Laps,21,203.638
+2010,11,German Grand Prix,2010-07-25,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,18,20,0,56,Collision,19,204.135
+2010,11,German Grand Prix,2010-07-25,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,24,21,0,50,Gearbox,20,204.037
+2010,11,German Grand Prix,2010-07-25,yamamoto,YAM,Sakon Yamamoto,hrt,HRT,20,22,22,0,19,Engine,22,197.105
+2010,11,German Grand Prix,2010-07-25,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,17,23,0,3,Gearbox,23,122.470
+2010,11,German Grand Prix,2010-07-25,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,16,24,0,1,Collision,,
+2010,12,Hungarian Grand Prix,2010-08-01,webber,WEB,Mark Webber,red_bull,Red Bull,6,2,1,25,70,Finished,2,190.821
+2010,12,Hungarian Grand Prix,2010-08-01,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,2,18,70,Finished,4,189.573
+2010,12,Hungarian Grand Prix,2010-08-01,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,3,15,70,Finished,1,191.491
+2010,12,Hungarian Grand Prix,2010-08-01,massa,MAS,Felipe Massa,ferrari,Ferrari,7,4,4,12,70,Finished,5,189.269
+2010,12,Hungarian Grand Prix,2010-08-01,petrov,PET,Vitaly Petrov,renault,Renault,12,7,5,10,70,Finished,6,188.207
+2010,12,Hungarian Grand Prix,2010-08-01,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,10,6,8,70,Finished,7,187.302
+2010,12,Hungarian Grand Prix,2010-08-01,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,9,7,6,69,+1 Lap,10,186.995
+2010,12,Hungarian Grand Prix,2010-08-01,button,BUT,Jenson Button,mclaren,McLaren,1,11,8,4,69,+1 Lap,8,187.300
+2010,12,Hungarian Grand Prix,2010-08-01,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,23,9,2,69,+1 Lap,9,187.128
+2010,12,Hungarian Grand Prix,2010-08-01,barrichello,BAR,Rubens Barrichello,williams,Williams,9,12,10,1,69,+1 Lap,3,190.452
+2010,12,Hungarian Grand Prix,2010-08-01,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,14,11,0,69,+1 Lap,12,184.739
+2010,12,Hungarian Grand Prix,2010-08-01,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,15,12,0,69,+1 Lap,13,184.573
+2010,12,Hungarian Grand Prix,2010-08-01,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,16,13,0,69,+1 Lap,11,184.770
+2010,12,Hungarian Grand Prix,2010-08-01,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,19,14,0,67,+3 Laps,18,180.335
+2010,12,Hungarian Grand Prix,2010-08-01,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,20,15,0,67,+3 Laps,17,180.393
+2010,12,Hungarian Grand Prix,2010-08-01,glock,GLO,Timo Glock,virgin,Virgin,24,18,16,0,67,+3 Laps,19,179.889
+2010,12,Hungarian Grand Prix,2010-08-01,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,22,17,0,67,+3 Laps,21,179.033
+2010,12,Hungarian Grand Prix,2010-08-01,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,21,18,0,66,+4 Laps,16,180.686
+2010,12,Hungarian Grand Prix,2010-08-01,yamamoto,YAM,Sakon Yamamoto,hrt,HRT,20,24,19,0,66,+4 Laps,23,176.657
+2010,12,Hungarian Grand Prix,2010-08-01,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,5,20,0,23,Gearbox,14,182.842
+2010,12,Hungarian Grand Prix,2010-08-01,kubica,KUB,Robert Kubica,renault,Renault,11,8,21,0,23,Retired,15,181.648
+2010,12,Hungarian Grand Prix,2010-08-01,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,6,22,0,15,Wheel,20,179.316
+2010,12,Hungarian Grand Prix,2010-08-01,sutil,SUT,Adrian Sutil,force_india,Force India,14,13,23,0,15,Collision,22,178.862
+2010,12,Hungarian Grand Prix,2010-08-01,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,17,24,0,1,Engine,,
+2010,13,Belgian Grand Prix,2010-08-29,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,2,1,25,44,Finished,1,231.178
+2010,13,Belgian Grand Prix,2010-08-29,webber,WEB,Mark Webber,red_bull,Red Bull,6,1,2,18,44,Finished,2,230.489
+2010,13,Belgian Grand Prix,2010-08-29,kubica,KUB,Robert Kubica,renault,Renault,11,3,3,15,44,Finished,3,229.624
+2010,13,Belgian Grand Prix,2010-08-29,massa,MAS,Felipe Massa,ferrari,Ferrari,7,6,4,12,44,Finished,4,228.990
+2010,13,Belgian Grand Prix,2010-08-29,sutil,SUT,Adrian Sutil,force_india,Force India,14,8,5,10,44,Finished,5,228.232
+2010,13,Belgian Grand Prix,2010-08-29,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,14,6,8,44,Finished,10,225.757
+2010,13,Belgian Grand Prix,2010-08-29,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,21,7,6,44,Finished,13,225.301
+2010,13,Belgian Grand Prix,2010-08-29,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,17,8,4,44,Finished,11,225.634
+2010,13,Belgian Grand Prix,2010-08-29,petrov,PET,Vitaly Petrov,renault,Renault,12,23,9,2,44,Finished,7,226.799
+2010,13,Belgian Grand Prix,2010-08-29,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,12,10,1,44,Finished,14,224.593
+2010,13,Belgian Grand Prix,2010-08-29,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,24,11,0,44,Finished,15,224.054
+2010,13,Belgian Grand Prix,2010-08-29,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,16,12,0,44,Finished,17,223.203
+2010,13,Belgian Grand Prix,2010-08-29,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,11,13,0,44,Finished,9,225.984
+2010,13,Belgian Grand Prix,2010-08-29,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,9,14,0,43,+1 Lap,12,225.402
+2010,13,Belgian Grand Prix,2010-08-29,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,4,15,0,43,+1 Lap,6,227.427
+2010,13,Belgian Grand Prix,2010-08-29,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,13,16,0,43,+1 Lap,22,217.746
+2010,13,Belgian Grand Prix,2010-08-29,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,22,17,0,43,+1 Lap,21,217.919
+2010,13,Belgian Grand Prix,2010-08-29,glock,GLO,Timo Glock,virgin,Virgin,24,20,18,0,43,+1 Lap,19,218.745
+2010,13,Belgian Grand Prix,2010-08-29,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,15,19,0,43,+1 Lap,18,219.059
+2010,13,Belgian Grand Prix,2010-08-29,yamamoto,YAM,Sakon Yamamoto,hrt,HRT,20,19,20,0,42,+2 Laps,20,218.336
+2010,13,Belgian Grand Prix,2010-08-29,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,10,21,0,37,Accident,8,226.393
+2010,13,Belgian Grand Prix,2010-08-29,button,BUT,Jenson Button,mclaren,McLaren,1,5,22,0,15,Collision,16,223.375
+2010,13,Belgian Grand Prix,2010-08-29,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,18,23,0,5,Retired,23,179.844
+2010,13,Belgian Grand Prix,2010-08-29,barrichello,BAR,Rubens Barrichello,williams,Williams,9,7,24,0,0,Collision,,
+2010,14,Italian Grand Prix,2010-09-12,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,1,1,25,53,Finished,1,247.861
+2010,14,Italian Grand Prix,2010-09-12,button,BUT,Jenson Button,mclaren,McLaren,1,2,2,18,53,Finished,8,246.516
+2010,14,Italian Grand Prix,2010-09-12,massa,MAS,Felipe Massa,ferrari,Ferrari,7,3,3,15,53,Finished,6,246.583
+2010,14,Italian Grand Prix,2010-09-12,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,6,4,12,53,Finished,4,246.822
+2010,14,Italian Grand Prix,2010-09-12,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,7,5,10,53,Finished,3,246.828
+2010,14,Italian Grand Prix,2010-09-12,webber,WEB,Mark Webber,red_bull,Red Bull,6,4,6,8,53,Finished,2,247.452
+2010,14,Italian Grand Prix,2010-09-12,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,8,7,6,53,Finished,7,246.580
+2010,14,Italian Grand Prix,2010-09-12,kubica,KUB,Robert Kubica,renault,Renault,11,9,8,4,53,Finished,5,246.627
+2010,14,Italian Grand Prix,2010-09-12,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,12,9,2,53,Finished,11,245.503
+2010,14,Italian Grand Prix,2010-09-12,barrichello,BAR,Rubens Barrichello,williams,Williams,9,10,10,1,53,Finished,14,244.662
+2010,14,Italian Grand Prix,2010-09-12,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,14,11,0,53,Finished,13,244.705
+2010,14,Italian Grand Prix,2010-09-12,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,19,12,0,53,Finished,12,245.056
+2010,14,Italian Grand Prix,2010-09-12,petrov,PET,Vitaly Petrov,renault,Renault,12,20,13,0,53,Finished,9,246.382
+2010,14,Italian Grand Prix,2010-09-12,rosa,DLR,Pedro de la Rosa,sauber,Sauber,22,16,14,0,52,+1 Lap,16,241.584
+2010,14,Italian Grand Prix,2010-09-12,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,15,15,0,52,+1 Lap,15,243.995
+2010,14,Italian Grand Prix,2010-09-12,sutil,SUT,Adrian Sutil,force_india,Force India,14,11,16,0,52,+1 Lap,10,245.532
+2010,14,Italian Grand Prix,2010-09-12,glock,GLO,Timo Glock,virgin,Virgin,24,24,17,0,51,+2 Laps,17,237.620
+2010,14,Italian Grand Prix,2010-09-12,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,18,18,0,51,+2 Laps,18,237.466
+2010,14,Italian Grand Prix,2010-09-12,yamamoto,YAM,Sakon Yamamoto,hrt,HRT,20,23,19,0,51,+2 Laps,20,234.653
+2010,14,Italian Grand Prix,2010-09-12,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,21,20,0,50,+3 Laps,19,236.526
+2010,14,Italian Grand Prix,2010-09-12,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,17,21,0,46,Engine,21,234.278
+2010,14,Italian Grand Prix,2010-09-12,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,22,22,0,11,Retired,22,229.476
+2010,14,Italian Grand Prix,2010-09-12,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,5,23,0,0,Collision,,
+2010,14,Italian Grand Prix,2010-09-12,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,13,24,0,0,Gearbox,,
+2010,15,Singapore Grand Prix,2010-09-26,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,1,1,25,61,Finished,1,169.137
+2010,15,Singapore Grand Prix,2010-09-26,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,2,2,18,61,Finished,2,168.879
+2010,15,Singapore Grand Prix,2010-09-26,webber,WEB,Mark Webber,red_bull,Red Bull,6,5,3,15,61,Finished,5,166.470
+2010,15,Singapore Grand Prix,2010-09-26,button,BUT,Jenson Button,mclaren,McLaren,1,4,4,12,61,Finished,7,166.462
+2010,15,Singapore Grand Prix,2010-09-26,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,7,5,10,61,Finished,8,165.837
+2010,15,Singapore Grand Prix,2010-09-26,barrichello,BAR,Rubens Barrichello,williams,Williams,9,6,6,8,61,Finished,9,165.522
+2010,15,Singapore Grand Prix,2010-09-26,kubica,KUB,Robert Kubica,renault,Renault,11,8,7,6,61,Finished,3,167.157
+2010,15,Singapore Grand Prix,2010-09-26,massa,MAS,Felipe Massa,ferrari,Ferrari,7,24,8,4,61,Finished,12,162.945
+2010,15,Singapore Grand Prix,2010-09-26,sutil,SUT,Adrian Sutil,force_india,Force India,14,15,9,2,61,Finished,15,162.374
+2010,15,Singapore Grand Prix,2010-09-26,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,17,10,1,61,Finished,13,162.751
+2010,15,Singapore Grand Prix,2010-09-26,petrov,PET,Vitaly Petrov,renault,Renault,12,12,11,0,60,+1 Lap,11,163.202
+2010,15,Singapore Grand Prix,2010-09-26,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,11,12,0,60,+1 Lap,14,162.577
+2010,15,Singapore Grand Prix,2010-09-26,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,9,13,0,60,+1 Lap,4,166.509
+2010,15,Singapore Grand Prix,2010-09-26,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,13,14,0,60,+1 Lap,6,166.464
+2010,15,Singapore Grand Prix,2010-09-26,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,20,15,0,59,+2 Laps,17,162.317
+2010,15,Singapore Grand Prix,2010-09-26,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,19,16,0,58,Engine,18,161.544
+2010,15,Singapore Grand Prix,2010-09-26,glock,GLO,Timo Glock,virgin,Virgin,24,18,17,0,49,Hydraulics,19,160.822
+2010,15,Singapore Grand Prix,2010-09-26,heidfeld,HEI,Nick Heidfeld,sauber,Sauber,22,14,18,0,36,Collision,16,162.372
+2010,15,Singapore Grand Prix,2010-09-26,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,3,19,0,35,Collision,10,164.901
+2010,15,Singapore Grand Prix,2010-09-26,klien,KLI,Christian Klien,hrt,HRT,20,22,20,0,31,Hydraulics,22,155.077
+2010,15,Singapore Grand Prix,2010-09-26,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,10,21,0,30,Accident,20,160.260
+2010,15,Singapore Grand Prix,2010-09-26,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,23,22,0,29,Accident,23,154.819
+2010,15,Singapore Grand Prix,2010-09-26,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,21,23,0,27,Hydraulics,21,156.915
+2010,15,Singapore Grand Prix,2010-09-26,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,16,24,0,1,Collision,,
+2010,16,Japanese Grand Prix,2010-10-10,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,1,25,53,Finished,3,223.219
+2010,16,Japanese Grand Prix,2010-10-10,webber,WEB,Mark Webber,red_bull,Red Bull,6,2,2,18,53,Finished,1,223.647
+2010,16,Japanese Grand Prix,2010-10-10,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,4,3,15,53,Finished,4,222.815
+2010,16,Japanese Grand Prix,2010-10-10,button,BUT,Jenson Button,mclaren,McLaren,1,5,4,12,53,Finished,2,223.515
+2010,16,Japanese Grand Prix,2010-10-10,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,8,5,10,53,Finished,9,219.633
+2010,16,Japanese Grand Prix,2010-10-10,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,10,6,8,53,Finished,7,220.395
+2010,16,Japanese Grand Prix,2010-10-10,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,14,7,6,53,Finished,6,221.251
+2010,16,Japanese Grand Prix,2010-10-10,heidfeld,HEI,Nick Heidfeld,sauber,Sauber,22,11,8,4,53,Finished,10,218.854
+2010,16,Japanese Grand Prix,2010-10-10,barrichello,BAR,Rubens Barrichello,williams,Williams,9,7,9,2,53,Finished,11,218.680
+2010,16,Japanese Grand Prix,2010-10-10,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,18,10,1,53,Finished,8,219.786
+2010,16,Japanese Grand Prix,2010-10-10,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,16,11,0,52,+1 Lap,5,221.535
+2010,16,Japanese Grand Prix,2010-10-10,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,20,12,0,52,+1 Lap,14,214.148
+2010,16,Japanese Grand Prix,2010-10-10,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,19,13,0,51,+2 Laps,15,209.660
+2010,16,Japanese Grand Prix,2010-10-10,glock,GLO,Timo Glock,virgin,Virgin,24,22,14,0,51,+2 Laps,17,209.443
+2010,16,Japanese Grand Prix,2010-10-10,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,23,15,0,51,+2 Laps,18,208.366
+2010,16,Japanese Grand Prix,2010-10-10,yamamoto,YAM,Sakon Yamamoto,hrt,HRT,20,24,16,0,50,+3 Laps,16,209.458
+2010,16,Japanese Grand Prix,2010-10-10,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,6,17,0,47,Suspension,12,217.517
+2010,16,Japanese Grand Prix,2010-10-10,sutil,SUT,Adrian Sutil,force_india,Force India,14,15,18,0,44,Oil leak,13,217.041
+2010,16,Japanese Grand Prix,2010-10-10,kubica,KUB,Robert Kubica,renault,Renault,11,3,19,0,2,Wheel,19,129.541
+2010,16,Japanese Grand Prix,2010-10-10,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,9,20,0,0,Accident,,
+2010,16,Japanese Grand Prix,2010-10-10,massa,MAS,Felipe Massa,ferrari,Ferrari,7,12,21,0,0,Accident,,
+2010,16,Japanese Grand Prix,2010-10-10,petrov,PET,Vitaly Petrov,renault,Renault,12,13,22,0,0,Accident,,
+2010,16,Japanese Grand Prix,2010-10-10,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,17,23,0,0,Accident,,
+2010,16,Japanese Grand Prix,2010-10-10,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,21,24,0,0,Suspension,,
+2010,17,Korean Grand Prix,2010-10-24,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,1,25,55,Finished,1,183.335
+2010,17,Korean Grand Prix,2010-10-24,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,4,2,18,55,Finished,3,183.048
+2010,17,Korean Grand Prix,2010-10-24,massa,MAS,Felipe Massa,ferrari,Ferrari,7,6,3,15,55,Finished,4,182.928
+2010,17,Korean Grand Prix,2010-10-24,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,9,4,12,55,Finished,8,180.748
+2010,17,Korean Grand Prix,2010-10-24,kubica,KUB,Robert Kubica,renault,Renault,11,8,5,10,55,Finished,7,181.122
+2010,17,Korean Grand Prix,2010-10-24,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,17,6,8,55,Finished,5,181.501
+2010,17,Korean Grand Prix,2010-10-24,barrichello,BAR,Rubens Barrichello,williams,Williams,9,10,7,6,55,Finished,6,181.187
+2010,17,Korean Grand Prix,2010-10-24,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,12,8,4,55,Finished,14,178.748
+2010,17,Korean Grand Prix,2010-10-24,heidfeld,HEI,Nick Heidfeld,sauber,Sauber,22,13,9,2,55,Finished,15,178.469
+2010,17,Korean Grand Prix,2010-10-24,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,11,10,1,55,Finished,10,180.511
+2010,17,Korean Grand Prix,2010-10-24,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,15,11,0,55,Finished,9,180.543
+2010,17,Korean Grand Prix,2010-10-24,button,BUT,Jenson Button,mclaren,McLaren,1,7,12,0,55,Finished,11,180.171
+2010,17,Korean Grand Prix,2010-10-24,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,21,13,0,54,+1 Lap,16,175.746
+2010,17,Korean Grand Prix,2010-10-24,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,24,14,0,53,+2 Laps,20,169.452
+2010,17,Korean Grand Prix,2010-10-24,yamamoto,YAM,Sakon Yamamoto,hrt,HRT,20,23,15,0,53,+2 Laps,19,170.851
+2010,17,Korean Grand Prix,2010-10-24,sutil,SUT,Adrian Sutil,force_india,Force India,14,14,16,0,46,Collision,12,179.518
+2010,17,Korean Grand Prix,2010-10-24,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,17,0,45,Engine,2,183.139
+2010,17,Korean Grand Prix,2010-10-24,petrov,PET,Vitaly Petrov,renault,Renault,12,20,18,0,39,Accident,13,178.835
+2010,17,Korean Grand Prix,2010-10-24,glock,GLO,Timo Glock,virgin,Virgin,24,19,19,0,31,Collision,18,171.157
+2010,17,Korean Grand Prix,2010-10-24,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,16,20,0,30,Collision,17,173.112
+2010,17,Korean Grand Prix,2010-10-24,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,22,21,0,25,Accident,23,164.830
+2010,17,Korean Grand Prix,2010-10-24,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,18,22,0,25,Hydraulics,24,161.503
+2010,17,Korean Grand Prix,2010-10-24,webber,WEB,Mark Webber,red_bull,Red Bull,6,2,23,0,18,Accident,21,168.414
+2010,17,Korean Grand Prix,2010-10-24,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,5,24,0,18,Collision,22,167.539
+2010,18,Brazilian Grand Prix,2010-11-07,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,2,1,25,71,Finished,6,208.828
+2010,18,Brazilian Grand Prix,2010-11-07,webber,WEB,Mark Webber,red_bull,Red Bull,6,3,2,18,71,Finished,4,209.493
+2010,18,Brazilian Grand Prix,2010-11-07,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,5,3,15,71,Finished,2,210.038
+2010,18,Brazilian Grand Prix,2010-11-07,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,4,4,12,71,Finished,1,210.049
+2010,18,Brazilian Grand Prix,2010-11-07,button,BUT,Jenson Button,mclaren,McLaren,1,11,5,10,71,Finished,3,209.819
+2010,18,Brazilian Grand Prix,2010-11-07,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,13,6,8,71,Finished,5,209.107
+2010,18,Brazilian Grand Prix,2010-11-07,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,8,7,6,71,Finished,12,206.229
+2010,18,Brazilian Grand Prix,2010-11-07,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,1,8,4,70,+1 Lap,8,206.873
+2010,18,Brazilian Grand Prix,2010-11-07,kubica,KUB,Robert Kubica,renault,Renault,11,7,9,2,70,+1 Lap,11,206.388
+2010,18,Brazilian Grand Prix,2010-11-07,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,12,10,1,70,+1 Lap,7,207.529
+2010,18,Brazilian Grand Prix,2010-11-07,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,14,11,0,70,+1 Lap,16,204.932
+2010,18,Brazilian Grand Prix,2010-11-07,sutil,SUT,Adrian Sutil,force_india,Force India,14,22,12,0,70,+1 Lap,9,206.840
+2010,18,Brazilian Grand Prix,2010-11-07,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,19,13,0,70,+1 Lap,17,204.285
+2010,18,Brazilian Grand Prix,2010-11-07,barrichello,BAR,Rubens Barrichello,williams,Williams,9,6,14,0,70,+1 Lap,13,206.207
+2010,18,Brazilian Grand Prix,2010-11-07,massa,MAS,Felipe Massa,ferrari,Ferrari,7,9,15,0,70,+1 Lap,14,205.925
+2010,18,Brazilian Grand Prix,2010-11-07,petrov,PET,Vitaly Petrov,renault,Renault,12,10,16,0,70,+1 Lap,15,205.503
+2010,18,Brazilian Grand Prix,2010-11-07,heidfeld,HEI,Nick Heidfeld,sauber,Sauber,22,15,17,0,70,+1 Lap,10,206.644
+2010,18,Brazilian Grand Prix,2010-11-07,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,20,18,0,69,+2 Laps,20,201.039
+2010,18,Brazilian Grand Prix,2010-11-07,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,18,19,0,69,+2 Laps,21,200.636
+2010,18,Brazilian Grand Prix,2010-11-07,glock,GLO,Timo Glock,virgin,Virgin,24,17,20,0,69,+2 Laps,23,199.657
+2010,18,Brazilian Grand Prix,2010-11-07,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,24,21,0,69,+2 Laps,24,199.565
+2010,18,Brazilian Grand Prix,2010-11-07,klien,KLI,Christian Klien,hrt,HRT,20,23,22,0,65,+6 Laps,22,199.670
+2010,18,Brazilian Grand Prix,2010-11-07,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,21,23,0,62,+9 Laps,18,202.071
+2010,18,Brazilian Grand Prix,2010-11-07,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,16,24,0,49,Accident,19,201.616
+2010,19,Abu Dhabi Grand Prix,2010-11-14,vettel,VET,Sebastian Vettel,red_bull,Red Bull,5,1,1,25,55,Finished,4,196.526
+2010,19,Abu Dhabi Grand Prix,2010-11-14,hamilton,HAM,Lewis Hamilton,mclaren,McLaren,2,2,2,18,55,Finished,1,197.428
+2010,19,Abu Dhabi Grand Prix,2010-11-14,button,BUT,Jenson Button,mclaren,McLaren,1,4,3,15,55,Finished,2,196.725
+2010,19,Abu Dhabi Grand Prix,2010-11-14,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,4,9,4,12,55,Finished,3,196.580
+2010,19,Abu Dhabi Grand Prix,2010-11-14,kubica,KUB,Robert Kubica,renault,Renault,11,11,5,10,55,Finished,5,196.499
+2010,19,Abu Dhabi Grand Prix,2010-11-14,petrov,PET,Vitaly Petrov,renault,Renault,12,10,6,8,55,Finished,8,195.427
+2010,19,Abu Dhabi Grand Prix,2010-11-14,alonso,ALO,Fernando Alonso,ferrari,Ferrari,8,3,7,6,55,Finished,7,195.588
+2010,19,Abu Dhabi Grand Prix,2010-11-14,webber,WEB,Mark Webber,red_bull,Red Bull,6,5,8,4,55,Finished,6,195.647
+2010,19,Abu Dhabi Grand Prix,2010-11-14,alguersuari,ALG,Jaime Alguersuari,toro_rosso,Toro Rosso,17,17,9,2,55,Finished,15,194.636
+2010,19,Abu Dhabi Grand Prix,2010-11-14,massa,MAS,Felipe Massa,ferrari,Ferrari,7,6,10,1,55,Finished,14,194.640
+2010,19,Abu Dhabi Grand Prix,2010-11-14,heidfeld,HEI,Nick Heidfeld,sauber,Sauber,22,14,11,0,55,Finished,12,194.738
+2010,19,Abu Dhabi Grand Prix,2010-11-14,barrichello,BAR,Rubens Barrichello,williams,Williams,9,7,12,0,55,Finished,11,194.746
+2010,19,Abu Dhabi Grand Prix,2010-11-14,sutil,SUT,Adrian Sutil,force_india,Force India,14,13,13,0,55,Finished,13,194.696
+2010,19,Abu Dhabi Grand Prix,2010-11-14,kobayashi,KOB,Kamui Kobayashi,sauber,Sauber,23,12,14,0,55,Finished,16,194.624
+2010,19,Abu Dhabi Grand Prix,2010-11-14,buemi,BUE,Sébastien Buemi,toro_rosso,Toro Rosso,16,18,15,0,55,Finished,10,194.928
+2010,19,Abu Dhabi Grand Prix,2010-11-14,hulkenberg,HUL,Nico Hülkenberg,williams,Williams,10,15,16,0,55,Finished,9,195.263
+2010,19,Abu Dhabi Grand Prix,2010-11-14,kovalainen,KOV,Heikki Kovalainen,lotus_racing,Lotus,19,20,17,0,54,+1 Lap,17,189.739
+2010,19,Abu Dhabi Grand Prix,2010-11-14,grassi,DIG,Lucas di Grassi,virgin,Virgin,25,22,18,0,53,+2 Laps,19,188.402
+2010,19,Abu Dhabi Grand Prix,2010-11-14,bruno_senna,SEN,Bruno Senna,hrt,HRT,21,23,19,0,53,+2 Laps,20,188.173
+2010,19,Abu Dhabi Grand Prix,2010-11-14,klien,KLI,Christian Klien,hrt,HRT,20,24,20,0,53,+2 Laps,21,187.483
+2010,19,Abu Dhabi Grand Prix,2010-11-14,trulli,TRU,Jarno Trulli,lotus_racing,Lotus,18,19,21,0,51,Rear wing,18,188.663
+2010,19,Abu Dhabi Grand Prix,2010-11-14,glock,GLO,Timo Glock,virgin,Virgin,24,21,22,0,43,Gearbox,22,187.148
+2010,19,Abu Dhabi Grand Prix,2010-11-14,michael_schumacher,MSC,Michael Schumacher,mercedes,Mercedes,3,8,23,0,0,Collision,,
+2010,19,Abu Dhabi Grand Prix,2010-11-14,liuzzi,LIU,Vitantonio Liuzzi,force_india,Force India,15,16,24,0,0,Collision,,

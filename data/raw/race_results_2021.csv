@@ -1,0 +1,441 @@
+season,round,race_name,date,driver_id,driver_code,driver_name,constructor_id,constructor,number,grid,position,points,laps,status,fastest_lap_rank,fastest_lap_time
+2021,1,Bahrain Grand Prix,2021-03-28,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,1,25,56,Finished,4,207.235
+2021,1,Bahrain Grand Prix,2021-03-28,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,2,18,56,Finished,2,208.984
+2021,1,Bahrain Grand Prix,2021-03-28,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,3,16,56,Finished,1,211.566
+2021,1,Bahrain Grand Prix,2021-03-28,norris,NOR,Lando Norris,mclaren,McLaren,4,7,4,12,56,Finished,6,206.398
+2021,1,Bahrain Grand Prix,2021-03-28,perez,PER,Sergio Pérez,red_bull,Red Bull,11,0,5,10,56,Finished,3,207.334
+2021,1,Bahrain Grand Prix,2021-03-28,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,4,6,8,56,Finished,11,205.112
+2021,1,Bahrain Grand Prix,2021-03-28,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,6,7,6,56,Finished,10,205.233
+2021,1,Bahrain Grand Prix,2021-03-28,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,8,8,4,56,Finished,7,206.151
+2021,1,Bahrain Grand Prix,2021-03-28,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,13,9,2,56,Finished,8,205.603
+2021,1,Bahrain Grand Prix,2021-03-28,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,10,10,1,56,Finished,9,205.378
+2021,1,Bahrain Grand Prix,2021-03-28,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,14,11,0,56,Finished,14,204.672
+2021,1,Bahrain Grand Prix,2021-03-28,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,12,12,0,55,+1 Lap,13,204.823
+2021,1,Bahrain Grand Prix,2021-03-28,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,16,13,0,55,+1 Lap,15,204.548
+2021,1,Bahrain Grand Prix,2021-03-28,russell,RUS,George Russell,williams,Williams,63,15,14,0,55,+1 Lap,12,205.008
+2021,1,Bahrain Grand Prix,2021-03-28,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,20,15,0,55,+1 Lap,16,203.871
+2021,1,Bahrain Grand Prix,2021-03-28,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,18,16,0,55,+1 Lap,18,202.667
+2021,1,Bahrain Grand Prix,2021-03-28,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,5,17,0,52,Retired,5,207.069
+2021,1,Bahrain Grand Prix,2021-03-28,latifi,LAT,Nicholas Latifi,williams,Williams,6,17,18,0,51,Retired,19,201.685
+2021,1,Bahrain Grand Prix,2021-03-28,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,9,19,0,32,Brakes,17,202.816
+2021,1,Bahrain Grand Prix,2021-03-28,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,19,20,0,0,Accident,,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,3,1,25,63,Finished,2,227.960
+2021,2,Emilia Romagna Grand Prix,2021-04-18,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,2,19,63,Finished,1,230.403
+2021,2,Emilia Romagna Grand Prix,2021-04-18,norris,NOR,Lando Norris,mclaren,McLaren,4,7,3,15,63,Finished,3,225.819
+2021,2,Emilia Romagna Grand Prix,2021-04-18,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,4,4,12,63,Finished,6,225.473
+2021,2,Emilia Romagna Grand Prix,2021-04-18,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,11,5,10,63,Finished,7,225.154
+2021,2,Emilia Romagna Grand Prix,2021-04-18,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,6,6,8,63,Finished,12,222.739
+2021,2,Emilia Romagna Grand Prix,2021-04-18,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,5,7,6,63,Finished,9,223.718
+2021,2,Emilia Romagna Grand Prix,2021-04-18,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,10,8,4,63,Finished,8,224.320
+2021,2,Emilia Romagna Grand Prix,2021-04-18,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,9,9,2,63,Finished,15,222.512
+2021,2,Emilia Romagna Grand Prix,2021-04-18,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,15,10,1,63,Finished,14,222.526
+2021,2,Emilia Romagna Grand Prix,2021-04-18,perez,PER,Sergio Pérez,red_bull,Red Bull,11,2,11,0,63,Finished,13,222.585
+2021,2,Emilia Romagna Grand Prix,2021-04-18,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,20,12,0,63,Finished,4,225.603
+2021,2,Emilia Romagna Grand Prix,2021-04-18,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,16,13,0,63,Finished,5,225.548
+2021,2,Emilia Romagna Grand Prix,2021-04-18,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,17,14,0,62,+1 Lap,16,222.378
+2021,2,Emilia Romagna Grand Prix,2021-04-18,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,0,15,0,61,Gearbox,10,223.491
+2021,2,Emilia Romagna Grand Prix,2021-04-18,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,18,16,0,61,+2 Laps,11,223.156
+2021,2,Emilia Romagna Grand Prix,2021-04-18,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,19,17,0,61,+2 Laps,17,219.800
+2021,2,Emilia Romagna Grand Prix,2021-04-18,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,8,18,0,30,Collision,19,199.721
+2021,2,Emilia Romagna Grand Prix,2021-04-18,russell,RUS,George Russell,williams,Williams,63,12,19,0,30,Collision,18,204.203
+2021,2,Emilia Romagna Grand Prix,2021-04-18,latifi,LAT,Nicholas Latifi,williams,Williams,6,14,20,0,0,Collision,,
+2021,3,Portuguese Grand Prix,2021-05-02,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,1,25,66,Finished,4,206.971
+2021,3,Portuguese Grand Prix,2021-05-02,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,3,2,18,66,Finished,3,207.581
+2021,3,Portuguese Grand Prix,2021-05-02,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,3,16,66,Finished,1,209.738
+2021,3,Portuguese Grand Prix,2021-05-02,perez,PER,Sergio Pérez,red_bull,Red Bull,11,4,4,12,66,Finished,2,207.715
+2021,3,Portuguese Grand Prix,2021-05-02,norris,NOR,Lando Norris,mclaren,McLaren,4,7,5,10,66,Finished,7,205.038
+2021,3,Portuguese Grand Prix,2021-05-02,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,8,6,8,66,Finished,6,205.541
+2021,3,Portuguese Grand Prix,2021-05-02,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,6,7,6,66,Finished,8,204.562
+2021,3,Portuguese Grand Prix,2021-05-02,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,13,8,4,66,Finished,5,206.718
+2021,3,Portuguese Grand Prix,2021-05-02,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,16,9,2,66,Finished,10,204.310
+2021,3,Portuguese Grand Prix,2021-05-02,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,9,10,1,66,Finished,11,204.243
+2021,3,Portuguese Grand Prix,2021-05-02,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,5,11,0,66,Finished,14,203.471
+2021,3,Portuguese Grand Prix,2021-05-02,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,12,12,0,65,+1 Lap,13,203.862
+2021,3,Portuguese Grand Prix,2021-05-02,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,10,13,0,65,+1 Lap,15,203.246
+2021,3,Portuguese Grand Prix,2021-05-02,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,17,14,0,65,+1 Lap,9,204.352
+2021,3,Portuguese Grand Prix,2021-05-02,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,14,15,0,65,+1 Lap,12,204.133
+2021,3,Portuguese Grand Prix,2021-05-02,russell,RUS,George Russell,williams,Williams,63,11,16,0,65,+1 Lap,16,202.661
+2021,3,Portuguese Grand Prix,2021-05-02,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,19,17,0,64,+2 Laps,17,202.414
+2021,3,Portuguese Grand Prix,2021-05-02,latifi,LAT,Nicholas Latifi,williams,Williams,6,18,18,0,64,+2 Laps,18,201.440
+2021,3,Portuguese Grand Prix,2021-05-02,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,20,19,0,64,+2 Laps,19,200.270
+2021,3,Portuguese Grand Prix,2021-05-02,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,15,20,0,1,Collision damage,,
+2021,4,Spanish Grand Prix,2021-05-09,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,66,Finished,5,208.640
+2021,4,Spanish Grand Prix,2021-05-09,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,2,2,19,66,Finished,1,215.357
+2021,4,Spanish Grand Prix,2021-05-09,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,3,15,66,Finished,2,211.884
+2021,4,Spanish Grand Prix,2021-05-09,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,4,4,12,66,Finished,4,209.174
+2021,4,Spanish Grand Prix,2021-05-09,perez,PER,Sergio Pérez,red_bull,Red Bull,11,8,5,10,66,Finished,3,211.743
+2021,4,Spanish Grand Prix,2021-05-09,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,7,6,8,66,Finished,10,205.612
+2021,4,Spanish Grand Prix,2021-05-09,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,6,7,6,66,Finished,9,206.330
+2021,4,Spanish Grand Prix,2021-05-09,norris,NOR,Lando Norris,mclaren,McLaren,4,9,8,4,65,+1 Lap,7,207.064
+2021,4,Spanish Grand Prix,2021-05-09,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,5,9,2,65,+1 Lap,18,202.014
+2021,4,Spanish Grand Prix,2021-05-09,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,12,10,1,65,+1 Lap,8,206.820
+2021,4,Spanish Grand Prix,2021-05-09,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,11,11,0,65,+1 Lap,11,203.735
+2021,4,Spanish Grand Prix,2021-05-09,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,17,12,0,65,+1 Lap,15,203.094
+2021,4,Spanish Grand Prix,2021-05-09,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,13,13,0,65,+1 Lap,14,203.211
+2021,4,Spanish Grand Prix,2021-05-09,russell,RUS,George Russell,williams,Williams,63,15,14,0,65,+1 Lap,17,202.264
+2021,4,Spanish Grand Prix,2021-05-09,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,14,15,0,65,+1 Lap,13,203.255
+2021,4,Spanish Grand Prix,2021-05-09,latifi,LAT,Nicholas Latifi,williams,Williams,6,19,16,0,65,+1 Lap,16,203.003
+2021,4,Spanish Grand Prix,2021-05-09,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,10,17,0,65,+1 Lap,6,207.311
+2021,4,Spanish Grand Prix,2021-05-09,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,18,18,0,64,+2 Laps,12,203.661
+2021,4,Spanish Grand Prix,2021-05-09,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,20,19,0,64,+2 Laps,19,200.261
+2021,4,Spanish Grand Prix,2021-05-09,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,16,20,0,6,Electrical,20,198.408
+2021,5,Monaco Grand Prix,2021-05-23,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,2,1,25,78,Finished,6,160.929
+2021,5,Monaco Grand Prix,2021-05-23,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,4,2,18,78,Finished,5,160.989
+2021,5,Monaco Grand Prix,2021-05-23,norris,NOR,Lando Norris,mclaren,McLaren,4,5,3,15,78,Finished,7,160.883
+2021,5,Monaco Grand Prix,2021-05-23,perez,PER,Sergio Pérez,red_bull,Red Bull,11,9,4,12,78,Finished,3,161.138
+2021,5,Monaco Grand Prix,2021-05-23,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,8,5,10,78,Finished,11,159.503
+2021,5,Monaco Grand Prix,2021-05-23,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,6,6,8,78,Finished,14,159.300
+2021,5,Monaco Grand Prix,2021-05-23,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,7,7,7,78,Finished,1,164.769
+2021,5,Monaco Grand Prix,2021-05-23,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,13,8,4,77,+1 Lap,8,160.875
+2021,5,Monaco Grand Prix,2021-05-23,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,11,9,2,77,+1 Lap,12,159.503
+2021,5,Monaco Grand Prix,2021-05-23,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,10,10,1,77,+1 Lap,13,159.472
+2021,5,Monaco Grand Prix,2021-05-23,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,14,11,0,77,+1 Lap,9,160.237
+2021,5,Monaco Grand Prix,2021-05-23,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,12,12,0,77,+1 Lap,4,161.082
+2021,5,Monaco Grand Prix,2021-05-23,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,17,13,0,77,+1 Lap,10,160.120
+2021,5,Monaco Grand Prix,2021-05-23,russell,RUS,George Russell,williams,Williams,63,15,14,0,77,+1 Lap,15,159.033
+2021,5,Monaco Grand Prix,2021-05-23,latifi,LAT,Nicholas Latifi,williams,Williams,6,18,15,0,77,+1 Lap,16,158.961
+2021,5,Monaco Grand Prix,2021-05-23,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,16,16,0,77,+1 Lap,2,162.259
+2021,5,Monaco Grand Prix,2021-05-23,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,19,17,0,75,+3 Laps,19,156.287
+2021,5,Monaco Grand Prix,2021-05-23,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,20,18,0,75,+3 Laps,18,157.189
+2021,5,Monaco Grand Prix,2021-05-23,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,19,0,29,Wheel nut,17,158.682
+2021,5,Monaco Grand Prix,2021-05-23,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,1,20,0,0,Driveshaft,,
+2021,6,Azerbaijan Grand Prix,2021-06-06,perez,PER,Sergio Pérez,red_bull,Red Bull,11,6,1,25,51,Finished,2,206.432
+2021,6,Azerbaijan Grand Prix,2021-06-06,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,11,2,18,51,Finished,4,206.032
+2021,6,Azerbaijan Grand Prix,2021-06-06,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,4,3,15,51,Finished,6,205.386
+2021,6,Azerbaijan Grand Prix,2021-06-06,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,1,4,12,51,Finished,8,205.071
+2021,6,Azerbaijan Grand Prix,2021-06-06,norris,NOR,Lando Norris,mclaren,McLaren,4,9,5,10,51,Finished,7,205.180
+2021,6,Azerbaijan Grand Prix,2021-06-06,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,8,6,8,51,Finished,11,204.601
+2021,6,Azerbaijan Grand Prix,2021-06-06,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,7,7,6,51,Finished,5,205.936
+2021,6,Azerbaijan Grand Prix,2021-06-06,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,5,8,4,51,Finished,13,204.454
+2021,6,Azerbaijan Grand Prix,2021-06-06,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,13,9,2,51,Finished,14,204.428
+2021,6,Azerbaijan Grand Prix,2021-06-06,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,14,10,1,51,Finished,10,204.645
+2021,6,Azerbaijan Grand Prix,2021-06-06,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,20,11,0,51,Finished,9,204.696
+2021,6,Azerbaijan Grand Prix,2021-06-06,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,10,12,0,51,Finished,12,204.521
+2021,6,Azerbaijan Grand Prix,2021-06-06,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,17,13,0,51,Finished,18,200.799
+2021,6,Azerbaijan Grand Prix,2021-06-06,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,18,14,0,51,Finished,19,200.569
+2021,6,Azerbaijan Grand Prix,2021-06-06,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,15,0,51,Finished,3,206.270
+2021,6,Azerbaijan Grand Prix,2021-06-06,latifi,LAT,Nicholas Latifi,williams,Williams,6,16,16,0,51,Finished,17,202.712
+2021,6,Azerbaijan Grand Prix,2021-06-06,russell,RUS,George Russell,williams,Williams,63,15,17,0,48,Gearbox,15,203.954
+2021,6,Azerbaijan Grand Prix,2021-06-06,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,3,18,0,45,Accident,1,206.839
+2021,6,Azerbaijan Grand Prix,2021-06-06,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,19,19,0,29,Accident,16,203.478
+2021,6,Azerbaijan Grand Prix,2021-06-06,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,12,20,0,3,Turbo,20,194.955
+2021,7,French Grand Prix,2021-06-20,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,1,26,53,Finished,1,218.156
+2021,7,French Grand Prix,2021-06-20,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,18,53,Finished,5,215.903
+2021,7,French Grand Prix,2021-06-20,perez,PER,Sergio Pérez,red_bull,Red Bull,11,4,3,15,53,Finished,2,217.504
+2021,7,French Grand Prix,2021-06-20,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,4,12,53,Finished,3,216.905
+2021,7,French Grand Prix,2021-06-20,norris,NOR,Lando Norris,mclaren,McLaren,4,8,5,10,53,Finished,6,215.870
+2021,7,French Grand Prix,2021-06-20,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,10,6,8,53,Finished,14,213.896
+2021,7,French Grand Prix,2021-06-20,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,6,7,6,53,Finished,11,214.378
+2021,7,French Grand Prix,2021-06-20,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,9,8,4,53,Finished,7,215.382
+2021,7,French Grand Prix,2021-06-20,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,12,9,2,53,Finished,4,216.508
+2021,7,French Grand Prix,2021-06-20,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,19,10,1,53,Finished,9,214.981
+2021,7,French Grand Prix,2021-06-20,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,5,11,0,53,Finished,18,212.584
+2021,7,French Grand Prix,2021-06-20,russell,RUS,George Russell,williams,Williams,63,14,12,0,52,+1 Lap,13,213.918
+2021,7,French Grand Prix,2021-06-20,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,0,13,0,52,+1 Lap,19,212.479
+2021,7,French Grand Prix,2021-06-20,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,11,14,0,52,+1 Lap,15,213.200
+2021,7,French Grand Prix,2021-06-20,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,13,15,0,52,+1 Lap,16,213.077
+2021,7,French Grand Prix,2021-06-20,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,7,16,0,52,+1 Lap,8,215.304
+2021,7,French Grand Prix,2021-06-20,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,17,17,0,52,+1 Lap,10,214.621
+2021,7,French Grand Prix,2021-06-20,latifi,LAT,Nicholas Latifi,williams,Williams,6,16,18,0,52,+1 Lap,12,213.920
+2021,7,French Grand Prix,2021-06-20,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,15,19,0,52,+1 Lap,17,212.765
+2021,7,French Grand Prix,2021-06-20,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,18,20,0,52,+1 Lap,20,211.758
+2021,8,Styrian Grand Prix,2021-06-27,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,1,25,71,Finished,3,228.542
+2021,8,Styrian Grand Prix,2021-06-27,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,19,71,Finished,1,231.811
+2021,8,Styrian Grand Prix,2021-06-27,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,5,3,15,71,Finished,5,226.537
+2021,8,Styrian Grand Prix,2021-06-27,perez,PER,Sergio Pérez,red_bull,Red Bull,11,4,4,12,71,Finished,2,228.956
+2021,8,Styrian Grand Prix,2021-06-27,norris,NOR,Lando Norris,mclaren,McLaren,4,3,5,10,70,+1 Lap,7,225.604
+2021,8,Styrian Grand Prix,2021-06-27,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,12,6,8,70,+1 Lap,4,226.570
+2021,8,Styrian Grand Prix,2021-06-27,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,7,7,6,70,+1 Lap,6,226.145
+2021,8,Styrian Grand Prix,2021-06-27,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,9,8,4,70,+1 Lap,14,222.746
+2021,8,Styrian Grand Prix,2021-06-27,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,8,9,2,70,+1 Lap,13,222.867
+2021,8,Styrian Grand Prix,2021-06-27,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,11,10,1,70,+1 Lap,11,223.184
+2021,8,Styrian Grand Prix,2021-06-27,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,18,11,0,70,+1 Lap,8,224.869
+2021,8,Styrian Grand Prix,2021-06-27,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,14,12,0,70,+1 Lap,15,222.637
+2021,8,Styrian Grand Prix,2021-06-27,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,13,13,0,70,+1 Lap,9,224.295
+2021,8,Styrian Grand Prix,2021-06-27,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,17,14,0,70,+1 Lap,10,223.421
+2021,8,Styrian Grand Prix,2021-06-27,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,15,15,0,70,+1 Lap,12,222.950
+2021,8,Styrian Grand Prix,2021-06-27,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,19,16,0,69,+2 Laps,16,222.052
+2021,8,Styrian Grand Prix,2021-06-27,latifi,LAT,Nicholas Latifi,williams,Williams,6,16,17,0,68,+3 Laps,17,221.739
+2021,8,Styrian Grand Prix,2021-06-27,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,20,18,0,68,+3 Laps,19,219.092
+2021,8,Styrian Grand Prix,2021-06-27,russell,RUS,George Russell,williams,Williams,63,10,19,0,36,Engine,18,220.496
+2021,8,Styrian Grand Prix,2021-06-27,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,6,20,0,1,Collision,,
+2021,9,Austrian Grand Prix,2021-07-04,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,1,26,71,Finished,1,234.815
+2021,9,Austrian Grand Prix,2021-07-04,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,5,2,18,71,Finished,6,227.349
+2021,9,Austrian Grand Prix,2021-07-04,norris,NOR,Lando Norris,mclaren,McLaren,4,2,3,15,71,Finished,10,227.027
+2021,9,Austrian Grand Prix,2021-07-04,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,4,4,12,71,Finished,3,228.177
+2021,9,Austrian Grand Prix,2021-07-04,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,10,5,10,71,Finished,2,229.402
+2021,9,Austrian Grand Prix,2021-07-04,perez,PER,Sergio Pérez,red_bull,Red Bull,11,3,6,8,71,Finished,5,227.956
+2021,9,Austrian Grand Prix,2021-07-04,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,13,7,6,71,Finished,14,225.876
+2021,9,Austrian Grand Prix,2021-07-04,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,12,8,4,71,Finished,13,226.277
+2021,9,Austrian Grand Prix,2021-07-04,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,6,9,2,71,Finished,4,228.110
+2021,9,Austrian Grand Prix,2021-07-04,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,14,10,1,70,+1 Lap,7,227.246
+2021,9,Austrian Grand Prix,2021-07-04,russell,RUS,George Russell,williams,Williams,63,8,11,0,70,+1 Lap,16,225.613
+2021,9,Austrian Grand Prix,2021-07-04,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,7,12,0,70,+1 Lap,9,227.080
+2021,9,Austrian Grand Prix,2021-07-04,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,9,13,0,70,+1 Lap,12,226.405
+2021,9,Austrian Grand Prix,2021-07-04,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,15,14,0,70,+1 Lap,17,225.149
+2021,9,Austrian Grand Prix,2021-07-04,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,16,15,0,70,+1 Lap,15,225.699
+2021,9,Austrian Grand Prix,2021-07-04,latifi,LAT,Nicholas Latifi,williams,Williams,6,18,16,0,70,+1 Lap,11,226.865
+2021,9,Austrian Grand Prix,2021-07-04,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,11,17,0,69,Collision,8,227.196
+2021,9,Austrian Grand Prix,2021-07-04,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,19,18,0,69,+2 Laps,18,224.007
+2021,9,Austrian Grand Prix,2021-07-04,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,20,19,0,69,+2 Laps,19,222.842
+2021,9,Austrian Grand Prix,2021-07-04,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,17,20,0,0,Collision,,
+2021,10,British Grand Prix,2021-07-18,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,1,25,52,Finished,2,236.430
+2021,10,British Grand Prix,2021-07-18,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,4,2,18,52,Finished,5,234.159
+2021,10,British Grand Prix,2021-07-18,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,3,15,52,Finished,4,234.275
+2021,10,British Grand Prix,2021-07-18,norris,NOR,Lando Norris,mclaren,McLaren,4,5,4,12,52,Finished,9,231.979
+2021,10,British Grand Prix,2021-07-18,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,6,5,10,52,Finished,8,232.325
+2021,10,British Grand Prix,2021-07-18,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,10,6,8,52,Finished,7,232.480
+2021,10,British Grand Prix,2021-07-18,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,7,7,6,52,Finished,10,231.276
+2021,10,British Grand Prix,2021-07-18,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,14,8,4,52,Finished,12,230.537
+2021,10,British Grand Prix,2021-07-18,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,9,9,2,52,Finished,14,229.992
+2021,10,British Grand Prix,2021-07-18,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,16,10,1,52,Finished,6,233.497
+2021,10,British Grand Prix,2021-07-18,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,11,11,0,52,Finished,3,234.945
+2021,10,British Grand Prix,2021-07-18,russell,RUS,George Russell,williams,Williams,63,12,12,0,51,+1 Lap,13,230.394
+2021,10,British Grand Prix,2021-07-18,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,15,13,0,51,+1 Lap,15,229.653
+2021,10,British Grand Prix,2021-07-18,latifi,LAT,Nicholas Latifi,williams,Williams,6,17,14,0,51,+1 Lap,16,229.328
+2021,10,British Grand Prix,2021-07-18,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,13,15,0,51,+1 Lap,11,230.780
+2021,10,British Grand Prix,2021-07-18,perez,PER,Sergio Pérez,red_bull,Red Bull,11,0,16,0,51,+1 Lap,1,239.317
+2021,10,British Grand Prix,2021-07-18,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,19,17,0,51,+1 Lap,18,228.262
+2021,10,British Grand Prix,2021-07-18,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,18,18,0,51,+1 Lap,17,228.377
+2021,10,British Grand Prix,2021-07-18,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,8,19,0,40,Retired,19,227.894
+2021,10,British Grand Prix,2021-07-18,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,20,0,0,Collision,,
+2021,11,Hungarian Grand Prix,2021-08-01,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,8,1,25,70,Finished,5,193.704
+2021,11,Hungarian Grand Prix,2021-08-01,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,2,18,70,Finished,2,200.363
+2021,11,Hungarian Grand Prix,2021-08-01,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,15,3,15,70,Finished,6,193.699
+2021,11,Hungarian Grand Prix,2021-08-01,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,9,4,12,70,Finished,3,196.264
+2021,11,Hungarian Grand Prix,2021-08-01,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,5,5,11,70,Finished,1,201.183
+2021,11,Hungarian Grand Prix,2021-08-01,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,16,6,8,70,Finished,10,191.286
+2021,11,Hungarian Grand Prix,2021-08-01,latifi,LAT,Nicholas Latifi,williams,Williams,6,18,7,6,70,Finished,14,190.406
+2021,11,Hungarian Grand Prix,2021-08-01,russell,RUS,George Russell,williams,Williams,63,17,8,4,70,Finished,9,192.074
+2021,11,Hungarian Grand Prix,2021-08-01,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,3,9,2,70,Finished,4,194.843
+2021,11,Hungarian Grand Prix,2021-08-01,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,13,10,1,69,+1 Lap,8,193.473
+2021,11,Hungarian Grand Prix,2021-08-01,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,11,11,0,69,+1 Lap,13,190.473
+2021,11,Hungarian Grand Prix,2021-08-01,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,20,12,0,69,+1 Lap,11,190.683
+2021,11,Hungarian Grand Prix,2021-08-01,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,0,13,0,69,+1 Lap,12,190.625
+2021,11,Hungarian Grand Prix,2021-08-01,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,19,14,0,3,Collision,,
+2021,11,Hungarian Grand Prix,2021-08-01,norris,NOR,Lando Norris,mclaren,McLaren,4,6,15,0,2,Collision,,
+2021,11,Hungarian Grand Prix,2021-08-01,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,2,16,0,0,Collision,,
+2021,11,Hungarian Grand Prix,2021-08-01,perez,PER,Sergio Pérez,red_bull,Red Bull,11,4,17,0,0,Collision,,
+2021,11,Hungarian Grand Prix,2021-08-01,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,7,18,0,0,Collision,,
+2021,11,Hungarian Grand Prix,2021-08-01,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,12,19,0,0,Collision,,
+2021,11,Hungarian Grand Prix,2021-08-01,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,10,20,0,70,Disqualified,7,193.613
+2021,12,Belgian Grand Prix,2021-08-29,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,1,12.5,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,russell,RUS,George Russell,williams,Williams,63,2,2,9,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,3,3,7.5,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,4,4,6,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,5,5,5,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,6,6,4,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,8,7,3,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,9,8,2,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,latifi,LAT,Nicholas Latifi,williams,Williams,6,10,9,1,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,11,10,0.5,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,12,11,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,13,12,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,14,13,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,norris,NOR,Lando Norris,mclaren,McLaren,4,15,14,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,16,15,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,17,16,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,18,17,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,0,18,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,perez,PER,Sergio Pérez,red_bull,Red Bull,11,0,19,0,1,Finished,,
+2021,12,Belgian Grand Prix,2021-08-29,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,19,20,0,1,Finished,,
+2021,13,Dutch Grand Prix,2021-09-05,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,1,25,72,Finished,3,209.244
+2021,13,Dutch Grand Prix,2021-09-05,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,19,72,Finished,1,215.654
+2021,13,Dutch Grand Prix,2021-09-05,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,3,15,72,Finished,2,211.338
+2021,13,Dutch Grand Prix,2021-09-05,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,4,4,12,71,+1 Lap,10,204.929
+2021,13,Dutch Grand Prix,2021-09-05,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,5,5,10,71,+1 Lap,9,205.033
+2021,13,Dutch Grand Prix,2021-09-05,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,9,6,8,71,+1 Lap,7,206.294
+2021,13,Dutch Grand Prix,2021-09-05,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,6,7,6,71,+1 Lap,13,203.725
+2021,13,Dutch Grand Prix,2021-09-05,perez,PER,Sergio Pérez,red_bull,Red Bull,11,0,8,4,71,+1 Lap,4,208.714
+2021,13,Dutch Grand Prix,2021-09-05,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,8,9,2,71,+1 Lap,8,205.321
+2021,13,Dutch Grand Prix,2021-09-05,norris,NOR,Lando Norris,mclaren,McLaren,4,13,10,1,71,+1 Lap,6,206.535
+2021,13,Dutch Grand Prix,2021-09-05,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,10,11,0,71,+1 Lap,11,204.650
+2021,13,Dutch Grand Prix,2021-09-05,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,12,12,0,70,+2 Laps,15,202.780
+2021,13,Dutch Grand Prix,2021-09-05,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,15,13,0,70,+2 Laps,5,207.312
+2021,13,Dutch Grand Prix,2021-09-05,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,7,14,0,70,+2 Laps,12,204.091
+2021,13,Dutch Grand Prix,2021-09-05,kubica,KUB,Robert Kubica,alfa,Alfa Romeo,88,16,15,0,70,+2 Laps,14,203.234
+2021,13,Dutch Grand Prix,2021-09-05,latifi,LAT,Nicholas Latifi,williams,Williams,6,0,16,0,70,+2 Laps,18,202.301
+2021,13,Dutch Grand Prix,2021-09-05,russell,RUS,George Russell,williams,Williams,63,11,17,0,69,Gearbox,16,202.734
+2021,13,Dutch Grand Prix,2021-09-05,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,17,18,0,69,+3 Laps,19,201.936
+2021,13,Dutch Grand Prix,2021-09-05,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,14,19,0,48,Power Unit,17,202.319
+2021,13,Dutch Grand Prix,2021-09-05,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,18,20,0,41,Hydraulics,20,201.567
+2021,14,Italian Grand Prix,2021-09-12,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,2,1,26,53,Finished,1,245.894
+2021,14,Italian Grand Prix,2021-09-12,norris,NOR,Lando Norris,mclaren,McLaren,4,3,2,18,53,Finished,3,245.434
+2021,14,Italian Grand Prix,2021-09-12,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,19,3,15,53,Finished,2,245.850
+2021,14,Italian Grand Prix,2021-09-12,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,5,4,12,53,Finished,6,244.433
+2021,14,Italian Grand Prix,2021-09-12,perez,PER,Sergio Pérez,red_bull,Red Bull,11,8,5,10,53,Finished,4,244.901
+2021,14,Italian Grand Prix,2021-09-12,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,6,6,8,53,Finished,8,243.747
+2021,14,Italian Grand Prix,2021-09-12,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,9,7,6,53,Finished,13,242.912
+2021,14,Italian Grand Prix,2021-09-12,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,10,8,4,53,Finished,7,243.995
+2021,14,Italian Grand Prix,2021-09-12,russell,RUS,George Russell,williams,Williams,63,14,9,2,53,Finished,11,242.963
+2021,14,Italian Grand Prix,2021-09-12,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,12,10,1,53,Finished,9,243.727
+2021,14,Italian Grand Prix,2021-09-12,latifi,LAT,Nicholas Latifi,williams,Williams,6,13,11,0,53,Finished,16,242.630
+2021,14,Italian Grand Prix,2021-09-12,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,11,12,0,53,Finished,15,242.672
+2021,14,Italian Grand Prix,2021-09-12,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,7,13,0,53,Finished,10,243.295
+2021,14,Italian Grand Prix,2021-09-12,kubica,KUB,Robert Kubica,alfa,Alfa Romeo,88,17,14,0,53,Finished,12,242.924
+2021,14,Italian Grand Prix,2021-09-12,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,18,15,0,53,Finished,17,240.520
+2021,14,Italian Grand Prix,2021-09-12,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,16,16,0,41,Power Unit,18,239.155
+2021,14,Italian Grand Prix,2021-09-12,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,4,17,0,25,Collision,14,242.864
+2021,14,Italian Grand Prix,2021-09-12,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,18,0,25,Collision,5,244.852
+2021,14,Italian Grand Prix,2021-09-12,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,0,19,0,3,Suspension,19,234.310
+2021,14,Italian Grand Prix,2021-09-12,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,0,20,0,0,Brakes,,
+2021,15,Russian Grand Prix,2021-09-26,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,4,1,25,53,Finished,2,215.760
+2021,15,Russian Grand Prix,2021-09-26,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,20,2,18,53,Finished,5,213.959
+2021,15,Russian Grand Prix,2021-09-26,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,2,3,15,53,Finished,12,212.024
+2021,15,Russian Grand Prix,2021-09-26,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,5,4,12,53,Finished,9,212.388
+2021,15,Russian Grand Prix,2021-09-26,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,16,5,10,53,Finished,3,214.352
+2021,15,Russian Grand Prix,2021-09-26,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,6,6,8,53,Finished,6,213.331
+2021,15,Russian Grand Prix,2021-09-26,norris,NOR,Lando Norris,mclaren,McLaren,4,1,7,7,53,Finished,1,216.096
+2021,15,Russian Grand Prix,2021-09-26,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,13,8,4,53,Finished,16,209.921
+2021,15,Russian Grand Prix,2021-09-26,perez,PER,Sergio Pérez,red_bull,Red Bull,11,8,9,2,53,Finished,10,212.193
+2021,15,Russian Grand Prix,2021-09-26,russell,RUS,George Russell,williams,Williams,63,3,10,1,53,Finished,18,209.280
+2021,15,Russian Grand Prix,2021-09-26,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,7,11,0,53,Finished,17,209.555
+2021,15,Russian Grand Prix,2021-09-26,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,10,12,0,52,+1 Lap,11,212.116
+2021,15,Russian Grand Prix,2021-09-26,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,11,13,0,52,+1 Lap,4,214.214
+2021,15,Russian Grand Prix,2021-09-26,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,9,14,0,52,+1 Lap,19,209.276
+2021,15,Russian Grand Prix,2021-09-26,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,19,15,0,52,+1 Lap,7,212.667
+2021,15,Russian Grand Prix,2021-09-26,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,17,16,0,52,+1 Lap,8,212.530
+2021,15,Russian Grand Prix,2021-09-26,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,12,17,0,52,+1 Lap,13,210.612
+2021,15,Russian Grand Prix,2021-09-26,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,15,18,0,51,+2 Laps,20,206.982
+2021,15,Russian Grand Prix,2021-09-26,latifi,LAT,Nicholas Latifi,williams,Williams,6,18,19,0,47,Accident,14,210.528
+2021,15,Russian Grand Prix,2021-09-26,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,14,20,0,32,Oil leak,15,209.948
+2021,16,Turkish Grand Prix,2021-10-10,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,1,26,58,Finished,1,212.500
+2021,16,Turkish Grand Prix,2021-10-10,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,2,2,18,58,Finished,9,207.169
+2021,16,Turkish Grand Prix,2021-10-10,perez,PER,Sergio Pérez,red_bull,Red Bull,11,6,3,15,58,Finished,4,207.841
+2021,16,Turkish Grand Prix,2021-10-10,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,3,4,12,58,Finished,8,207.218
+2021,16,Turkish Grand Prix,2021-10-10,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,11,5,10,58,Finished,10,207.160
+2021,16,Turkish Grand Prix,2021-10-10,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,4,6,8,58,Finished,11,207.046
+2021,16,Turkish Grand Prix,2021-10-10,norris,NOR,Lando Norris,mclaren,McLaren,4,7,7,6,58,Finished,3,207.870
+2021,16,Turkish Grand Prix,2021-10-10,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,19,8,4,58,Finished,2,209.057
+2021,16,Turkish Grand Prix,2021-10-10,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,8,9,2,58,Finished,6,207.506
+2021,16,Turkish Grand Prix,2021-10-10,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,12,10,1,57,+1 Lap,19,203.171
+2021,16,Turkish Grand Prix,2021-10-10,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,16,11,0,57,+1 Lap,13,206.845
+2021,16,Turkish Grand Prix,2021-10-10,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,17,12,0,57,+1 Lap,5,207.556
+2021,16,Turkish Grand Prix,2021-10-10,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,20,13,0,57,+1 Lap,15,206.067
+2021,16,Turkish Grand Prix,2021-10-10,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,9,14,0,57,+1 Lap,12,206.979
+2021,16,Turkish Grand Prix,2021-10-10,russell,RUS,George Russell,williams,Williams,63,13,15,0,57,+1 Lap,16,205.749
+2021,16,Turkish Grand Prix,2021-10-10,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,5,16,0,57,+1 Lap,14,206.073
+2021,16,Turkish Grand Prix,2021-10-10,latifi,LAT,Nicholas Latifi,williams,Williams,6,15,17,0,57,+1 Lap,17,205.149
+2021,16,Turkish Grand Prix,2021-10-10,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,10,18,0,57,+1 Lap,7,207.233
+2021,16,Turkish Grand Prix,2021-10-10,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,14,19,0,56,+2 Laps,18,203.980
+2021,16,Turkish Grand Prix,2021-10-10,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,18,20,0,56,+2 Laps,20,201.353
+2021,17,United States Grand Prix,2021-10-24,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,1,25,56,Finished,2,200.278
+2021,17,United States Grand Prix,2021-10-24,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,19,56,Finished,1,201.521
+2021,17,United States Grand Prix,2021-10-24,perez,PER,Sergio Pérez,red_bull,Red Bull,11,3,3,15,56,Finished,4,199.333
+2021,17,United States Grand Prix,2021-10-24,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,4,4,12,56,Finished,3,199.861
+2021,17,United States Grand Prix,2021-10-24,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,6,5,10,56,Finished,8,197.785
+2021,17,United States Grand Prix,2021-10-24,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,9,6,8,56,Finished,6,198.176
+2021,17,United States Grand Prix,2021-10-24,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,5,7,6,56,Finished,9,197.722
+2021,17,United States Grand Prix,2021-10-24,norris,NOR,Lando Norris,mclaren,McLaren,4,7,8,4,56,Finished,7,198.016
+2021,17,United States Grand Prix,2021-10-24,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,10,9,2,55,+1 Lap,13,196.209
+2021,17,United States Grand Prix,2021-10-24,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,18,10,1,55,+1 Lap,10,197.517
+2021,17,United States Grand Prix,2021-10-24,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,12,11,0,55,+1 Lap,12,196.221
+2021,17,United States Grand Prix,2021-10-24,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,13,12,0,55,+1 Lap,14,196.135
+2021,17,United States Grand Prix,2021-10-24,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,15,13,0,55,+1 Lap,15,195.843
+2021,17,United States Grand Prix,2021-10-24,russell,RUS,George Russell,williams,Williams,63,20,14,0,55,+1 Lap,11,196.269
+2021,17,United States Grand Prix,2021-10-24,latifi,LAT,Nicholas Latifi,williams,Williams,6,14,15,0,55,+1 Lap,17,194.924
+2021,17,United States Grand Prix,2021-10-24,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,16,16,0,54,+2 Laps,16,195.737
+2021,17,United States Grand Prix,2021-10-24,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,17,17,0,54,+2 Laps,20,192.900
+2021,17,United States Grand Prix,2021-10-24,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,19,18,0,49,Rear wing,5,198.335
+2021,17,United States Grand Prix,2021-10-24,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,11,19,0,40,Mechanical,19,194.207
+2021,17,United States Grand Prix,2021-10-24,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,8,20,0,14,Suspension,18,194.547
+2021,18,Mexico City Grand Prix,2021-11-07,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,3,1,25,71,Finished,2,196.134
+2021,18,Mexico City Grand Prix,2021-11-07,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,18,71,Finished,4,194.116
+2021,18,Mexico City Grand Prix,2021-11-07,perez,PER,Sergio Pérez,red_bull,Red Bull,11,4,3,15,71,Finished,3,194.976
+2021,18,Mexico City Grand Prix,2021-11-07,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,5,4,12,71,Finished,7,192.453
+2021,18,Mexico City Grand Prix,2021-11-07,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,8,5,10,71,Finished,9,192.083
+2021,18,Mexico City Grand Prix,2021-11-07,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,6,6,8,70,+1 Lap,5,193.484
+2021,18,Mexico City Grand Prix,2021-11-07,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,9,7,6,70,+1 Lap,6,192.572
+2021,18,Mexico City Grand Prix,2021-11-07,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,10,8,4,70,+1 Lap,11,191.969
+2021,18,Mexico City Grand Prix,2021-11-07,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,12,9,2,70,+1 Lap,10,191.973
+2021,18,Mexico City Grand Prix,2021-11-07,norris,NOR,Lando Norris,mclaren,McLaren,4,18,10,1,70,+1 Lap,8,192.197
+2021,18,Mexico City Grand Prix,2021-11-07,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,11,11,0,70,+1 Lap,16,190.061
+2021,18,Mexico City Grand Prix,2021-11-07,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,7,12,0,70,+1 Lap,13,191.126
+2021,18,Mexico City Grand Prix,2021-11-07,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,19,13,0,70,+1 Lap,14,190.470
+2021,18,Mexico City Grand Prix,2021-11-07,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,20,14,0,69,+2 Laps,12,191.454
+2021,18,Mexico City Grand Prix,2021-11-07,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,15,0,69,+2 Laps,1,199.223
+2021,18,Mexico City Grand Prix,2021-11-07,russell,RUS,George Russell,williams,Williams,63,16,16,0,69,+2 Laps,18,188.919
+2021,18,Mexico City Grand Prix,2021-11-07,latifi,LAT,Nicholas Latifi,williams,Williams,6,13,17,0,69,+2 Laps,17,190.008
+2021,18,Mexico City Grand Prix,2021-11-07,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,15,18,0,68,+3 Laps,15,190.344
+2021,18,Mexico City Grand Prix,2021-11-07,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,14,19,0,0,Collision,,
+2021,18,Mexico City Grand Prix,2021-11-07,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,17,20,0,0,Collision,,
+2021,19,São Paulo Grand Prix,2021-11-14,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,10,1,25,71,Finished,2,215.503
+2021,19,São Paulo Grand Prix,2021-11-14,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,2,2,18,71,Finished,3,214.005
+2021,19,São Paulo Grand Prix,2021-11-14,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,3,15,71,Finished,4,213.887
+2021,19,São Paulo Grand Prix,2021-11-14,perez,PER,Sergio Pérez,red_bull,Red Bull,11,4,4,13,71,Finished,1,218.453
+2021,19,São Paulo Grand Prix,2021-11-14,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,6,5,10,71,Finished,7,213.018
+2021,19,São Paulo Grand Prix,2021-11-14,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,3,6,8,71,Finished,6,213.346
+2021,19,São Paulo Grand Prix,2021-11-14,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,7,7,6,70,+1 Lap,8,211.839
+2021,19,São Paulo Grand Prix,2021-11-14,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,8,8,4,70,+1 Lap,16,208.415
+2021,19,São Paulo Grand Prix,2021-11-14,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,12,9,2,70,+1 Lap,12,209.848
+2021,19,São Paulo Grand Prix,2021-11-14,norris,NOR,Lando Norris,mclaren,McLaren,4,5,10,1,70,+1 Lap,10,210.306
+2021,19,São Paulo Grand Prix,2021-11-14,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,9,11,0,70,+1 Lap,9,210.668
+2021,19,São Paulo Grand Prix,2021-11-14,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,0,12,0,70,+1 Lap,5,213.607
+2021,19,São Paulo Grand Prix,2021-11-14,russell,RUS,George Russell,williams,Williams,63,17,13,0,70,+1 Lap,15,208.626
+2021,19,São Paulo Grand Prix,2021-11-14,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,13,14,0,70,+1 Lap,14,208.985
+2021,19,São Paulo Grand Prix,2021-11-14,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,15,15,0,70,+1 Lap,13,209.050
+2021,19,São Paulo Grand Prix,2021-11-14,latifi,LAT,Nicholas Latifi,williams,Williams,6,16,16,0,70,+1 Lap,18,207.896
+2021,19,São Paulo Grand Prix,2021-11-14,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,19,17,0,69,+2 Laps,19,206.958
+2021,19,São Paulo Grand Prix,2021-11-14,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,18,18,0,69,+2 Laps,11,210.215
+2021,19,São Paulo Grand Prix,2021-11-14,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,11,19,0,49,Power loss,17,208.379
+2021,19,São Paulo Grand Prix,2021-11-14,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,14,20,0,47,Collision damage,20,205.887
+2021,20,Qatar Grand Prix,2021-11-21,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,57,Finished,2,227.633
+2021,20,Qatar Grand Prix,2021-11-21,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,7,2,19,57,Finished,1,232.799
+2021,20,Qatar Grand Prix,2021-11-21,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,3,3,15,57,Finished,10,223.437
+2021,20,Qatar Grand Prix,2021-11-21,perez,PER,Sergio Pérez,red_bull,Red Bull,11,11,4,12,57,Finished,3,226.227
+2021,20,Qatar Grand Prix,2021-11-21,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,9,5,10,57,Finished,13,222.464
+2021,20,Qatar Grand Prix,2021-11-21,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,12,6,8,57,Finished,17,221.713
+2021,20,Qatar Grand Prix,2021-11-21,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,5,7,6,57,Finished,9,223.726
+2021,20,Qatar Grand Prix,2021-11-21,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,13,8,4,57,Finished,8,223.765
+2021,20,Qatar Grand Prix,2021-11-21,norris,NOR,Lando Norris,mclaren,McLaren,4,4,9,2,56,+1 Lap,4,225.876
+2021,20,Qatar Grand Prix,2021-11-21,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,10,10,1,56,+1 Lap,7,224.078
+2021,20,Qatar Grand Prix,2021-11-21,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,2,11,0,56,+1 Lap,11,222.572
+2021,20,Qatar Grand Prix,2021-11-21,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,14,12,0,56,+1 Lap,14,222.115
+2021,20,Qatar Grand Prix,2021-11-21,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,8,13,0,56,+1 Lap,12,222.510
+2021,20,Qatar Grand Prix,2021-11-21,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,16,14,0,56,+1 Lap,6,224.275
+2021,20,Qatar Grand Prix,2021-11-21,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,18,15,0,56,+1 Lap,18,220.534
+2021,20,Qatar Grand Prix,2021-11-21,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,19,16,0,56,+1 Lap,19,219.065
+2021,20,Qatar Grand Prix,2021-11-21,russell,RUS,George Russell,williams,Williams,63,15,17,0,55,+2 Laps,5,225.818
+2021,20,Qatar Grand Prix,2021-11-21,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,20,18,0,55,+2 Laps,16,221.754
+2021,20,Qatar Grand Prix,2021-11-21,latifi,LAT,Nicholas Latifi,williams,Williams,6,17,19,0,50,Puncture,20,218.275
+2021,20,Qatar Grand Prix,2021-11-21,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,6,20,0,48,Damage,15,221.992
+2021,21,Saudi Arabian Grand Prix,2021-12-05,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,26,50,Finished,1,244.962
+2021,21,Saudi Arabian Grand Prix,2021-12-05,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,3,2,18,50,Finished,3,242.943
+2021,21,Saudi Arabian Grand Prix,2021-12-05,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,2,3,15,50,Finished,2,243.155
+2021,21,Saudi Arabian Grand Prix,2021-12-05,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,9,4,12,50,Finished,6,242.125
+2021,21,Saudi Arabian Grand Prix,2021-12-05,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,11,5,10,50,Finished,11,239.725
+2021,21,Saudi Arabian Grand Prix,2021-12-05,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,6,6,8,50,Finished,9,240.813
+2021,21,Saudi Arabian Grand Prix,2021-12-05,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,4,7,6,50,Finished,4,242.643
+2021,21,Saudi Arabian Grand Prix,2021-12-05,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,15,8,4,50,Finished,7,241.983
+2021,21,Saudi Arabian Grand Prix,2021-12-05,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,10,9,2,50,Finished,15,239.340
+2021,21,Saudi Arabian Grand Prix,2021-12-05,norris,NOR,Lando Norris,mclaren,McLaren,4,7,10,1,50,Finished,8,241.817
+2021,21,Saudi Arabian Grand Prix,2021-12-05,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,18,11,0,50,Finished,14,239.498
+2021,21,Saudi Arabian Grand Prix,2021-12-05,latifi,LAT,Nicholas Latifi,williams,Williams,6,16,12,0,50,Finished,12,239.635
+2021,21,Saudi Arabian Grand Prix,2021-12-05,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,13,13,0,49,+1 Lap,5,242.558
+2021,21,Saudi Arabian Grand Prix,2021-12-05,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,8,14,0,49,+1 Lap,10,240.269
+2021,21,Saudi Arabian Grand Prix,2021-12-05,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,12,15,0,49,+1 Lap,13,239.565
+2021,21,Saudi Arabian Grand Prix,2021-12-05,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,17,16,0,44,Collision damage,16,236.375
+2021,21,Saudi Arabian Grand Prix,2021-12-05,perez,PER,Sergio Pérez,red_bull,Red Bull,11,5,17,0,14,Collision,17,236.104
+2021,21,Saudi Arabian Grand Prix,2021-12-05,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,20,18,0,14,Collision,20,229.036
+2021,21,Saudi Arabian Grand Prix,2021-12-05,russell,RUS,George Russell,williams,Williams,63,14,19,0,14,Collision,19,231.211
+2021,21,Saudi Arabian Grand Prix,2021-12-05,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,19,20,0,8,Accident,18,231.421
+2021,22,Abu Dhabi Grand Prix,2021-12-12,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,1,1,26,58,Finished,1,220.800
+2021,22,Abu Dhabi Grand Prix,2021-12-12,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,18,58,Finished,3,219.495
+2021,22,Abu Dhabi Grand Prix,2021-12-12,sainz,SAI,Carlos Sainz,ferrari,Ferrari,55,5,3,15,58,Finished,9,216.982
+2021,22,Abu Dhabi Grand Prix,2021-12-12,tsunoda,TSU,Yuki Tsunoda,alphatauri,AlphaTauri,22,8,4,12,58,Finished,7,217.285
+2021,22,Abu Dhabi Grand Prix,2021-12-12,gasly,GAS,Pierre Gasly,alphatauri,AlphaTauri,10,12,5,10,58,Finished,6,217.668
+2021,22,Abu Dhabi Grand Prix,2021-12-12,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,6,6,8,58,Finished,5,218.871
+2021,22,Abu Dhabi Grand Prix,2021-12-12,norris,NOR,Lando Norris,mclaren,McLaren,4,3,7,6,58,Finished,4,219.123
+2021,22,Abu Dhabi Grand Prix,2021-12-12,alonso,ALO,Fernando Alonso,alpine,Alpine F1 Team,14,11,8,4,58,Finished,8,217.010
+2021,22,Abu Dhabi Grand Prix,2021-12-12,ocon,OCO,Esteban Ocon,alpine,Alpine F1 Team,31,9,9,2,58,Finished,10,215.431
+2021,22,Abu Dhabi Grand Prix,2021-12-12,leclerc,LEC,Charles Leclerc,ferrari,Ferrari,16,7,10,1,58,Finished,12,214.983
+2021,22,Abu Dhabi Grand Prix,2021-12-12,vettel,VET,Sebastian Vettel,aston_martin,Aston Martin,5,15,11,0,58,Finished,11,215.299
+2021,22,Abu Dhabi Grand Prix,2021-12-12,ricciardo,RIC,Daniel Ricciardo,mclaren,McLaren,3,10,12,0,57,+1 Lap,14,214.280
+2021,22,Abu Dhabi Grand Prix,2021-12-12,stroll,STR,Lance Stroll,aston_martin,Aston Martin,18,13,13,0,57,+1 Lap,13,214.657
+2021,22,Abu Dhabi Grand Prix,2021-12-12,mick_schumacher,MSC,Mick Schumacher,haas,Haas F1 Team,47,19,14,0,57,+1 Lap,17,212.522
+2021,22,Abu Dhabi Grand Prix,2021-12-12,perez,PER,Sergio Pérez,red_bull,Red Bull,11,4,15,0,55,Engine,2,219.993
+2021,22,Abu Dhabi Grand Prix,2021-12-12,latifi,LAT,Nicholas Latifi,williams,Williams,6,16,16,0,50,Accident,15,212.912
+2021,22,Abu Dhabi Grand Prix,2021-12-12,giovinazzi,GIO,Antonio Giovinazzi,alfa,Alfa Romeo,99,14,17,0,33,Gearbox,16,212.557
+2021,22,Abu Dhabi Grand Prix,2021-12-12,russell,RUS,George Russell,williams,Williams,63,17,18,0,26,Gearbox,19,209.732
+2021,22,Abu Dhabi Grand Prix,2021-12-12,raikkonen,RAI,Kimi Räikkönen,alfa,Alfa Romeo,7,18,19,0,25,Brakes,18,211.951
+2021,22,Abu Dhabi Grand Prix,2021-12-12,mazepin,MAZ,Nikita Mazepin,haas,Haas F1 Team,9,20,20,0,0,Illness,,

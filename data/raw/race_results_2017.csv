@@ -1,0 +1,401 @@
+season,round,race_name,date,driver_id,driver_code,driver_name,constructor_id,constructor,number,grid,position,points,laps,status,fastest_lap_rank,fastest_lap_time
+2017,1,Australian Grand Prix,2017-03-26,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,1,25,57,Finished,3,220.351
+2017,1,Australian Grand Prix,2017-03-26,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,2,18,57,Finished,6,219.351
+2017,1,Australian Grand Prix,2017-03-26,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,3,15,57,Finished,2,220.465
+2017,1,Australian Grand Prix,2017-03-26,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,4,4,12,57,Finished,1,220.605
+2017,1,Australian Grand Prix,2017-03-26,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,5,5,10,57,Finished,5,219.525
+2017,1,Australian Grand Prix,2017-03-26,massa,MAS,Felipe Massa,williams,Williams,19,7,6,8,57,Finished,9,216.830
+2017,1,Australian Grand Prix,2017-03-26,perez,PER,Sergio Pérez,force_india,Force India,11,10,7,6,56,+1 Lap,10,216.115
+2017,1,Australian Grand Prix,2017-03-26,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,8,8,4,56,+1 Lap,8,217.740
+2017,1,Australian Grand Prix,2017-03-26,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,9,9,2,56,+1 Lap,4,220.165
+2017,1,Australian Grand Prix,2017-03-26,ocon,OCO,Esteban Ocon,force_india,Force India,31,13,10,1,56,+1 Lap,11,215.776
+2017,1,Australian Grand Prix,2017-03-26,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,11,11,0,56,+1 Lap,12,215.749
+2017,1,Australian Grand Prix,2017-03-26,giovinazzi,GIO,Antonio Giovinazzi,sauber,Sauber,36,16,12,0,55,+2 Laps,13,214.378
+2017,1,Australian Grand Prix,2017-03-26,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,18,13,0,55,+2 Laps,15,213.448
+2017,1,Australian Grand Prix,2017-03-26,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,12,14,0,50,Vibrations,17,211.938
+2017,1,Australian Grand Prix,2017-03-26,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,17,15,0,46,Suspension,7,218.011
+2017,1,Australian Grand Prix,2017-03-26,stroll,STR,Lance Stroll,williams,Williams,18,20,16,0,40,Brakes,14,213.569
+2017,1,Australian Grand Prix,2017-03-26,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,0,17,0,25,Power Unit,16,213.431
+2017,1,Australian Grand Prix,2017-03-26,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,14,18,0,21,Hydraulics,19,207.391
+2017,1,Australian Grand Prix,2017-03-26,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,19,19,0,15,Brakes,20,207.069
+2017,1,Australian Grand Prix,2017-03-26,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,6,20,0,13,Water leak,18,211.689
+2017,2,Chinese Grand Prix,2017-04-09,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,56,Finished,1,205.745
+2017,2,Chinese Grand Prix,2017-04-09,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,2,18,56,Finished,2,205.648
+2017,2,Chinese Grand Prix,2017-04-09,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,16,3,15,56,Finished,7,202.886
+2017,2,Chinese Grand Prix,2017-04-09,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,4,12,56,Finished,8,202.741
+2017,2,Chinese Grand Prix,2017-04-09,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,4,5,10,56,Finished,4,204.406
+2017,2,Chinese Grand Prix,2017-04-09,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,6,8,56,Finished,3,204.734
+2017,2,Chinese Grand Prix,2017-04-09,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,11,7,6,56,Finished,10,201.478
+2017,2,Chinese Grand Prix,2017-04-09,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,12,8,4,55,+1 Lap,11,201.209
+2017,2,Chinese Grand Prix,2017-04-09,perez,PER,Sergio Pérez,force_india,Force India,11,8,9,2,55,+1 Lap,6,203.288
+2017,2,Chinese Grand Prix,2017-04-09,ocon,OCO,Esteban Ocon,force_india,Force India,31,17,10,1,55,+1 Lap,9,202.230
+2017,2,Chinese Grand Prix,2017-04-09,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,19,11,0,55,+1 Lap,12,201.162
+2017,2,Chinese Grand Prix,2017-04-09,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,7,12,0,55,+1 Lap,13,200.210
+2017,2,Chinese Grand Prix,2017-04-09,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,20,13,0,55,+1 Lap,14,199.871
+2017,2,Chinese Grand Prix,2017-04-09,massa,MAS,Felipe Massa,williams,Williams,19,6,14,0,55,+1 Lap,5,203.330
+2017,2,Chinese Grand Prix,2017-04-09,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,14,15,0,55,+1 Lap,16,196.763
+2017,2,Chinese Grand Prix,2017-04-09,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,13,16,0,33,Driveshaft,15,197.230
+2017,2,Chinese Grand Prix,2017-04-09,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,9,17,0,18,Hydraulics,17,196.059
+2017,2,Chinese Grand Prix,2017-04-09,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,15,18,0,17,Fuel pressure,18,193.412
+2017,2,Chinese Grand Prix,2017-04-09,giovinazzi,GIO,Antonio Giovinazzi,sauber,Sauber,36,18,19,0,3,Accident,,
+2017,2,Chinese Grand Prix,2017-04-09,stroll,STR,Lance Stroll,williams,Williams,18,10,20,0,0,Collision,,
+2017,3,Bahrain Grand Prix,2017-04-16,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,3,1,25,57,Finished,4,207.652
+2017,3,Bahrain Grand Prix,2017-04-16,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,18,57,Finished,1,209.952
+2017,3,Bahrain Grand Prix,2017-04-16,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,3,15,57,Finished,5,207.076
+2017,3,Bahrain Grand Prix,2017-04-16,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,5,4,12,57,Finished,3,207.887
+2017,3,Bahrain Grand Prix,2017-04-16,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,4,5,10,57,Finished,2,208.387
+2017,3,Bahrain Grand Prix,2017-04-16,massa,MAS,Felipe Massa,williams,Williams,19,8,6,8,57,Finished,6,206.705
+2017,3,Bahrain Grand Prix,2017-04-16,perez,PER,Sergio Pérez,force_india,Force India,11,18,7,6,57,Finished,7,205.933
+2017,3,Bahrain Grand Prix,2017-04-16,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,9,8,4,57,Finished,8,205.198
+2017,3,Bahrain Grand Prix,2017-04-16,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,7,9,2,57,Finished,12,204.286
+2017,3,Bahrain Grand Prix,2017-04-16,ocon,OCO,Esteban Ocon,force_india,Force India,31,14,10,1,57,Finished,11,204.700
+2017,3,Bahrain Grand Prix,2017-04-16,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,13,11,0,56,+1 Lap,17,201.301
+2017,3,Bahrain Grand Prix,2017-04-16,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,11,12,0,56,+1 Lap,9,205.118
+2017,3,Bahrain Grand Prix,2017-04-16,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,10,13,0,56,+1 Lap,13,203.901
+2017,3,Bahrain Grand Prix,2017-04-16,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,15,14,0,54,Power Unit,14,203.809
+2017,3,Bahrain Grand Prix,2017-04-16,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,19,15,0,50,Gearbox,10,204.900
+2017,3,Bahrain Grand Prix,2017-04-16,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,16,16,0,12,Collision,18,198.755
+2017,3,Bahrain Grand Prix,2017-04-16,stroll,STR,Lance Stroll,williams,Williams,18,12,17,0,12,Collision,15,202.311
+2017,3,Bahrain Grand Prix,2017-04-16,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,6,18,0,11,Brakes,16,201.520
+2017,3,Bahrain Grand Prix,2017-04-16,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,20,19,0,8,Electrical,19,197.362
+2017,3,Bahrain Grand Prix,2017-04-16,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,17,20,0,0,Power Unit,,
+2017,4,Russian Grand Prix,2017-04-30,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,1,25,52,Finished,3,216.221
+2017,4,Russian Grand Prix,2017-04-30,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,1,2,18,52,Finished,2,216.343
+2017,4,Russian Grand Prix,2017-04-30,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,2,3,15,52,Finished,1,217.388
+2017,4,Russian Grand Prix,2017-04-30,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,4,4,12,52,Finished,6,213.955
+2017,4,Russian Grand Prix,2017-04-30,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,7,5,10,52,Finished,8,213.888
+2017,4,Russian Grand Prix,2017-04-30,perez,PER,Sergio Pérez,force_india,Force India,11,9,6,8,52,Finished,9,213.385
+2017,4,Russian Grand Prix,2017-04-30,ocon,OCO,Esteban Ocon,force_india,Force India,31,10,7,6,52,Finished,10,213.203
+2017,4,Russian Grand Prix,2017-04-30,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,8,8,4,52,Finished,7,213.912
+2017,4,Russian Grand Prix,2017-04-30,massa,MAS,Felipe Massa,williams,Williams,19,6,9,2,51,+1 Lap,4,214.317
+2017,4,Russian Grand Prix,2017-04-30,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,14,10,1,51,+1 Lap,11,212.960
+2017,4,Russian Grand Prix,2017-04-30,stroll,STR,Lance Stroll,williams,Williams,18,11,11,0,51,+1 Lap,12,212.934
+2017,4,Russian Grand Prix,2017-04-30,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,12,12,0,51,+1 Lap,5,214.168
+2017,4,Russian Grand Prix,2017-04-30,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,13,13,0,51,+1 Lap,13,211.445
+2017,4,Russian Grand Prix,2017-04-30,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,20,14,0,51,+1 Lap,14,210.971
+2017,4,Russian Grand Prix,2017-04-30,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,18,15,0,51,+1 Lap,15,210.875
+2017,4,Russian Grand Prix,2017-04-30,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,17,16,0,50,+2 Laps,16,208.604
+2017,4,Russian Grand Prix,2017-04-30,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,17,0,5,Brakes,17,205.824
+2017,4,Russian Grand Prix,2017-04-30,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,16,18,0,0,Collision,,
+2017,4,Russian Grand Prix,2017-04-30,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,19,19,0,0,Collision,,
+2017,4,Russian Grand Prix,2017-04-30,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,15,20,0,0,Power Unit,,
+2017,5,Spanish Grand Prix,2017-05-14,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,66,Finished,1,200.471
+2017,5,Spanish Grand Prix,2017-05-14,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,2,18,66,Finished,2,200.277
+2017,5,Spanish Grand Prix,2017-05-14,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,6,3,15,66,Finished,3,200.248
+2017,5,Spanish Grand Prix,2017-05-14,perez,PER,Sergio Pérez,force_india,Force India,11,8,4,12,65,+1 Lap,7,195.417
+2017,5,Spanish Grand Prix,2017-05-14,ocon,OCO,Esteban Ocon,force_india,Force India,31,10,5,10,65,+1 Lap,11,194.237
+2017,5,Spanish Grand Prix,2017-05-14,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,13,6,8,65,+1 Lap,15,193.280
+2017,5,Spanish Grand Prix,2017-05-14,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,12,7,6,65,+1 Lap,9,194.439
+2017,5,Spanish Grand Prix,2017-05-14,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,15,8,4,65,+1 Lap,14,193.787
+2017,5,Spanish Grand Prix,2017-05-14,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,19,9,2,65,+1 Lap,8,194.914
+2017,5,Spanish Grand Prix,2017-05-14,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,14,10,1,65,+1 Lap,17,192.906
+2017,5,Spanish Grand Prix,2017-05-14,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,16,11,0,64,+2 Laps,10,194.379
+2017,5,Spanish Grand Prix,2017-05-14,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,7,12,0,64,+2 Laps,4,199.752
+2017,5,Spanish Grand Prix,2017-05-14,massa,MAS,Felipe Massa,williams,Williams,19,9,13,0,64,+2 Laps,13,193.796
+2017,5,Spanish Grand Prix,2017-05-14,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,11,14,0,64,+2 Laps,12,194.023
+2017,5,Spanish Grand Prix,2017-05-14,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,17,15,0,64,+2 Laps,6,197.517
+2017,5,Spanish Grand Prix,2017-05-14,stroll,STR,Lance Stroll,williams,Williams,18,18,16,0,64,+2 Laps,16,192.980
+2017,5,Spanish Grand Prix,2017-05-14,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,17,0,38,Power Unit,5,197.860
+2017,5,Spanish Grand Prix,2017-05-14,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,20,18,0,32,Collision,18,191.401
+2017,5,Spanish Grand Prix,2017-05-14,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,5,19,0,1,Collision damage,,
+2017,5,Spanish Grand Prix,2017-05-14,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,4,20,0,0,Collision damage,,
+2017,6,Monaco Grand Prix,2017-05-28,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,1,25,78,Finished,2,159.669
+2017,6,Monaco Grand Prix,2017-05-28,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,1,2,18,78,Finished,3,159.058
+2017,6,Monaco Grand Prix,2017-05-28,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,3,15,78,Finished,4,158.577
+2017,6,Monaco Grand Prix,2017-05-28,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,4,12,78,Finished,9,157.160
+2017,6,Monaco Grand Prix,2017-05-28,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,4,5,10,78,Finished,8,157.387
+2017,6,Monaco Grand Prix,2017-05-28,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,6,6,8,78,Finished,14,156.730
+2017,6,Monaco Grand Prix,2017-05-28,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,13,7,6,78,Finished,5,158.433
+2017,6,Monaco Grand Prix,2017-05-28,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,8,8,4,78,Finished,18,155.823
+2017,6,Monaco Grand Prix,2017-05-28,massa,MAS,Felipe Massa,williams,Williams,19,14,9,2,78,Finished,12,156.947
+2017,6,Monaco Grand Prix,2017-05-28,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,11,10,1,78,Finished,7,157.420
+2017,6,Monaco Grand Prix,2017-05-28,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,16,11,0,78,Finished,13,156.801
+2017,6,Monaco Grand Prix,2017-05-28,ocon,OCO,Esteban Ocon,force_india,Force India,31,15,12,0,78,Finished,10,157.072
+2017,6,Monaco Grand Prix,2017-05-28,perez,PER,Sergio Pérez,force_india,Force India,11,7,13,0,78,Finished,1,160.561
+2017,6,Monaco Grand Prix,2017-05-28,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,9,14,0,71,Collision damage,11,156.955
+2017,6,Monaco Grand Prix,2017-05-28,stroll,STR,Lance Stroll,williams,Williams,18,17,15,0,71,Brakes,6,157.912
+2017,6,Monaco Grand Prix,2017-05-28,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,12,16,0,66,Accident,15,156.697
+2017,6,Monaco Grand Prix,2017-05-28,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,19,17,0,63,Accident,16,156.362
+2017,6,Monaco Grand Prix,2017-05-28,button,BUT,Jenson Button,mclaren,McLaren,22,20,18,0,57,Collision damage,17,156.194
+2017,6,Monaco Grand Prix,2017-05-28,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,18,19,0,57,Collision,20,153.948
+2017,6,Monaco Grand Prix,2017-05-28,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,10,20,0,15,Gearbox,19,154.242
+2017,7,Canadian Grand Prix,2017-06-11,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,70,Finished,1,210.588
+2017,7,Canadian Grand Prix,2017-06-11,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,2,18,70,Finished,5,206.862
+2017,7,Canadian Grand Prix,2017-06-11,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,6,3,15,70,Finished,8,206.126
+2017,7,Canadian Grand Prix,2017-06-11,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,4,12,70,Finished,2,210.115
+2017,7,Canadian Grand Prix,2017-06-11,perez,PER,Sergio Pérez,force_india,Force India,11,8,5,10,70,Finished,11,205.580
+2017,7,Canadian Grand Prix,2017-06-11,ocon,OCO,Esteban Ocon,force_india,Force India,31,9,6,8,70,Finished,9,205.904
+2017,7,Canadian Grand Prix,2017-06-11,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,4,7,6,70,Finished,3,208.250
+2017,7,Canadian Grand Prix,2017-06-11,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,10,8,4,70,Finished,7,206.204
+2017,7,Canadian Grand Prix,2017-06-11,stroll,STR,Lance Stroll,williams,Williams,18,17,9,2,69,+1 Lap,6,206.630
+2017,7,Canadian Grand Prix,2017-06-11,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,14,10,1,69,+1 Lap,15,204.026
+2017,7,Canadian Grand Prix,2017-06-11,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,15,11,0,69,+1 Lap,12,204.677
+2017,7,Canadian Grand Prix,2017-06-11,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,18,12,0,69,+1 Lap,10,205.650
+2017,7,Canadian Grand Prix,2017-06-11,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,19,13,0,69,+1 Lap,16,203.904
+2017,7,Canadian Grand Prix,2017-06-11,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,16,14,0,69,+1 Lap,14,204.491
+2017,7,Canadian Grand Prix,2017-06-11,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,20,15,0,68,+2 Laps,17,203.650
+2017,7,Canadian Grand Prix,2017-06-11,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,12,16,0,66,Power Unit,4,206.974
+2017,7,Canadian Grand Prix,2017-06-11,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,11,17,0,54,Power Unit,13,204.653
+2017,7,Canadian Grand Prix,2017-06-11,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,5,18,0,10,Electrical,18,203.396
+2017,7,Canadian Grand Prix,2017-06-11,massa,MAS,Felipe Massa,williams,Williams,19,7,19,0,0,Collision,,
+2017,7,Canadian Grand Prix,2017-06-11,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,13,20,0,0,Collision,,
+2017,8,Azerbaijan Grand Prix,2017-06-25,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,10,1,25,51,Finished,4,206.048
+2017,8,Azerbaijan Grand Prix,2017-06-25,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,2,2,18,51,Finished,3,207.946
+2017,8,Azerbaijan Grand Prix,2017-06-25,stroll,STR,Lance Stroll,williams,Williams,18,8,3,15,51,Finished,5,205.605
+2017,8,Azerbaijan Grand Prix,2017-06-25,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,4,4,12,51,Finished,1,208.919
+2017,8,Azerbaijan Grand Prix,2017-06-25,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,5,10,51,Finished,2,208.862
+2017,8,Azerbaijan Grand Prix,2017-06-25,ocon,OCO,Esteban Ocon,force_india,Force India,31,7,6,8,51,Finished,9,204.581
+2017,8,Azerbaijan Grand Prix,2017-06-25,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,12,7,6,51,Finished,11,203.277
+2017,8,Azerbaijan Grand Prix,2017-06-25,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,15,8,4,51,Finished,10,204.133
+2017,8,Azerbaijan Grand Prix,2017-06-25,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,19,9,2,51,Finished,6,205.488
+2017,8,Azerbaijan Grand Prix,2017-06-25,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,14,10,1,51,Finished,15,201.743
+2017,8,Azerbaijan Grand Prix,2017-06-25,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,17,11,0,51,Finished,16,201.619
+2017,8,Azerbaijan Grand Prix,2017-06-25,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,18,12,0,51,Finished,13,202.636
+2017,8,Azerbaijan Grand Prix,2017-06-25,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,16,13,0,50,+1 Lap,14,202.289
+2017,8,Azerbaijan Grand Prix,2017-06-25,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,3,14,0,46,Water pressure,7,204.760
+2017,8,Azerbaijan Grand Prix,2017-06-25,perez,PER,Sergio Pérez,force_india,Force India,11,6,15,0,39,Seat,8,204.670
+2017,8,Azerbaijan Grand Prix,2017-06-25,massa,MAS,Felipe Massa,williams,Williams,19,9,16,0,25,Suspension,17,201.330
+2017,8,Azerbaijan Grand Prix,2017-06-25,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,13,17,0,24,Accident,19,199.111
+2017,8,Azerbaijan Grand Prix,2017-06-25,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,5,18,0,12,Oil pressure,12,203.112
+2017,8,Azerbaijan Grand Prix,2017-06-25,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,11,19,0,9,Battery,18,199.372
+2017,8,Azerbaijan Grand Prix,2017-06-25,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,20,20,0,7,Power Unit,20,193.518
+2017,9,Austrian Grand Prix,2017-07-09,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,1,25,71,Finished,5,229.115
+2017,9,Austrian Grand Prix,2017-07-09,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,2,18,71,Finished,4,230.306
+2017,9,Austrian Grand Prix,2017-07-09,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,4,3,15,71,Finished,2,230.491
+2017,9,Austrian Grand Prix,2017-07-09,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,8,4,12,71,Finished,1,230.597
+2017,9,Austrian Grand Prix,2017-07-09,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,3,5,10,71,Finished,3,230.341
+2017,9,Austrian Grand Prix,2017-07-09,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,6,6,8,71,Finished,10,226.633
+2017,9,Austrian Grand Prix,2017-07-09,perez,PER,Sergio Pérez,force_india,Force India,11,7,7,6,70,+1 Lap,9,227.030
+2017,9,Austrian Grand Prix,2017-07-09,ocon,OCO,Esteban Ocon,force_india,Force India,31,9,8,4,70,+1 Lap,12,226.405
+2017,9,Austrian Grand Prix,2017-07-09,massa,MAS,Felipe Massa,williams,Williams,19,17,9,2,70,+1 Lap,7,227.200
+2017,9,Austrian Grand Prix,2017-07-09,stroll,STR,Lance Stroll,williams,Williams,18,18,10,1,70,+1 Lap,13,226.017
+2017,9,Austrian Grand Prix,2017-07-09,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,16,11,0,70,+1 Lap,11,226.428
+2017,9,Austrian Grand Prix,2017-07-09,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,13,12,0,70,+1 Lap,8,227.190
+2017,9,Austrian Grand Prix,2017-07-09,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,11,13,0,70,+1 Lap,14,225.146
+2017,9,Austrian Grand Prix,2017-07-09,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,20,14,0,70,+1 Lap,16,224.502
+2017,9,Austrian Grand Prix,2017-07-09,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,19,15,0,69,+2 Laps,17,224.363
+2017,9,Austrian Grand Prix,2017-07-09,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,14,16,0,68,+3 Laps,6,228.395
+2017,9,Austrian Grand Prix,2017-07-09,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,10,17,0,44,Engine,15,224.798
+2017,9,Austrian Grand Prix,2017-07-09,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,15,18,0,29,Hydraulics,18,220.800
+2017,9,Austrian Grand Prix,2017-07-09,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,12,19,0,1,Collision damage,,
+2017,9,Austrian Grand Prix,2017-07-09,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,5,20,0,0,Collision damage,,
+2017,10,British Grand Prix,2017-07-16,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,51,Finished,1,234.025
+2017,10,British Grand Prix,2017-07-16,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,9,2,18,51,Finished,3,233.294
+2017,10,British Grand Prix,2017-07-16,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,2,3,15,51,Finished,4,231.733
+2017,10,British Grand Prix,2017-07-16,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,4,4,12,51,Finished,2,233.878
+2017,10,British Grand Prix,2017-07-16,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,19,5,10,51,Finished,6,230.833
+2017,10,British Grand Prix,2017-07-16,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,5,6,8,51,Finished,8,229.080
+2017,10,British Grand Prix,2017-07-16,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,3,7,6,51,Finished,5,230.838
+2017,10,British Grand Prix,2017-07-16,ocon,OCO,Esteban Ocon,force_india,Force India,31,7,8,4,50,+1 Lap,15,226.768
+2017,10,British Grand Prix,2017-07-16,perez,PER,Sergio Pérez,force_india,Force India,11,6,9,2,50,+1 Lap,14,226.809
+2017,10,British Grand Prix,2017-07-16,massa,MAS,Felipe Massa,williams,Williams,19,14,10,1,50,+1 Lap,16,226.668
+2017,10,British Grand Prix,2017-07-16,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,8,11,0,50,+1 Lap,13,226.906
+2017,10,British Grand Prix,2017-07-16,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,16,12,0,50,+1 Lap,9,228.818
+2017,10,British Grand Prix,2017-07-16,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,10,13,0,50,+1 Lap,7,229.793
+2017,10,British Grand Prix,2017-07-16,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,18,14,0,50,+1 Lap,10,227.747
+2017,10,British Grand Prix,2017-07-16,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,12,15,0,50,+1 Lap,17,226.591
+2017,10,British Grand Prix,2017-07-16,stroll,STR,Lance Stroll,williams,Williams,18,15,16,0,50,+1 Lap,12,227.062
+2017,10,British Grand Prix,2017-07-16,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,17,17,0,50,+1 Lap,11,227.203
+2017,10,British Grand Prix,2017-07-16,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,20,18,0,32,Power Unit,18,224.983
+2017,10,British Grand Prix,2017-07-16,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,13,19,0,0,Collision damage,,
+2017,10,British Grand Prix,2017-07-16,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,11,20,0,0,Hydraulics,,
+2017,11,Hungarian Grand Prix,2017-07-30,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,1,1,25,70,Finished,4,195.176
+2017,11,Hungarian Grand Prix,2017-07-30,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,2,2,18,70,Finished,2,196.015
+2017,11,Hungarian Grand Prix,2017-07-30,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,3,15,70,Finished,6,194.198
+2017,11,Hungarian Grand Prix,2017-07-30,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,4,4,12,70,Finished,5,195.149
+2017,11,Hungarian Grand Prix,2017-07-30,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,5,5,10,70,Finished,3,195.944
+2017,11,Hungarian Grand Prix,2017-07-30,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,7,6,8,70,Finished,1,196.697
+2017,11,Hungarian Grand Prix,2017-07-30,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,9,7,6,69,+1 Lap,11,192.639
+2017,11,Hungarian Grand Prix,2017-07-30,perez,PER,Sergio Pérez,force_india,Force India,11,13,8,4,69,+1 Lap,14,192.090
+2017,11,Hungarian Grand Prix,2017-07-30,ocon,OCO,Esteban Ocon,force_india,Force India,31,11,9,2,69,+1 Lap,15,191.330
+2017,11,Hungarian Grand Prix,2017-07-30,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,8,10,1,69,+1 Lap,12,192.430
+2017,11,Hungarian Grand Prix,2017-07-30,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,16,11,0,69,+1 Lap,9,193.206
+2017,11,Hungarian Grand Prix,2017-07-30,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,10,12,0,69,+1 Lap,7,193.305
+2017,11,Hungarian Grand Prix,2017-07-30,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,15,13,0,69,+1 Lap,13,192.102
+2017,11,Hungarian Grand Prix,2017-07-30,stroll,STR,Lance Stroll,williams,Williams,18,17,14,0,69,+1 Lap,16,190.409
+2017,11,Hungarian Grand Prix,2017-07-30,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,18,15,0,68,+2 Laps,18,188.716
+2017,11,Hungarian Grand Prix,2017-07-30,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,20,16,0,68,+2 Laps,10,192.920
+2017,11,Hungarian Grand Prix,2017-07-30,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,12,17,0,67,Brakes,8,193.253
+2017,11,Hungarian Grand Prix,2017-07-30,resta,DIR,Paul di Resta,williams,Williams,40,19,18,0,60,Oil leak,17,189.466
+2017,11,Hungarian Grand Prix,2017-07-30,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,14,19,0,20,Wheel nut,19,186.201
+2017,11,Hungarian Grand Prix,2017-07-30,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,6,20,0,0,Collision,,
+2017,12,Belgian Grand Prix,2017-08-27,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,44,Finished,2,236.526
+2017,12,Belgian Grand Prix,2017-08-27,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,2,18,44,Finished,1,236.583
+2017,12,Belgian Grand Prix,2017-08-27,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,6,3,15,44,Finished,3,234.445
+2017,12,Belgian Grand Prix,2017-08-27,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,4,4,12,44,Finished,5,234.051
+2017,12,Belgian Grand Prix,2017-08-27,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,5,10,44,Finished,4,234.071
+2017,12,Belgian Grand Prix,2017-08-27,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,7,6,8,44,Finished,7,231.490
+2017,12,Belgian Grand Prix,2017-08-27,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,11,7,6,44,Finished,8,231.140
+2017,12,Belgian Grand Prix,2017-08-27,massa,MAS,Felipe Massa,williams,Williams,19,16,8,4,44,Finished,11,229.980
+2017,12,Belgian Grand Prix,2017-08-27,ocon,OCO,Esteban Ocon,force_india,Force India,31,9,9,2,44,Finished,14,229.804
+2017,12,Belgian Grand Prix,2017-08-27,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,13,10,1,44,Finished,13,229.829
+2017,12,Belgian Grand Prix,2017-08-27,stroll,STR,Lance Stroll,williams,Williams,18,15,11,0,44,Finished,16,228.095
+2017,12,Belgian Grand Prix,2017-08-27,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,19,12,0,44,Finished,12,229.831
+2017,12,Belgian Grand Prix,2017-08-27,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,14,13,0,44,Finished,10,230.725
+2017,12,Belgian Grand Prix,2017-08-27,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,20,14,0,44,Finished,15,229.415
+2017,12,Belgian Grand Prix,2017-08-27,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,12,15,0,44,Finished,9,231.057
+2017,12,Belgian Grand Prix,2017-08-27,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,17,16,0,44,Finished,17,227.618
+2017,12,Belgian Grand Prix,2017-08-27,perez,PER,Sergio Pérez,force_india,Force India,11,8,17,0,42,Gearbox,6,232.819
+2017,12,Belgian Grand Prix,2017-08-27,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,10,18,0,25,Engine,19,225.692
+2017,12,Belgian Grand Prix,2017-08-27,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,5,19,0,7,Engine,18,227.111
+2017,12,Belgian Grand Prix,2017-08-27,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,18,20,0,2,Collision,,
+2017,13,Italian Grand Prix,2017-09-03,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,53,Finished,2,249.793
+2017,13,Italian Grand Prix,2017-09-03,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,4,2,18,53,Finished,3,249.095
+2017,13,Italian Grand Prix,2017-09-03,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,6,3,15,53,Finished,4,248.576
+2017,13,Italian Grand Prix,2017-09-03,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,16,4,12,53,Finished,1,250.174
+2017,13,Italian Grand Prix,2017-09-03,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,5,5,10,53,Finished,8,245.194
+2017,13,Italian Grand Prix,2017-09-03,ocon,OCO,Esteban Ocon,force_india,Force India,31,3,6,8,53,Finished,11,243.482
+2017,13,Italian Grand Prix,2017-09-03,stroll,STR,Lance Stroll,williams,Williams,18,2,7,6,53,Finished,10,243.559
+2017,13,Italian Grand Prix,2017-09-03,massa,MAS,Felipe Massa,williams,Williams,19,7,8,4,53,Finished,9,243.981
+2017,13,Italian Grand Prix,2017-09-03,perez,PER,Sergio Pérez,force_india,Force India,11,10,9,2,53,Finished,6,245.442
+2017,13,Italian Grand Prix,2017-09-03,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,13,10,1,52,+1 Lap,5,247.238
+2017,13,Italian Grand Prix,2017-09-03,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,9,11,0,52,+1 Lap,15,242.393
+2017,13,Italian Grand Prix,2017-09-03,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,8,12,0,52,+1 Lap,14,242.796
+2017,13,Italian Grand Prix,2017-09-03,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,14,13,0,52,+1 Lap,16,242.128
+2017,13,Italian Grand Prix,2017-09-03,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,15,14,0,52,+1 Lap,17,241.906
+2017,13,Italian Grand Prix,2017-09-03,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,20,15,0,52,+1 Lap,7,245.292
+2017,13,Italian Grand Prix,2017-09-03,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,12,16,0,51,+2 Laps,18,240.965
+2017,13,Italian Grand Prix,2017-09-03,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,19,17,0,50,Gearbox,13,242.861
+2017,13,Italian Grand Prix,2017-09-03,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,11,18,0,49,Gearbox,20,237.897
+2017,13,Italian Grand Prix,2017-09-03,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,18,19,0,33,Engine,19,239.953
+2017,13,Italian Grand Prix,2017-09-03,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,17,20,0,29,Engine,12,243.198
+2017,14,Singapore Grand Prix,2017-09-17,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,5,1,25,58,Finished,1,173.643
+2017,14,Singapore Grand Prix,2017-09-17,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,3,2,18,58,Finished,2,173.160
+2017,14,Singapore Grand Prix,2017-09-17,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,6,3,15,58,Finished,3,172.989
+2017,14,Singapore Grand Prix,2017-09-17,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,10,4,12,58,Finished,4,171.151
+2017,14,Singapore Grand Prix,2017-09-17,perez,PER,Sergio Pérez,force_india,Force India,11,12,5,10,58,Finished,7,170.840
+2017,14,Singapore Grand Prix,2017-09-17,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,11,6,8,58,Finished,5,170.855
+2017,14,Singapore Grand Prix,2017-09-17,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,9,7,6,58,Finished,6,170.855
+2017,14,Singapore Grand Prix,2017-09-17,stroll,STR,Lance Stroll,williams,Williams,18,18,8,4,58,Finished,9,169.599
+2017,14,Singapore Grand Prix,2017-09-17,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,15,9,2,58,Finished,11,169.402
+2017,14,Singapore Grand Prix,2017-09-17,ocon,OCO,Esteban Ocon,force_india,Force India,31,14,10,1,58,Finished,12,169.339
+2017,14,Singapore Grand Prix,2017-09-17,massa,MAS,Felipe Massa,williams,Williams,19,17,11,0,58,Finished,8,170.323
+2017,14,Singapore Grand Prix,2017-09-17,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,19,12,0,56,+2 Laps,14,167.190
+2017,14,Singapore Grand Prix,2017-09-17,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,16,13,0,50,Engine,10,169.484
+2017,14,Singapore Grand Prix,2017-09-17,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,7,14,0,48,Engine,13,168.816
+2017,14,Singapore Grand Prix,2017-09-17,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,20,15,0,35,Accident,15,162.085
+2017,14,Singapore Grand Prix,2017-09-17,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,13,16,0,10,Accident,16,139.711
+2017,14,Singapore Grand Prix,2017-09-17,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,8,17,0,8,Collision damage,17,136.503
+2017,14,Singapore Grand Prix,2017-09-17,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,1,18,0,0,Accident,,
+2017,14,Singapore Grand Prix,2017-09-17,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,2,19,0,0,Accident,,
+2017,14,Singapore Grand Prix,2017-09-17,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,4,20,0,0,Accident,,
+2017,15,Malaysian Grand Prix,2017-10-01,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,3,1,25,56,Finished,4,211.235
+2017,15,Malaysian Grand Prix,2017-10-01,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,2,18,56,Finished,3,211.269
+2017,15,Malaysian Grand Prix,2017-10-01,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,4,3,15,56,Finished,5,210.560
+2017,15,Malaysian Grand Prix,2017-10-01,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,20,4,12,56,Finished,1,212.104
+2017,15,Malaysian Grand Prix,2017-10-01,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,5,5,10,56,Finished,6,209.424
+2017,15,Malaysian Grand Prix,2017-10-01,perez,PER,Sergio Pérez,force_india,Force India,11,9,6,8,56,Finished,7,208.751
+2017,15,Malaysian Grand Prix,2017-10-01,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,7,7,6,55,+1 Lap,9,208.012
+2017,15,Malaysian Grand Prix,2017-10-01,stroll,STR,Lance Stroll,williams,Williams,18,13,8,4,55,+1 Lap,12,206.513
+2017,15,Malaysian Grand Prix,2017-10-01,massa,MAS,Felipe Massa,williams,Williams,19,11,9,2,55,+1 Lap,14,205.838
+2017,15,Malaysian Grand Prix,2017-10-01,ocon,OCO,Esteban Ocon,force_india,Force India,31,6,10,1,55,+1 Lap,15,205.560
+2017,15,Malaysian Grand Prix,2017-10-01,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,10,11,0,55,+1 Lap,11,206.783
+2017,15,Malaysian Grand Prix,2017-10-01,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,17,12,0,55,+1 Lap,18,205.313
+2017,15,Malaysian Grand Prix,2017-10-01,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,16,13,0,55,+1 Lap,8,208.305
+2017,15,Malaysian Grand Prix,2017-10-01,gasly,GAS,Pierre Gasly,toro_rosso,Toro Rosso,10,15,14,0,55,+1 Lap,16,205.359
+2017,15,Malaysian Grand Prix,2017-10-01,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,12,15,0,55,+1 Lap,17,205.325
+2017,15,Malaysian Grand Prix,2017-10-01,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,8,16,0,55,+1 Lap,2,211.686
+2017,15,Malaysian Grand Prix,2017-10-01,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,18,17,0,55,+1 Lap,10,207.010
+2017,15,Malaysian Grand Prix,2017-10-01,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,19,18,0,54,+2 Laps,13,206.507
+2017,15,Malaysian Grand Prix,2017-10-01,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,14,19,0,29,Engine,19,203.365
+2017,15,Malaysian Grand Prix,2017-10-01,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,0,20,0,0,Battery,,
+2017,16,Japanese Grand Prix,2017-10-08,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,53,Finished,6,222.917
+2017,16,Japanese Grand Prix,2017-10-08,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,4,2,18,53,Finished,5,223.036
+2017,16,Japanese Grand Prix,2017-10-08,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,3,3,15,53,Finished,3,223.122
+2017,16,Japanese Grand Prix,2017-10-08,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,6,4,12,53,Finished,1,224.439
+2017,16,Japanese Grand Prix,2017-10-08,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,10,5,10,53,Finished,2,224.364
+2017,16,Japanese Grand Prix,2017-10-08,ocon,OCO,Esteban Ocon,force_india,Force India,31,5,6,8,53,Finished,11,220.419
+2017,16,Japanese Grand Prix,2017-10-08,perez,PER,Sergio Pérez,force_india,Force India,11,7,7,6,53,Finished,10,220.649
+2017,16,Japanese Grand Prix,2017-10-08,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,12,8,4,53,Finished,13,219.274
+2017,16,Japanese Grand Prix,2017-10-08,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,13,9,2,53,Finished,14,219.253
+2017,16,Japanese Grand Prix,2017-10-08,massa,MAS,Felipe Massa,williams,Williams,19,8,10,1,52,+1 Lap,16,217.891
+2017,16,Japanese Grand Prix,2017-10-08,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,20,11,0,52,+1 Lap,12,219.797
+2017,16,Japanese Grand Prix,2017-10-08,jolyon_palmer,PAL,Jolyon Palmer,renault,Renault,30,18,12,0,52,+1 Lap,7,222.171
+2017,16,Japanese Grand Prix,2017-10-08,gasly,GAS,Pierre Gasly,toro_rosso,Toro Rosso,10,14,13,0,52,+1 Lap,8,221.141
+2017,16,Japanese Grand Prix,2017-10-08,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,9,14,0,52,+1 Lap,4,223.050
+2017,16,Japanese Grand Prix,2017-10-08,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,17,15,0,51,+2 Laps,17,216.791
+2017,16,Japanese Grand Prix,2017-10-08,stroll,STR,Lance Stroll,williams,Williams,18,15,16,0,45,Wheel,9,221.106
+2017,16,Japanese Grand Prix,2017-10-08,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,11,17,0,40,Front wing,15,218.028
+2017,16,Japanese Grand Prix,2017-10-08,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,16,18,0,7,Accident,18,212.028
+2017,16,Japanese Grand Prix,2017-10-08,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,19,0,4,Spark plugs,19,165.314
+2017,16,Japanese Grand Prix,2017-10-08,sainz,SAI,Carlos Sainz,toro_rosso,Toro Rosso,55,19,20,0,0,Accident,,
+2017,17,United States Grand Prix,2017-10-22,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,56,Finished,5,200.927
+2017,17,United States Grand Prix,2017-10-22,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,2,18,56,Finished,1,203.003
+2017,17,United States Grand Prix,2017-10-22,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,5,3,15,56,Finished,6,200.860
+2017,17,United States Grand Prix,2017-10-22,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,16,4,12,56,Finished,4,202.394
+2017,17,United States Grand Prix,2017-10-22,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,3,5,10,56,Finished,2,203.001
+2017,17,United States Grand Prix,2017-10-22,ocon,OCO,Esteban Ocon,force_india,Force India,31,6,6,8,56,Finished,13,197.482
+2017,17,United States Grand Prix,2017-10-22,sainz,SAI,Carlos Sainz,renault,Renault,55,7,7,6,56,Finished,12,197.555
+2017,17,United States Grand Prix,2017-10-22,perez,PER,Sergio Pérez,force_india,Force India,11,9,8,4,55,+1 Lap,14,196.793
+2017,17,United States Grand Prix,2017-10-22,massa,MAS,Felipe Massa,williams,Williams,19,10,9,2,55,+1 Lap,10,198.208
+2017,17,United States Grand Prix,2017-10-22,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,11,10,1,55,+1 Lap,15,196.559
+2017,17,United States Grand Prix,2017-10-22,stroll,STR,Lance Stroll,williams,Williams,18,15,11,0,55,+1 Lap,7,199.133
+2017,17,United States Grand Prix,2017-10-22,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,20,12,0,55,+1 Lap,11,197.777
+2017,17,United States Grand Prix,2017-10-22,brendon_hartley,HAR,Brendon Hartley,toro_rosso,Toro Rosso,39,19,13,0,55,+1 Lap,8,198.509
+2017,17,United States Grand Prix,2017-10-22,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,12,14,0,55,+1 Lap,17,196.000
+2017,17,United States Grand Prix,2017-10-22,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,13,15,0,55,+1 Lap,16,196.423
+2017,17,United States Grand Prix,2017-10-22,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,17,16,0,55,+1 Lap,3,202.739
+2017,17,United States Grand Prix,2017-10-22,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,8,17,0,24,Engine,18,195.463
+2017,17,United States Grand Prix,2017-10-22,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,4,18,0,14,Engine,9,198.265
+2017,17,United States Grand Prix,2017-10-22,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,14,19,0,5,Collision,20,185.357
+2017,17,United States Grand Prix,2017-10-22,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,18,20,0,3,Engine,19,190.340
+2017,18,Mexican Grand Prix,2017-10-29,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,2,1,25,71,Finished,2,196.400
+2017,18,Mexican Grand Prix,2017-10-29,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,4,2,18,71,Finished,3,195.207
+2017,18,Mexican Grand Prix,2017-10-29,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,5,3,15,71,Finished,6,193.549
+2017,18,Mexican Grand Prix,2017-10-29,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,1,4,12,71,Finished,1,196.666
+2017,18,Mexican Grand Prix,2017-10-29,ocon,OCO,Esteban Ocon,force_india,Force India,31,6,5,10,70,+1 Lap,9,191.416
+2017,18,Mexican Grand Prix,2017-10-29,stroll,STR,Lance Stroll,williams,Williams,18,11,6,8,70,+1 Lap,12,191.142
+2017,18,Mexican Grand Prix,2017-10-29,perez,PER,Sergio Pérez,force_india,Force India,11,9,7,6,70,+1 Lap,4,193.852
+2017,18,Mexican Grand Prix,2017-10-29,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,14,8,4,70,+1 Lap,14,190.784
+2017,18,Mexican Grand Prix,2017-10-29,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,3,9,2,70,+1 Lap,5,193.813
+2017,18,Mexican Grand Prix,2017-10-29,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,18,10,1,70,+1 Lap,11,191.255
+2017,18,Mexican Grand Prix,2017-10-29,massa,MAS,Felipe Massa,williams,Williams,19,10,11,0,70,+1 Lap,13,190.968
+2017,18,Mexican Grand Prix,2017-10-29,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,19,12,0,70,+1 Lap,10,191.355
+2017,18,Mexican Grand Prix,2017-10-29,gasly,GAS,Pierre Gasly,toro_rosso,Toro Rosso,10,20,13,0,70,+1 Lap,8,191.622
+2017,18,Mexican Grand Prix,2017-10-29,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,13,14,0,69,+2 Laps,16,189.793
+2017,18,Mexican Grand Prix,2017-10-29,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,15,15,0,69,+2 Laps,7,192.848
+2017,18,Mexican Grand Prix,2017-10-29,sainz,SAI,Carlos Sainz,renault,Renault,55,8,16,0,59,Engine,15,190.442
+2017,18,Mexican Grand Prix,2017-10-29,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,12,17,0,55,Engine,17,189.682
+2017,18,Mexican Grand Prix,2017-10-29,brendon_hartley,HAR,Brendon Hartley,toro_rosso,Toro Rosso,28,17,18,0,30,Engine,19,187.647
+2017,18,Mexican Grand Prix,2017-10-29,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,7,19,0,24,Electrical,18,189.670
+2017,18,Mexican Grand Prix,2017-10-29,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,16,20,0,5,Engine,20,187.155
+2017,19,Brazilian Grand Prix,2017-11-12,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,2,1,25,71,Finished,7,213.849
+2017,19,Brazilian Grand Prix,2017-11-12,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,2,18,71,Finished,5,214.064
+2017,19,Brazilian Grand Prix,2017-11-12,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,3,3,15,71,Finished,6,213.987
+2017,19,Brazilian Grand Prix,2017-11-12,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,20,4,12,71,Finished,2,215.914
+2017,19,Brazilian Grand Prix,2017-11-12,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,4,5,10,71,Finished,1,218.349
+2017,19,Brazilian Grand Prix,2017-11-12,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,14,6,8,71,Finished,4,215.363
+2017,19,Brazilian Grand Prix,2017-11-12,massa,MAS,Felipe Massa,williams,Williams,19,9,7,6,71,Finished,11,211.190
+2017,19,Brazilian Grand Prix,2017-11-12,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,6,8,4,71,Finished,10,211.193
+2017,19,Brazilian Grand Prix,2017-11-12,perez,PER,Sergio Pérez,force_india,Force India,11,5,9,2,71,Finished,8,212.347
+2017,19,Brazilian Grand Prix,2017-11-12,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,7,10,1,70,+1 Lap,15,210.314
+2017,19,Brazilian Grand Prix,2017-11-12,sainz,SAI,Carlos Sainz,renault,Renault,55,8,11,0,70,+1 Lap,13,210.694
+2017,19,Brazilian Grand Prix,2017-11-12,gasly,GAS,Pierre Gasly,toro_rosso,Toro Rosso,10,19,12,0,70,+1 Lap,9,211.562
+2017,19,Brazilian Grand Prix,2017-11-12,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,17,13,0,70,+1 Lap,14,210.577
+2017,19,Brazilian Grand Prix,2017-11-12,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,15,14,0,70,+1 Lap,17,207.351
+2017,19,Brazilian Grand Prix,2017-11-12,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,11,15,0,69,+2 Laps,12,210.961
+2017,19,Brazilian Grand Prix,2017-11-12,stroll,STR,Lance Stroll,williams,Williams,18,16,16,0,69,+2 Laps,3,215.863
+2017,19,Brazilian Grand Prix,2017-11-12,brendon_hartley,HAR,Brendon Hartley,toro_rosso,Toro Rosso,28,18,17,0,40,Engine,16,207.779
+2017,19,Brazilian Grand Prix,2017-11-12,ocon,OCO,Esteban Ocon,force_india,Force India,31,10,18,0,0,Accident,,
+2017,19,Brazilian Grand Prix,2017-11-12,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,12,19,0,0,Accident,,
+2017,19,Brazilian Grand Prix,2017-11-12,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,13,20,0,0,Accident,,
+2017,20,Abu Dhabi Grand Prix,2017-11-26,bottas,BOT,Valtteri Bottas,mercedes,Mercedes,77,1,1,25,55,Finished,1,198.652
+2017,20,Abu Dhabi Grand Prix,2017-11-26,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,18,55,Finished,3,197.041
+2017,20,Abu Dhabi Grand Prix,2017-11-26,vettel,VET,Sebastian Vettel,ferrari,Ferrari,5,3,3,15,55,Finished,2,198.416
+2017,20,Abu Dhabi Grand Prix,2017-11-26,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,5,4,12,55,Finished,7,195.376
+2017,20,Abu Dhabi Grand Prix,2017-11-26,max_verstappen,VER,Max Verstappen,red_bull,Red Bull,33,6,5,10,55,Finished,5,195.969
+2017,20,Abu Dhabi Grand Prix,2017-11-26,hulkenberg,HUL,Nico Hülkenberg,renault,Renault,27,7,6,8,55,Finished,8,195.303
+2017,20,Abu Dhabi Grand Prix,2017-11-26,perez,PER,Sergio Pérez,force_india,Force India,11,8,7,6,55,Finished,11,194.708
+2017,20,Abu Dhabi Grand Prix,2017-11-26,ocon,OCO,Esteban Ocon,force_india,Force India,31,9,8,4,55,Finished,10,194.860
+2017,20,Abu Dhabi Grand Prix,2017-11-26,alonso,ALO,Fernando Alonso,mclaren,McLaren,14,11,9,2,54,+1 Lap,4,193.410
+2017,20,Abu Dhabi Grand Prix,2017-11-26,massa,MAS,Felipe Massa,williams,Williams,19,10,10,1,54,+1 Lap,13,194.071
+2017,20,Abu Dhabi Grand Prix,2017-11-26,grosjean,GRO,Romain Grosjean,haas,Haas F1 Team,8,16,11,0,54,+1 Lap,9,195.187
+2017,20,Abu Dhabi Grand Prix,2017-11-26,vandoorne,VAN,Stoffel Vandoorne,mclaren,McLaren,2,13,12,0,54,+1 Lap,20,192.279
+2017,20,Abu Dhabi Grand Prix,2017-11-26,kevin_magnussen,MAG,Kevin Magnussen,haas,Haas F1 Team,20,14,13,0,54,+1 Lap,19,192.387
+2017,20,Abu Dhabi Grand Prix,2017-11-26,wehrlein,WEH,Pascal Wehrlein,sauber,Sauber,94,18,14,0,54,+1 Lap,17,192.500
+2017,20,Abu Dhabi Grand Prix,2017-11-26,brendon_hartley,HAR,Brendon Hartley,toro_rosso,Toro Rosso,28,20,15,0,54,+1 Lap,18,192.444
+2017,20,Abu Dhabi Grand Prix,2017-11-26,gasly,GAS,Pierre Gasly,toro_rosso,Toro Rosso,10,17,16,0,54,+1 Lap,16,192.542
+2017,20,Abu Dhabi Grand Prix,2017-11-26,ericsson,ERI,Marcus Ericsson,sauber,Sauber,9,19,17,0,54,+1 Lap,15,193.057
+2017,20,Abu Dhabi Grand Prix,2017-11-26,stroll,STR,Lance Stroll,williams,Williams,18,15,18,0,54,+1 Lap,6,195.402
+2017,20,Abu Dhabi Grand Prix,2017-11-26,sainz,SAI,Carlos Sainz,renault,Renault,55,12,19,0,31,Wheel,14,193.410
+2017,20,Abu Dhabi Grand Prix,2017-11-26,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,4,20,0,20,Hydraulics,12,194.579

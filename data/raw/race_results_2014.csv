@@ -1,0 +1,408 @@
+season,round,race_name,date,driver_id,driver_code,driver_name,constructor_id,constructor,number,grid,position,points,laps,status,fastest_lap_rank,fastest_lap_time
+2014,1,Australian Grand Prix,2014-03-16,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,3,1,25,57,Finished,1,206.436
+2014,1,Australian Grand Prix,2014-03-16,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,4,2,18,57,Finished,6,205.131
+2014,1,Australian Grand Prix,2014-03-16,button,BUT,Jenson Button,mclaren,McLaren,22,10,3,15,57,Finished,5,205.460
+2014,1,Australian Grand Prix,2014-03-16,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,5,4,12,57,Finished,7,204.867
+2014,1,Australian Grand Prix,2014-03-16,bottas,BOT,Valtteri Bottas,williams,Williams,77,15,5,10,57,Finished,3,206.128
+2014,1,Australian Grand Prix,2014-03-16,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,7,6,8,57,Finished,2,206.235
+2014,1,Australian Grand Prix,2014-03-16,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,11,7,6,57,Finished,8,204.814
+2014,1,Australian Grand Prix,2014-03-16,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,6,8,4,57,Finished,10,203.763
+2014,1,Australian Grand Prix,2014-03-16,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,8,9,2,57,Finished,11,203.387
+2014,1,Australian Grand Prix,2014-03-16,perez,PER,Sergio Pérez,force_india,Force India,11,16,10,1,57,Finished,4,206.088
+2014,1,Australian Grand Prix,2014-03-16,sutil,SUT,Adrian Sutil,sauber,Sauber,99,13,11,0,56,+1 Lap,9,204.472
+2014,1,Australian Grand Prix,2014-03-16,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,20,12,0,56,+1 Lap,13,201.882
+2014,1,Australian Grand Prix,2014-03-16,chilton,CHI,Max Chilton,marussia,Marussia,4,17,13,0,55,+2 Laps,12,202.658
+2014,1,Australian Grand Prix,2014-03-16,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,18,14,0,49,+8 Laps,16,199.621
+2014,1,Australian Grand Prix,2014-03-16,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,22,15,0,43,ERS,15,200.363
+2014,1,Australian Grand Prix,2014-03-16,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,21,16,0,29,ERS,14,201.451
+2014,1,Australian Grand Prix,2014-03-16,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,19,17,0,27,Oil pressure,18,196.141
+2014,1,Australian Grand Prix,2014-03-16,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,12,18,0,3,Engine,17,196.682
+2014,1,Australian Grand Prix,2014-03-16,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,19,0,2,Engine,20,173.636
+2014,1,Australian Grand Prix,2014-03-16,massa,MAS,Felipe Massa,williams,Williams,19,9,20,0,0,Collision,19,190.361
+2014,1,Australian Grand Prix,2014-03-16,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,14,21,0,0,Collision,,
+2014,1,Australian Grand Prix,2014-03-16,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,2,22,0,57,Disqualified,,
+2014,2,Malaysian Grand Prix,2014-03-30,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,56,Finished,1,193.611
+2014,2,Malaysian Grand Prix,2014-03-30,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,3,2,18,56,Finished,2,191.946
+2014,2,Malaysian Grand Prix,2014-03-30,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,3,15,56,Finished,4,191.341
+2014,2,Malaysian Grand Prix,2014-03-30,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,4,4,12,56,Finished,3,191.569
+2014,2,Malaysian Grand Prix,2014-03-30,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,7,5,10,56,Finished,10,188.284
+2014,2,Malaysian Grand Prix,2014-03-30,button,BUT,Jenson Button,mclaren,McLaren,22,10,6,8,56,Finished,11,188.183
+2014,2,Malaysian Grand Prix,2014-03-30,massa,MAS,Felipe Massa,williams,Williams,19,13,7,6,56,Finished,6,190.232
+2014,2,Malaysian Grand Prix,2014-03-30,bottas,BOT,Valtteri Bottas,williams,Williams,77,18,8,4,56,Finished,9,189.189
+2014,2,Malaysian Grand Prix,2014-03-30,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,8,9,2,55,+1 Lap,8,189.372
+2014,2,Malaysian Grand Prix,2014-03-30,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,11,10,1,55,+1 Lap,13,187.026
+2014,2,Malaysian Grand Prix,2014-03-30,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,15,11,0,55,+1 Lap,12,187.855
+2014,2,Malaysian Grand Prix,2014-03-30,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,6,12,0,55,+1 Lap,7,189.812
+2014,2,Malaysian Grand Prix,2014-03-30,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,20,13,0,55,+1 Lap,15,185.190
+2014,2,Malaysian Grand Prix,2014-03-30,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,22,14,0,54,+2 Laps,14,185.626
+2014,2,Malaysian Grand Prix,2014-03-30,chilton,CHI,Max Chilton,marussia,Marussia,4,21,15,0,54,+2 Laps,18,184.341
+2014,2,Malaysian Grand Prix,2014-03-30,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,16,0,49,Technical,5,190.635
+2014,2,Malaysian Grand Prix,2014-03-30,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,12,17,0,35,Gearbox,16,185.140
+2014,2,Malaysian Grand Prix,2014-03-30,sutil,SUT,Adrian Sutil,sauber,Sauber,99,17,18,0,32,Electrical,17,184.698
+2014,2,Malaysian Grand Prix,2014-03-30,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,9,19,0,18,Power Unit,19,183.869
+2014,2,Malaysian Grand Prix,2014-03-30,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,19,20,0,8,Brakes,21,179.010
+2014,2,Malaysian Grand Prix,2014-03-30,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,16,21,0,7,Engine,20,179.888
+2014,2,Malaysian Grand Prix,2014-03-30,perez,PER,Sergio Pérez,force_india,Force India,11,14,22,0,0,Withdrew,,
+2014,3,Bahrain Grand Prix,2014-04-06,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,1,25,57,Finished,2,200.634
+2014,3,Bahrain Grand Prix,2014-04-06,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,2,18,57,Finished,1,200.816
+2014,3,Bahrain Grand Prix,2014-04-06,perez,PER,Sergio Pérez,force_india,Force India,11,4,3,15,57,Finished,7,196.165
+2014,3,Bahrain Grand Prix,2014-04-06,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,13,4,12,57,Finished,4,196.266
+2014,3,Bahrain Grand Prix,2014-04-06,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,11,5,10,57,Finished,3,197.228
+2014,3,Bahrain Grand Prix,2014-04-06,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,10,6,8,57,Finished,6,196.181
+2014,3,Bahrain Grand Prix,2014-04-06,massa,MAS,Felipe Massa,williams,Williams,19,7,7,6,57,Finished,5,196.260
+2014,3,Bahrain Grand Prix,2014-04-06,bottas,BOT,Valtteri Bottas,williams,Williams,77,3,8,4,57,Finished,13,195.296
+2014,3,Bahrain Grand Prix,2014-04-06,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,9,9,2,57,Finished,12,195.355
+2014,3,Bahrain Grand Prix,2014-04-06,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,5,10,1,57,Finished,8,195.933
+2014,3,Bahrain Grand Prix,2014-04-06,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,12,11,0,57,Finished,15,194.520
+2014,3,Bahrain Grand Prix,2014-04-06,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,16,12,0,57,Finished,9,195.923
+2014,3,Bahrain Grand Prix,2014-04-06,chilton,CHI,Max Chilton,marussia,Marussia,4,21,13,0,57,Finished,21,191.340
+2014,3,Bahrain Grand Prix,2014-04-06,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,17,14,0,57,Finished,11,195.484
+2014,3,Bahrain Grand Prix,2014-04-06,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,18,15,0,57,Finished,18,192.434
+2014,3,Bahrain Grand Prix,2014-04-06,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,19,16,0,56,+1 Lap,22,190.684
+2014,3,Bahrain Grand Prix,2014-04-06,button,BUT,Jenson Button,mclaren,McLaren,22,6,17,0,55,Clutch,10,195.683
+2014,3,Bahrain Grand Prix,2014-04-06,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,8,18,0,40,Clutch,14,194.621
+2014,3,Bahrain Grand Prix,2014-04-06,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,15,19,0,39,Collision,16,193.481
+2014,3,Bahrain Grand Prix,2014-04-06,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,20,20,0,33,Retired,17,192.647
+2014,3,Bahrain Grand Prix,2014-04-06,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,14,21,0,18,Retired,19,191.669
+2014,3,Bahrain Grand Prix,2014-04-06,sutil,SUT,Adrian Sutil,sauber,Sauber,99,22,22,0,17,Collision,20,191.403
+2014,4,Chinese Grand Prix,2014-04-20,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,54,Finished,2,193.916
+2014,4,Chinese Grand Prix,2014-04-20,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,4,2,18,54,Finished,1,195.450
+2014,4,Chinese Grand Prix,2014-04-20,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,5,3,15,54,Finished,4,192.235
+2014,4,Chinese Grand Prix,2014-04-20,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,2,4,12,54,Finished,3,193.387
+2014,4,Chinese Grand Prix,2014-04-20,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,5,10,54,Finished,5,192.070
+2014,4,Chinese Grand Prix,2014-04-20,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,8,6,8,54,Finished,10,191.218
+2014,4,Chinese Grand Prix,2014-04-20,bottas,BOT,Valtteri Bottas,williams,Williams,77,7,7,6,54,Finished,11,191.151
+2014,4,Chinese Grand Prix,2014-04-20,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,11,8,4,54,Finished,8,191.824
+2014,4,Chinese Grand Prix,2014-04-20,perez,PER,Sergio Pérez,force_india,Force India,11,16,9,2,54,Finished,6,191.959
+2014,4,Chinese Grand Prix,2014-04-20,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,13,10,1,53,+1 Lap,17,189.899
+2014,4,Chinese Grand Prix,2014-04-20,button,BUT,Jenson Button,mclaren,McLaren,22,12,11,0,53,+1 Lap,18,189.829
+2014,4,Chinese Grand Prix,2014-04-20,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,9,12,0,53,+1 Lap,14,190.712
+2014,4,Chinese Grand Prix,2014-04-20,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,15,13,0,53,+1 Lap,12,191.075
+2014,4,Chinese Grand Prix,2014-04-20,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,22,14,0,53,+1 Lap,15,190.396
+2014,4,Chinese Grand Prix,2014-04-20,massa,MAS,Felipe Massa,williams,Williams,19,6,15,0,53,+1 Lap,9,191.676
+2014,4,Chinese Grand Prix,2014-04-20,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,17,16,0,53,+1 Lap,7,191.904
+2014,4,Chinese Grand Prix,2014-04-20,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,19,17,0,53,+1 Lap,21,187.203
+2014,4,Chinese Grand Prix,2014-04-20,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,18,18,0,53,+1 Lap,16,189.924
+2014,4,Chinese Grand Prix,2014-04-20,chilton,CHI,Max Chilton,marussia,Marussia,4,21,19,0,52,+2 Laps,13,190.751
+2014,4,Chinese Grand Prix,2014-04-20,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,20,20,0,52,+2 Laps,19,189.380
+2014,4,Chinese Grand Prix,2014-04-20,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,10,21,0,28,Gearbox,20,188.026
+2014,4,Chinese Grand Prix,2014-04-20,sutil,SUT,Adrian Sutil,sauber,Sauber,99,14,22,0,5,Engine,22,165.773
+2014,5,Spanish Grand Prix,2014-05-11,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,66,Finished,3,187.275
+2014,5,Spanish Grand Prix,2014-05-11,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,2,2,18,66,Finished,2,187.794
+2014,5,Spanish Grand Prix,2014-05-11,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,3,3,15,66,Finished,5,186.175
+2014,5,Spanish Grand Prix,2014-05-11,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,15,4,12,66,Finished,1,188.465
+2014,5,Spanish Grand Prix,2014-05-11,bottas,BOT,Valtteri Bottas,williams,Williams,77,4,5,10,66,Finished,8,185.326
+2014,5,Spanish Grand Prix,2014-05-11,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,7,6,8,66,Finished,4,186.411
+2014,5,Spanish Grand Prix,2014-05-11,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,6,7,6,65,+1 Lap,11,185.007
+2014,5,Spanish Grand Prix,2014-05-11,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,5,8,4,65,+1 Lap,14,184.016
+2014,5,Spanish Grand Prix,2014-05-11,perez,PER,Sergio Pérez,force_india,Force India,11,11,9,2,65,+1 Lap,13,184.648
+2014,5,Spanish Grand Prix,2014-05-11,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,10,10,1,65,+1 Lap,16,183.325
+2014,5,Spanish Grand Prix,2014-05-11,button,BUT,Jenson Button,mclaren,McLaren,22,8,11,0,65,+1 Lap,10,185.042
+2014,5,Spanish Grand Prix,2014-05-11,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,14,12,0,65,+1 Lap,7,185.544
+2014,5,Spanish Grand Prix,2014-05-11,massa,MAS,Felipe Massa,williams,Williams,19,9,13,0,65,+1 Lap,9,185.236
+2014,5,Spanish Grand Prix,2014-05-11,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,12,14,0,65,+1 Lap,6,185.645
+2014,5,Spanish Grand Prix,2014-05-11,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,22,15,0,65,+1 Lap,15,183.679
+2014,5,Spanish Grand Prix,2014-05-11,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,13,16,0,65,+1 Lap,12,184.832
+2014,5,Spanish Grand Prix,2014-05-11,sutil,SUT,Adrian Sutil,sauber,Sauber,99,16,17,0,65,+1 Lap,17,183.201
+2014,5,Spanish Grand Prix,2014-05-11,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,18,18,0,64,+2 Laps,20,182.580
+2014,5,Spanish Grand Prix,2014-05-11,chilton,CHI,Max Chilton,marussia,Marussia,4,17,19,0,64,+2 Laps,18,182.614
+2014,5,Spanish Grand Prix,2014-05-11,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,19,20,0,64,+2 Laps,22,179.517
+2014,5,Spanish Grand Prix,2014-05-11,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,20,21,0,34,Brakes,21,180.069
+2014,5,Spanish Grand Prix,2014-05-11,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,21,22,0,24,Exhaust,19,182.586
+2014,6,Monaco Grand Prix,2014-05-25,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,1,25,78,Finished,4,151.388
+2014,6,Monaco Grand Prix,2014-05-25,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,18,78,Finished,3,151.510
+2014,6,Monaco Grand Prix,2014-05-25,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,3,3,15,78,Finished,2,151.718
+2014,6,Monaco Grand Prix,2014-05-25,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,5,4,12,78,Finished,5,150.814
+2014,6,Monaco Grand Prix,2014-05-25,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,11,5,10,77,+1 Lap,9,148.872
+2014,6,Monaco Grand Prix,2014-05-25,button,BUT,Jenson Button,mclaren,McLaren,22,12,6,8,77,+1 Lap,12,148.358
+2014,6,Monaco Grand Prix,2014-05-25,massa,MAS,Felipe Massa,williams,Williams,19,16,7,6,77,+1 Lap,6,149.712
+2014,6,Monaco Grand Prix,2014-05-25,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,14,8,4,77,+1 Lap,11,148.482
+2014,6,Monaco Grand Prix,2014-05-25,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,21,9,2,77,+1 Lap,16,147.980
+2014,6,Monaco Grand Prix,2014-05-25,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,8,10,1,77,+1 Lap,8,149.075
+2014,6,Monaco Grand Prix,2014-05-25,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,22,11,0,77,+1 Lap,10,148.607
+2014,6,Monaco Grand Prix,2014-05-25,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,6,12,0,77,+1 Lap,1,153.212
+2014,6,Monaco Grand Prix,2014-05-25,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,20,13,0,75,+2 Laps,19,145.878
+2014,6,Monaco Grand Prix,2014-05-25,chilton,CHI,Max Chilton,marussia,Marussia,4,19,14,0,75,+3 Laps,7,149.220
+2014,6,Monaco Grand Prix,2014-05-25,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,17,15,0,59,Accident,15,148.177
+2014,6,Monaco Grand Prix,2014-05-25,bottas,BOT,Valtteri Bottas,williams,Williams,77,13,16,0,55,Engine,14,148.252
+2014,6,Monaco Grand Prix,2014-05-25,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,7,17,0,50,Engine,13,148.292
+2014,6,Monaco Grand Prix,2014-05-25,sutil,SUT,Adrian Sutil,sauber,Sauber,99,18,18,0,23,Accident,17,147.062
+2014,6,Monaco Grand Prix,2014-05-25,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,9,19,0,10,Mechanical,18,146.614
+2014,6,Monaco Grand Prix,2014-05-25,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,4,20,0,5,Turbo,20,100.615
+2014,6,Monaco Grand Prix,2014-05-25,perez,PER,Sergio Pérez,force_india,Force India,11,10,21,0,0,Collision,,
+2014,6,Monaco Grand Prix,2014-05-25,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,15,22,0,0,Withdrew,,
+2014,7,Canadian Grand Prix,2014-06-08,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,6,1,25,70,Finished,4,199.638
+2014,7,Canadian Grand Prix,2014-06-08,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,2,18,70,Finished,7,199.028
+2014,7,Canadian Grand Prix,2014-06-08,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,3,15,70,Finished,10,198.299
+2014,7,Canadian Grand Prix,2014-06-08,button,BUT,Jenson Button,mclaren,McLaren,22,9,4,12,70,Finished,5,199.337
+2014,7,Canadian Grand Prix,2014-06-08,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,11,5,10,70,Finished,8,198.890
+2014,7,Canadian Grand Prix,2014-06-08,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,7,6,8,70,Finished,3,199.704
+2014,7,Canadian Grand Prix,2014-06-08,bottas,BOT,Valtteri Bottas,williams,Williams,77,4,7,6,70,Finished,11,197.924
+2014,7,Canadian Grand Prix,2014-06-08,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,8,8,4,70,Finished,12,197.730
+2014,7,Canadian Grand Prix,2014-06-08,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,12,9,2,70,Finished,6,199.185
+2014,7,Canadian Grand Prix,2014-06-08,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,10,10,1,70,Finished,2,199.921
+2014,7,Canadian Grand Prix,2014-06-08,perez,PER,Sergio Pérez,force_india,Force India,11,13,11,0,69,Collision,13,197.501
+2014,7,Canadian Grand Prix,2014-06-08,massa,MAS,Felipe Massa,williams,Williams,19,5,12,0,69,Collision,1,199.984
+2014,7,Canadian Grand Prix,2014-06-08,sutil,SUT,Adrian Sutil,sauber,Sauber,99,16,13,0,69,+1 Lap,17,195.692
+2014,7,Canadian Grand Prix,2014-06-08,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,22,14,0,64,ERS,16,195.970
+2014,7,Canadian Grand Prix,2014-06-08,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,14,15,0,59,Rear wing,14,197.107
+2014,7,Canadian Grand Prix,2014-06-08,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,15,16,0,47,Drivetrain,15,196.298
+2014,7,Canadian Grand Prix,2014-06-08,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,17,0,46,Brakes,9,198.875
+2014,7,Canadian Grand Prix,2014-06-08,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,21,18,0,23,Suspension,19,188.856
+2014,7,Canadian Grand Prix,2014-06-08,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,17,19,0,21,Power Unit,18,192.600
+2014,7,Canadian Grand Prix,2014-06-08,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,20,20,0,7,Turbo,20,141.385
+2014,7,Canadian Grand Prix,2014-06-08,chilton,CHI,Max Chilton,marussia,Marussia,4,18,21,0,0,Collision,,
+2014,7,Canadian Grand Prix,2014-06-08,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,19,22,0,0,Collision,,
+2014,8,Austrian Grand Prix,2014-06-22,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,3,1,25,71,Finished,6,214.518
+2014,8,Austrian Grand Prix,2014-06-22,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,9,2,18,71,Finished,2,215.650
+2014,8,Austrian Grand Prix,2014-06-22,bottas,BOT,Valtteri Bottas,williams,Williams,77,2,3,15,71,Finished,3,214.568
+2014,8,Austrian Grand Prix,2014-06-22,massa,MAS,Felipe Massa,williams,Williams,19,1,4,12,71,Finished,4,214.553
+2014,8,Austrian Grand Prix,2014-06-22,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,4,5,10,71,Finished,5,214.527
+2014,8,Austrian Grand Prix,2014-06-22,perez,PER,Sergio Pérez,force_india,Force India,11,15,6,8,71,Finished,1,215.874
+2014,8,Austrian Grand Prix,2014-06-22,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,6,7,6,71,Finished,7,214.081
+2014,8,Austrian Grand Prix,2014-06-22,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,8,4,71,Finished,10,213.161
+2014,8,Austrian Grand Prix,2014-06-22,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,10,9,2,71,Finished,11,212.882
+2014,8,Austrian Grand Prix,2014-06-22,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,8,10,1,71,Finished,9,213.676
+2014,8,Austrian Grand Prix,2014-06-22,button,BUT,Jenson Button,mclaren,McLaren,22,11,11,0,71,Finished,8,213.752
+2014,8,Austrian Grand Prix,2014-06-22,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,13,12,0,70,+1 Lap,12,212.791
+2014,8,Austrian Grand Prix,2014-06-22,sutil,SUT,Adrian Sutil,sauber,Sauber,99,16,13,0,70,+1 Lap,14,211.284
+2014,8,Austrian Grand Prix,2014-06-22,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,22,14,0,70,+1 Lap,15,210.587
+2014,8,Austrian Grand Prix,2014-06-22,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,18,15,0,69,+2 Laps,19,209.108
+2014,8,Austrian Grand Prix,2014-06-22,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,19,16,0,69,+2 Laps,22,206.892
+2014,8,Austrian Grand Prix,2014-06-22,chilton,CHI,Max Chilton,marussia,Marussia,4,21,17,0,69,+2 Laps,21,208.072
+2014,8,Austrian Grand Prix,2014-06-22,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,20,18,0,69,+2 Laps,20,208.560
+2014,8,Austrian Grand Prix,2014-06-22,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,17,19,0,69,+2 Laps,16,210.351
+2014,8,Austrian Grand Prix,2014-06-22,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,14,20,0,59,Brakes,13,212.414
+2014,8,Austrian Grand Prix,2014-06-22,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,12,21,0,34,Electrical,17,209.734
+2014,8,Austrian Grand Prix,2014-06-22,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,7,22,0,24,Suspension,18,209.514
+2014,9,British Grand Prix,2014-07-06,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,6,1,25,52,Finished,1,218.239
+2014,9,British Grand Prix,2014-07-06,bottas,BOT,Valtteri Bottas,williams,Williams,77,14,2,18,52,Finished,4,215.822
+2014,9,British Grand Prix,2014-07-06,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,8,3,15,52,Finished,7,215.395
+2014,9,British Grand Prix,2014-07-06,button,BUT,Jenson Button,mclaren,McLaren,22,3,4,12,52,Finished,5,215.778
+2014,9,British Grand Prix,2014-07-06,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,5,10,52,Finished,2,217.556
+2014,9,British Grand Prix,2014-07-06,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,16,6,8,52,Finished,8,215.115
+2014,9,British Grand Prix,2014-07-06,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,5,7,6,52,Finished,10,214.919
+2014,9,British Grand Prix,2014-07-06,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,4,8,4,52,Finished,9,215.032
+2014,9,British Grand Prix,2014-07-06,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,9,9,2,52,Finished,6,215.509
+2014,9,British Grand Prix,2014-07-06,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,10,10,1,51,+1 Lap,13,213.654
+2014,9,British Grand Prix,2014-07-06,perez,PER,Sergio Pérez,force_india,Force India,11,7,11,0,51,+1 Lap,11,214.834
+2014,9,British Grand Prix,2014-07-06,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,11,12,0,51,+1 Lap,12,214.393
+2014,9,British Grand Prix,2014-07-06,sutil,SUT,Adrian Sutil,sauber,Sauber,99,13,13,0,51,+1 Lap,15,211.989
+2014,9,British Grand Prix,2014-07-06,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,12,14,0,51,+1 Lap,14,212.158
+2014,9,British Grand Prix,2014-07-06,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,22,15,0,50,+2 Laps,18,209.020
+2014,9,British Grand Prix,2014-07-06,chilton,CHI,Max Chilton,marussia,Marussia,4,17,16,0,50,+2 Laps,17,211.233
+2014,9,British Grand Prix,2014-07-06,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,20,17,0,49,+3 Laps,16,211.412
+2014,9,British Grand Prix,2014-07-06,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,18,0,28,Gearbox,3,216.203
+2014,9,British Grand Prix,2014-07-06,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,21,19,0,11,Suspension,20,203.295
+2014,9,British Grand Prix,2014-07-06,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,19,20,0,9,Collision,19,206.770
+2014,9,British Grand Prix,2014-07-06,massa,MAS,Felipe Massa,williams,Williams,19,15,21,0,0,Collision,,
+2014,9,British Grand Prix,2014-07-06,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,18,22,0,0,Collision,,
+2014,10,German Grand Prix,2014-07-20,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,1,25,67,Finished,6,202.543
+2014,10,German Grand Prix,2014-07-20,bottas,BOT,Valtteri Bottas,williams,Williams,77,2,2,18,67,Finished,9,202.056
+2014,10,German Grand Prix,2014-07-20,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,20,3,15,67,Finished,1,206.066
+2014,10,German Grand Prix,2014-07-20,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,6,4,12,67,Finished,10,201.930
+2014,10,German Grand Prix,2014-07-20,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,7,5,10,67,Finished,3,204.429
+2014,10,German Grand Prix,2014-07-20,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,6,8,67,Finished,5,203.676
+2014,10,German Grand Prix,2014-07-20,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,9,7,6,67,Finished,13,200.570
+2014,10,German Grand Prix,2014-07-20,button,BUT,Jenson Button,mclaren,McLaren,22,11,8,4,67,Finished,8,202.424
+2014,10,German Grand Prix,2014-07-20,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,4,9,2,66,+1 Lap,2,205.255
+2014,10,German Grand Prix,2014-07-20,perez,PER,Sergio Pérez,force_india,Force India,11,10,10,1,66,+1 Lap,4,203.913
+2014,10,German Grand Prix,2014-07-20,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,12,11,0,66,+1 Lap,7,202.444
+2014,10,German Grand Prix,2014-07-20,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,18,12,0,66,+1 Lap,15,200.065
+2014,10,German Grand Prix,2014-07-20,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,13,13,0,66,+1 Lap,11,201.113
+2014,10,German Grand Prix,2014-07-20,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,16,14,0,66,+1 Lap,12,200.790
+2014,10,German Grand Prix,2014-07-20,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,17,15,0,66,+1 Lap,16,199.539
+2014,10,German Grand Prix,2014-07-20,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,19,16,0,65,+2 Laps,18,198.711
+2014,10,German Grand Prix,2014-07-20,chilton,CHI,Max Chilton,marussia,Marussia,4,21,17,0,65,+2 Laps,19,198.306
+2014,10,German Grand Prix,2014-07-20,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,22,18,0,65,+2 Laps,20,197.842
+2014,10,German Grand Prix,2014-07-20,sutil,SUT,Adrian Sutil,sauber,Sauber,99,15,19,0,47,Brakes,17,199.522
+2014,10,German Grand Prix,2014-07-20,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,8,20,0,44,Oil leak,14,200.372
+2014,10,German Grand Prix,2014-07-20,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,14,21,0,26,Water leak,21,195.709
+2014,10,German Grand Prix,2014-07-20,massa,MAS,Felipe Massa,williams,Williams,19,3,22,0,0,Collision,,
+2014,11,Hungarian Grand Prix,2014-07-27,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,4,1,25,70,Finished,2,182.103
+2014,11,Hungarian Grand Prix,2014-07-27,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,5,2,18,70,Finished,5,180.413
+2014,11,Hungarian Grand Prix,2014-07-27,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,22,3,15,70,Finished,4,180.494
+2014,11,Hungarian Grand Prix,2014-07-27,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,4,12,70,Finished,1,183.981
+2014,11,Hungarian Grand Prix,2014-07-27,massa,MAS,Felipe Massa,williams,Williams,19,6,5,10,70,Finished,7,178.757
+2014,11,Hungarian Grand Prix,2014-07-27,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,16,6,8,70,Finished,6,179.257
+2014,11,Hungarian Grand Prix,2014-07-27,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,2,7,6,70,Finished,9,177.716
+2014,11,Hungarian Grand Prix,2014-07-27,bottas,BOT,Valtteri Bottas,williams,Williams,77,3,8,4,70,Finished,3,181.595
+2014,11,Hungarian Grand Prix,2014-07-27,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,8,9,2,70,Finished,11,176.970
+2014,11,Hungarian Grand Prix,2014-07-27,button,BUT,Jenson Button,mclaren,McLaren,22,7,10,1,70,Finished,13,176.898
+2014,11,Hungarian Grand Prix,2014-07-27,sutil,SUT,Adrian Sutil,sauber,Sauber,99,11,11,0,70,Finished,8,177.800
+2014,11,Hungarian Grand Prix,2014-07-27,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,21,12,0,70,Finished,10,177.442
+2014,11,Hungarian Grand Prix,2014-07-27,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,20,13,0,70,Finished,12,176.954
+2014,11,Hungarian Grand Prix,2014-07-27,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,10,14,0,69,+1 Lap,14,176.414
+2014,11,Hungarian Grand Prix,2014-07-27,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,15,15,0,69,+1 Lap,16,175.468
+2014,11,Hungarian Grand Prix,2014-07-27,chilton,CHI,Max Chilton,marussia,Marussia,4,18,16,0,69,+1 Lap,15,176.220
+2014,11,Hungarian Grand Prix,2014-07-27,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,13,17,0,33,Retired,18,174.300
+2014,11,Hungarian Grand Prix,2014-07-27,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,17,18,0,26,Retired,19,169.791
+2014,11,Hungarian Grand Prix,2014-07-27,perez,PER,Sergio Pérez,force_india,Force India,11,12,19,0,23,Accident,17,174.696
+2014,11,Hungarian Grand Prix,2014-07-27,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,9,20,0,16,Accident,20,155.921
+2014,11,Hungarian Grand Prix,2014-07-27,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,14,21,0,11,Accident,21,148.352
+2014,11,Hungarian Grand Prix,2014-07-27,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,19,22,0,8,Accident,22,145.415
+2014,12,Belgian Grand Prix,2014-08-24,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,1,25,44,Finished,6,223.187
+2014,12,Belgian Grand Prix,2014-08-24,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,2,18,44,Finished,1,228.161
+2014,12,Belgian Grand Prix,2014-08-24,bottas,BOT,Valtteri Bottas,williams,Williams,77,6,3,15,44,Finished,4,223.698
+2014,12,Belgian Grand Prix,2014-08-24,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,8,4,12,44,Finished,13,221.004
+2014,12,Belgian Grand Prix,2014-08-24,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,3,5,10,44,Finished,5,223.229
+2014,12,Belgian Grand Prix,2014-08-24,button,BUT,Jenson Button,mclaren,McLaren,22,10,6,8,44,Finished,8,222.186
+2014,12,Belgian Grand Prix,2014-08-24,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,4,7,6,44,Finished,11,221.413
+2014,12,Belgian Grand Prix,2014-08-24,perez,PER,Sergio Pérez,force_india,Force India,11,13,8,4,44,Finished,16,220.151
+2014,12,Belgian Grand Prix,2014-08-24,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,11,9,2,44,Finished,14,220.870
+2014,12,Belgian Grand Prix,2014-08-24,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,18,10,1,44,Finished,9,221.934
+2014,12,Belgian Grand Prix,2014-08-24,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,12,11,0,44,Finished,7,222.592
+2014,12,Belgian Grand Prix,2014-08-24,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,7,12,0,44,Finished,15,220.785
+2014,12,Belgian Grand Prix,2014-08-24,massa,MAS,Felipe Massa,williams,Williams,19,9,13,0,44,Finished,3,224.104
+2014,12,Belgian Grand Prix,2014-08-24,sutil,SUT,Adrian Sutil,sauber,Sauber,99,14,14,0,44,Finished,2,224.301
+2014,12,Belgian Grand Prix,2014-08-24,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,20,15,0,44,Finished,12,221.178
+2014,12,Belgian Grand Prix,2014-08-24,chilton,CHI,Max Chilton,marussia,Marussia,4,19,16,0,43,+1 Lap,17,218.785
+2014,12,Belgian Grand Prix,2014-08-24,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,22,17,0,43,+1 Lap,19,217.553
+2014,12,Belgian Grand Prix,2014-08-24,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,16,18,0,39,Gearbox,20,216.717
+2014,12,Belgian Grand Prix,2014-08-24,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,19,0,38,Retired,10,221.748
+2014,12,Belgian Grand Prix,2014-08-24,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,15,20,0,33,Retired,18,218.025
+2014,12,Belgian Grand Prix,2014-08-24,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,17,21,0,1,Mechanical,,
+2014,12,Belgian Grand Prix,2014-08-24,lotterer,LOT,André Lotterer,caterham,Caterham,45,21,22,0,1,Power Unit,,
+2014,13,Italian Grand Prix,2014-09-07,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,53,Finished,1,236.975
+2014,13,Italian Grand Prix,2014-09-07,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,2,2,18,53,Finished,2,236.432
+2014,13,Italian Grand Prix,2014-09-07,massa,MAS,Felipe Massa,williams,Williams,19,4,3,15,53,Finished,3,236.068
+2014,13,Italian Grand Prix,2014-09-07,bottas,BOT,Valtteri Bottas,williams,Williams,77,3,4,12,53,Finished,5,235.490
+2014,13,Italian Grand Prix,2014-09-07,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,9,5,10,53,Finished,6,235.413
+2014,13,Italian Grand Prix,2014-09-07,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,8,6,8,53,Finished,10,233.952
+2014,13,Italian Grand Prix,2014-09-07,perez,PER,Sergio Pérez,force_india,Force India,11,10,7,6,53,Finished,8,234.042
+2014,13,Italian Grand Prix,2014-09-07,button,BUT,Jenson Button,mclaren,McLaren,22,6,8,4,53,Finished,11,233.680
+2014,13,Italian Grand Prix,2014-09-07,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,11,9,2,53,Finished,7,234.476
+2014,13,Italian Grand Prix,2014-09-07,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,5,10,1,53,Finished,12,233.580
+2014,13,Italian Grand Prix,2014-09-07,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,21,11,0,53,Finished,4,235.684
+2014,13,Italian Grand Prix,2014-09-07,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,13,12,0,53,Finished,13,233.363
+2014,13,Italian Grand Prix,2014-09-07,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,12,13,0,53,Finished,9,234.005
+2014,13,Italian Grand Prix,2014-09-07,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,16,14,0,52,+1 Lap,17,232.091
+2014,13,Italian Grand Prix,2014-09-07,sutil,SUT,Adrian Sutil,sauber,Sauber,99,14,15,0,52,+1 Lap,14,233.340
+2014,13,Italian Grand Prix,2014-09-07,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,17,16,0,52,+1 Lap,18,231.506
+2014,13,Italian Grand Prix,2014-09-07,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,18,17,0,52,+1 Lap,21,229.784
+2014,13,Italian Grand Prix,2014-09-07,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,19,18,0,52,+1 Lap,20,230.386
+2014,13,Italian Grand Prix,2014-09-07,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,15,19,0,51,+2 Laps,15,233.147
+2014,13,Italian Grand Prix,2014-09-07,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,22,20,0,51,+2 Laps,19,231.001
+2014,13,Italian Grand Prix,2014-09-07,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,7,21,0,28,Engine,16,232.546
+2014,13,Italian Grand Prix,2014-09-07,chilton,CHI,Max Chilton,marussia,Marussia,4,20,22,0,5,Accident,22,225.289
+2014,14,Singapore Grand Prix,2014-09-21,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,60,Finished,1,165.137
+2014,14,Singapore Grand Prix,2014-09-21,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,4,2,18,60,Finished,8,162.052
+2014,14,Singapore Grand Prix,2014-09-21,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,3,3,15,60,Finished,9,161.980
+2014,14,Singapore Grand Prix,2014-09-21,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,5,4,12,60,Finished,6,162.636
+2014,14,Singapore Grand Prix,2014-09-21,massa,MAS,Felipe Massa,williams,Williams,19,6,5,10,60,Finished,13,160.959
+2014,14,Singapore Grand Prix,2014-09-21,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,12,6,8,60,Finished,4,162.895
+2014,14,Singapore Grand Prix,2014-09-21,perez,PER,Sergio Pérez,force_india,Force India,11,15,7,6,60,Finished,5,162.793
+2014,14,Singapore Grand Prix,2014-09-21,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,7,8,4,60,Finished,11,161.545
+2014,14,Singapore Grand Prix,2014-09-21,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,13,9,2,60,Finished,10,161.703
+2014,14,Singapore Grand Prix,2014-09-21,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,9,10,1,60,Finished,2,163.330
+2014,14,Singapore Grand Prix,2014-09-21,bottas,BOT,Valtteri Bottas,williams,Williams,77,8,11,0,60,Finished,7,162.058
+2014,14,Singapore Grand Prix,2014-09-21,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,18,12,0,60,Finished,12,161.059
+2014,14,Singapore Grand Prix,2014-09-21,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,16,13,0,60,Finished,15,160.591
+2014,14,Singapore Grand Prix,2014-09-21,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,10,14,0,60,Finished,3,163.151
+2014,14,Singapore Grand Prix,2014-09-21,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,22,15,0,60,Finished,19,157.985
+2014,14,Singapore Grand Prix,2014-09-21,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,19,16,0,60,Finished,14,160.598
+2014,14,Singapore Grand Prix,2014-09-21,chilton,CHI,Max Chilton,marussia,Marussia,4,21,17,0,59,+1 Lap,17,160.218
+2014,14,Singapore Grand Prix,2014-09-21,button,BUT,Jenson Button,mclaren,McLaren,22,11,18,0,52,Retired,16,160.359
+2014,14,Singapore Grand Prix,2014-09-21,sutil,SUT,Adrian Sutil,sauber,Sauber,99,17,19,0,40,Water pressure,18,160.020
+2014,14,Singapore Grand Prix,2014-09-21,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,14,20,0,17,Electrical,20,157.619
+2014,14,Singapore Grand Prix,2014-09-21,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,2,21,0,13,Electrical,21,156.154
+2014,14,Singapore Grand Prix,2014-09-21,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,20,22,0,0,Power Unit,,
+2014,15,Japanese Grand Prix,2014-10-05,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,1,25,44,Finished,1,187.322
+2014,15,Japanese Grand Prix,2014-10-05,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,2,18,44,Finished,6,185.739
+2014,15,Japanese Grand Prix,2014-10-05,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,9,3,15,44,Finished,3,186.795
+2014,15,Japanese Grand Prix,2014-10-05,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,6,4,12,44,Finished,4,186.269
+2014,15,Japanese Grand Prix,2014-10-05,button,BUT,Jenson Button,mclaren,McLaren,22,8,5,10,44,Finished,2,187.119
+2014,15,Japanese Grand Prix,2014-10-05,bottas,BOT,Valtteri Bottas,williams,Williams,77,3,6,8,44,Finished,13,183.213
+2014,15,Japanese Grand Prix,2014-10-05,massa,MAS,Felipe Massa,williams,Williams,19,4,7,6,44,Finished,8,184.267
+2014,15,Japanese Grand Prix,2014-10-05,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,13,8,4,44,Finished,7,185.306
+2014,15,Japanese Grand Prix,2014-10-05,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,20,9,2,44,Finished,11,184.086
+2014,15,Japanese Grand Prix,2014-10-05,perez,PER,Sergio Pérez,force_india,Force India,11,11,10,1,43,+1 Lap,10,184.095
+2014,15,Japanese Grand Prix,2014-10-05,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,12,11,0,43,+1 Lap,12,183.345
+2014,15,Japanese Grand Prix,2014-10-05,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,10,12,0,43,+1 Lap,5,185.946
+2014,15,Japanese Grand Prix,2014-10-05,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,15,13,0,43,+1 Lap,17,181.198
+2014,15,Japanese Grand Prix,2014-10-05,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,7,14,0,43,+1 Lap,9,184.170
+2014,15,Japanese Grand Prix,2014-10-05,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,16,15,0,43,+1 Lap,16,181.308
+2014,15,Japanese Grand Prix,2014-10-05,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,22,16,0,43,+1 Lap,15,182.256
+2014,15,Japanese Grand Prix,2014-10-05,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,17,17,0,43,+1 Lap,14,182.309
+2014,15,Japanese Grand Prix,2014-10-05,chilton,CHI,Max Chilton,marussia,Marussia,4,21,18,0,43,+1 Lap,21,179.486
+2014,15,Japanese Grand Prix,2014-10-05,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,19,19,0,43,+1 Lap,18,180.776
+2014,15,Japanese Grand Prix,2014-10-05,jules_bianchi,BIA,Jules Bianchi,marussia,Marussia,17,18,20,0,41,Accident,20,180.240
+2014,15,Japanese Grand Prix,2014-10-05,sutil,SUT,Adrian Sutil,sauber,Sauber,99,14,21,0,40,Accident,19,180.601
+2014,15,Japanese Grand Prix,2014-10-05,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,5,22,0,2,Electronics,,
+2014,16,Russian Grand Prix,2014-10-12,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,1,1,25,53,Finished,3,207.200
+2014,16,Russian Grand Prix,2014-10-12,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,2,2,18,53,Finished,2,207.703
+2014,16,Russian Grand Prix,2014-10-12,bottas,BOT,Valtteri Bottas,williams,Williams,77,3,3,15,53,Finished,1,208.658
+2014,16,Russian Grand Prix,2014-10-12,button,BUT,Jenson Button,mclaren,McLaren,22,4,4,12,53,Finished,4,206.472
+2014,16,Russian Grand Prix,2014-10-12,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,11,5,10,53,Finished,14,204.245
+2014,16,Russian Grand Prix,2014-10-12,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,7,6,8,53,Finished,6,206.038
+2014,16,Russian Grand Prix,2014-10-12,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,6,7,6,53,Finished,13,204.296
+2014,16,Russian Grand Prix,2014-10-12,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,10,8,4,53,Finished,8,205.133
+2014,16,Russian Grand Prix,2014-10-12,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,8,9,2,53,Finished,11,204.556
+2014,16,Russian Grand Prix,2014-10-12,perez,PER,Sergio Pérez,force_india,Force India,11,12,10,1,53,Finished,12,204.547
+2014,16,Russian Grand Prix,2014-10-12,massa,MAS,Felipe Massa,williams,Williams,19,18,11,0,53,Finished,10,204.636
+2014,16,Russian Grand Prix,2014-10-12,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,17,12,0,53,Finished,9,205.023
+2014,16,Russian Grand Prix,2014-10-12,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,9,13,0,53,Finished,7,205.293
+2014,16,Russian Grand Prix,2014-10-12,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,5,14,0,52,+1 Lap,5,206.355
+2014,16,Russian Grand Prix,2014-10-12,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,13,15,0,52,+1 Lap,18,202.284
+2014,16,Russian Grand Prix,2014-10-12,sutil,SUT,Adrian Sutil,sauber,Sauber,99,14,16,0,52,+1 Lap,15,202.777
+2014,16,Russian Grand Prix,2014-10-12,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,15,17,0,52,+1 Lap,19,201.537
+2014,16,Russian Grand Prix,2014-10-12,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,21,18,0,52,+1 Lap,17,202.372
+2014,16,Russian Grand Prix,2014-10-12,ericsson,ERI,Marcus Ericsson,caterham,Caterham,9,16,19,0,51,+2 Laps,16,202.471
+2014,16,Russian Grand Prix,2014-10-12,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,19,20,0,21,Brakes,20,196.009
+2014,16,Russian Grand Prix,2014-10-12,chilton,CHI,Max Chilton,marussia,Marussia,4,20,21,0,9,Suspension,21,194.450
+2014,17,United States Grand Prix,2014-11-02,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,1,25,56,Finished,4,194.712
+2014,17,United States Grand Prix,2014-11-02,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,2,18,56,Finished,5,194.706
+2014,17,United States Grand Prix,2014-11-02,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,5,3,15,56,Finished,7,193.004
+2014,17,United States Grand Prix,2014-11-02,massa,MAS,Felipe Massa,williams,Williams,19,4,4,12,56,Finished,9,192.741
+2014,17,United States Grand Prix,2014-11-02,bottas,BOT,Valtteri Bottas,williams,Williams,77,3,5,10,56,Finished,6,193.617
+2014,17,United States Grand Prix,2014-11-02,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,6,6,8,56,Finished,2,195.585
+2014,17,United States Grand Prix,2014-11-02,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,18,7,6,56,Finished,1,195.768
+2014,17,United States Grand Prix,2014-11-02,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,7,8,4,56,Finished,14,190.309
+2014,17,United States Grand Prix,2014-11-02,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,10,9,2,56,Finished,11,191.187
+2014,17,United States Grand Prix,2014-11-02,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,14,10,1,56,Finished,12,190.504
+2014,17,United States Grand Prix,2014-11-02,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,16,11,0,55,+1 Lap,15,190.030
+2014,17,United States Grand Prix,2014-11-02,button,BUT,Jenson Button,mclaren,McLaren,22,12,12,0,55,+1 Lap,13,190.367
+2014,17,United States Grand Prix,2014-11-02,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,8,13,0,55,+1 Lap,8,192.897
+2014,17,United States Grand Prix,2014-11-02,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,15,14,0,55,+1 Lap,10,192.676
+2014,17,United States Grand Prix,2014-11-02,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,17,15,0,55,+1 Lap,3,195.171
+2014,17,United States Grand Prix,2014-11-02,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,13,16,0,16,Engine,16,186.835
+2014,17,United States Grand Prix,2014-11-02,perez,PER,Sergio Pérez,force_india,Force India,11,11,17,0,1,Collision damage,,
+2014,17,United States Grand Prix,2014-11-02,sutil,SUT,Adrian Sutil,sauber,Sauber,99,9,18,0,0,Collision,,
+2014,18,Brazilian Grand Prix,2014-11-09,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,1,25,71,Finished,2,210.711
+2014,18,Brazilian Grand Prix,2014-11-09,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,2,18,71,Finished,1,210.895
+2014,18,Brazilian Grand Prix,2014-11-09,massa,MAS,Felipe Massa,williams,Williams,19,3,3,15,71,Finished,7,209.341
+2014,18,Brazilian Grand Prix,2014-11-09,button,BUT,Jenson Button,mclaren,McLaren,22,5,4,12,71,Finished,4,209.629
+2014,18,Brazilian Grand Prix,2014-11-09,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,6,5,10,71,Finished,5,209.576
+2014,18,Brazilian Grand Prix,2014-11-09,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,8,6,8,71,Finished,10,208.744
+2014,18,Brazilian Grand Prix,2014-11-09,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,10,7,6,71,Finished,17,206.934
+2014,18,Brazilian Grand Prix,2014-11-09,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,12,8,4,71,Finished,3,210.400
+2014,18,Brazilian Grand Prix,2014-11-09,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,7,9,2,71,Finished,11,208.097
+2014,18,Brazilian Grand Prix,2014-11-09,bottas,BOT,Valtteri Bottas,williams,Williams,77,4,10,1,70,+1 Lap,9,208.980
+2014,18,Brazilian Grand Prix,2014-11-09,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,17,11,0,70,+1 Lap,8,209.219
+2014,18,Brazilian Grand Prix,2014-11-09,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,16,12,0,70,+1 Lap,14,207.357
+2014,18,Brazilian Grand Prix,2014-11-09,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,15,13,0,70,+1 Lap,13,207.457
+2014,18,Brazilian Grand Prix,2014-11-09,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,11,14,0,70,+1 Lap,16,207.177
+2014,18,Brazilian Grand Prix,2014-11-09,perez,PER,Sergio Pérez,force_india,Force India,11,18,15,0,70,+1 Lap,12,208.080
+2014,18,Brazilian Grand Prix,2014-11-09,sutil,SUT,Adrian Sutil,sauber,Sauber,99,13,16,0,70,+1 Lap,15,207.290
+2014,18,Brazilian Grand Prix,2014-11-09,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,14,17,0,63,+8 Laps,6,209.428
+2014,18,Brazilian Grand Prix,2014-11-09,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,9,18,0,39,Suspension,18,205.770
+2014,19,Abu Dhabi Grand Prix,2014-11-23,hamilton,HAM,Lewis Hamilton,mercedes,Mercedes,44,2,1,50,55,Finished,4,189.342
+2014,19,Abu Dhabi Grand Prix,2014-11-23,massa,MAS,Felipe Massa,williams,Williams,19,4,2,36,55,Finished,2,190.738
+2014,19,Abu Dhabi Grand Prix,2014-11-23,bottas,BOT,Valtteri Bottas,williams,Williams,77,3,3,30,55,Finished,6,189.113
+2014,19,Abu Dhabi Grand Prix,2014-11-23,ricciardo,RIC,Daniel Ricciardo,red_bull,Red Bull,3,20,4,24,55,Finished,1,191.341
+2014,19,Abu Dhabi Grand Prix,2014-11-23,button,BUT,Jenson Button,mclaren,McLaren,22,6,5,20,55,Finished,9,187.320
+2014,19,Abu Dhabi Grand Prix,2014-11-23,hulkenberg,HUL,Nico Hülkenberg,force_india,Force India,27,12,6,16,55,Finished,7,189.024
+2014,19,Abu Dhabi Grand Prix,2014-11-23,perez,PER,Sergio Pérez,force_india,Force India,11,11,7,12,55,Finished,8,188.968
+2014,19,Abu Dhabi Grand Prix,2014-11-23,vettel,VET,Sebastian Vettel,red_bull,Red Bull,1,19,8,8,55,Finished,3,189.427
+2014,19,Abu Dhabi Grand Prix,2014-11-23,alonso,ALO,Fernando Alonso,ferrari,Ferrari,14,8,9,4,55,Finished,12,186.126
+2014,19,Abu Dhabi Grand Prix,2014-11-23,raikkonen,RAI,Kimi Räikkönen,ferrari,Ferrari,7,7,10,2,55,Finished,16,185.586
+2014,19,Abu Dhabi Grand Prix,2014-11-23,kevin_magnussen,MAG,Kevin Magnussen,mclaren,McLaren,20,9,11,0,55,Finished,10,187.171
+2014,19,Abu Dhabi Grand Prix,2014-11-23,vergne,VER,Jean-Éric Vergne,toro_rosso,Toro Rosso,25,10,12,0,55,Finished,5,189.186
+2014,19,Abu Dhabi Grand Prix,2014-11-23,grosjean,GRO,Romain Grosjean,lotus_f1,Lotus F1,8,18,13,0,54,+1 Lap,17,185.310
+2014,19,Abu Dhabi Grand Prix,2014-11-23,rosberg,ROS,Nico Rosberg,mercedes,Mercedes,6,1,14,0,54,+1 Lap,11,187.092
+2014,19,Abu Dhabi Grand Prix,2014-11-23,gutierrez,GUT,Esteban Gutiérrez,sauber,Sauber,21,14,15,0,54,+1 Lap,15,185.652
+2014,19,Abu Dhabi Grand Prix,2014-11-23,sutil,SUT,Adrian Sutil,sauber,Sauber,99,13,16,0,54,+1 Lap,14,185.980
+2014,19,Abu Dhabi Grand Prix,2014-11-23,stevens,STE,Will Stevens,caterham,Caterham,46,17,17,0,54,+1 Lap,18,184.453
+2014,19,Abu Dhabi Grand Prix,2014-11-23,kobayashi,KOB,Kamui Kobayashi,caterham,Caterham,10,16,18,0,42,Retired,13,186.113
+2014,19,Abu Dhabi Grand Prix,2014-11-23,maldonado,MAL,Pastor Maldonado,lotus_f1,Lotus F1,13,15,19,0,26,Power Unit,20,183.547
+2014,19,Abu Dhabi Grand Prix,2014-11-23,kvyat,KVY,Daniil Kvyat,toro_rosso,Toro Rosso,26,5,20,0,14,Power Unit,19,183.859
