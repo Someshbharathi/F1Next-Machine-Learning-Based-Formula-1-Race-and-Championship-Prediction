@@ -687,12 +687,12 @@ add_table(
     [
         ["R²", "0.4518"],
         ["RMSE", "4.2618"],
-        ["MAE", "3.2128"]
+        ["MAE", "3.3128"]
     ]
 )
 
 doc.add_paragraph(
-    "The MAE of 3.2128 indicates that the predicted finishing position "
+    "The MAE of 3.3128 indicates that the predicted finishing position "
     "differs from the actual finishing position by approximately 3.21 "
     "positions on average on the 2025 test data."
 )
@@ -860,7 +860,7 @@ workflow = [
     "Historical feature engineering",
     "Chronological train/validation/test split",
     "Regression modeling",
-    "Classification Part A modeling",
+    "Classification modeling",
     "Model evaluation",
     "Cross-validation",
     "Hyperparameter tuning",
@@ -891,7 +891,7 @@ add_table(
         ["Regression Cross-Validation", "Completed"],
         ["Regression Hyperparameter Tuning", "Completed"],
         ["Regression Final Test", "Completed"],
-        ["Classification Part A — 5 Models", "Completed"],
+        ["Classification — 5 Models", "Completed"],
         ["Classification Evaluation", "Completed"],
         ["Classification Confusion Matrices", "Completed"],
         ["Classification Final Test", "Completed"],
